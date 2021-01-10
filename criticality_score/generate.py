@@ -138,15 +138,24 @@ def main():
 
     stats = []
     index = 1
+    header = None
     for repo_url in repo_urls:
         output = None
-        for _ in range(3):
-            try:
-                repo = run.get_repository(repo_url)
-                output = run.get_repository_stats(repo)
-                break
-            except Exception as exp:
-                logger.exception(f'Exception occurred when reading repo: {repo_url}\n{exp}')
+        try:
+            for _ in range(3):
+                try:
+                    repo = run.get_repository(repo_url)
+                    output = run.get_repository_stats(repo)
+                    if not header:
+                        header = output.keys()
+                    break
+                except Exception as exp:
+                    if str(exp).startswith('Rate limit exceeded.'):
+                        raise
+                    logger.exception(f'Exception occurred when reading repo: {repo_url}\n{exp}')
+        except Exception as exp:
+            logger.exception(exp)
+            break
         if not output:
             continue
         logger.info(f"{index} - {output['name']} - {output['url']} - {output['criticality_score']}")
@@ -159,7 +168,6 @@ def main():
                                    f'{languages}_top_{args.count}.csv')
     with open(output_filename, 'w') as file_handle:
         csv_writer = csv.writer(file_handle)
-        header = output.keys()
         csv_writer.writerow(header)
         for i in sorted(stats,
                         key=lambda i: i['criticality_score'],

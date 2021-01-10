@@ -491,7 +491,10 @@ def get_github_auth_token():
             _CACHED_GITHUB_TOKEN_OBJ = token_obj
             return token_obj
 
-    print(f'Rate limit exceeded, sleeping till reset: {wait_time} seconds.',
+    wait_time_minutes = round(wait_time / 60, 1)
+    if wait_time_minutes > 60:
+        raise Exception(f'Rate limit exceeded. Wait time is more than 60 minutes ({wait_time_minutes}). Aborting...')
+    print(f'Rate limit exceeded. Sleeping till reset: {wait_time_minutes} minutes.',
           file=sys.stderr)
     time.sleep(wait_time)
     return token_obj
