@@ -1,0 +1,742 @@
+name,url,language,license,stars,created_since,updated_since,contributor_count,org_count,commit_frequency,recent_releases_count,updated_issues_count,closed_issues_count,comment_frequency,dependents_count,criticality_score
+azure-docs,https://github.com/MicrosoftDocs/azure-docs,PowerShell,"License(name=""Other"")",4903,108,0,10602,5,1997.6,0,5904,4562,2.6,79664,0.92966
+test-infra,https://github.com/kubernetes/test-infra,Go,"License(name=""Apache License 2.0"")",2533,66,0,956,2,85.2,0,1248,983,3.9,17146,0.76164
+discourse,https://github.com/discourse/discourse,Ruby,"License(name=""Other"")",32364,98,0,899,1,87.1,45,818,786,0.6,13093,0.75204
+biopython,https://github.com/biopython/biopython,Python,"License(name=""Other"")",2567,257,0,368,6,17.3,3,200,146,2.5,17387,0.74996
+urbit,https://github.com/urbit/urbit,C,"License(name=""MIT License"")",2537,89,0,156,4,86.4,5,778,665,2.7,8874,0.74654
+concourse,https://github.com/concourse/concourse,Go,"License(name=""Apache License 2.0"")",5405,82,0,455,4,35.9,21,334,230,1.4,5857,0.74356
+readthedocs.org,https://github.com/readthedocs/readthedocs.org,Python,"License(name=""MIT License"")",6273,127,0,425,9,28.1,16,359,264,2.0,274,0.73235
+tutorials,https://github.com/eugenp/tutorials,Java,"License(name=""MIT License"")",24448,94,0,1040,5,67.1,0,313,286,0.4,17330,0.73152
+docs,https://github.com/laravel/docs,,"License(name=""MIT License"")",1979,98,0,1948,7,27.6,0,247,245,0.7,4481,0.73049
+docs,https://github.com/dotnet/docs,PowerShell,"License(name=""Other"")",2539,69,0,1791,4,66.6,0,2748,1154,0.5,3067,0.72644
+amp-wp,https://github.com/ampproject/amp-wp,PHP,"License(name=""GNU General Public License v2.0"")",1620,65,0,133,9,84.3,28,457,344,1.9,535,0.72612
+fluent-bit,https://github.com/fluent/fluent-bit,C,"License(name=""Apache License 2.0"")",2461,82,0,210,7,26.2,30,429,183,2.3,976,0.72534
+cartodb,https://github.com/CartoDB/cartodb,JavaScript,"License(name=""BSD 3-Clause ""New"" or ""Revised"" License"")",2466,122,0,208,7,47.0,14,182,150,0.4,4876,0.71869
+ovs,https://github.com/openvswitch/ovs,C,"License(name=""Apache License 2.0"")",2475,140,0,604,8,8.6,11,11,8,0.5,24894,0.7163
+openj9,https://github.com/eclipse/openj9,Java,"License(name=""Other"")",2533,41,0,197,4,37.3,7,1074,718,4.2,1587,0.71168
+grails-core,https://github.com/grails/grails-core,HTML,"License(name=""Apache License 2.0"")",2577,189,0,313,9,5.4,9,109,57,0.8,7207,0.70688
+docs,https://github.com/tensorflow/docs,Jupyter Notebook,"License(name=""Apache License 2.0"")",4223,61,0,952,7,20.0,0,105,82,1.5,6994,0.70495
+mkdocs-material,https://github.com/squidfunk/mkdocs-material,TypeScript,"License(name=""MIT License"")",5357,60,0,98,7,24.1,64,189,179,2.3,2177,0.70409
+AspNetCore.Docs,https://github.com/dotnet/AspNetCore.Docs,C#,"License(name=""Other"")",8398,74,0,1467,6,30.6,13,1254,1049,1.5,21,0.70035
+python-docs-samples,https://github.com/GoogleCloudPlatform/python-docs-samples,Python,"License(name=""Apache License 2.0"")",4686,97,0,366,4,26.4,0,453,415,3.1,3366,0.70035
+docs,https://github.com/github/docs,JavaScript,"License(name=""Other"")",2053,98,0,260,2,30.9,0,1549,1391,2.3,11926,0.699
+ghc,https://github.com/ghc/ghc,Haskell,"License(name=""Other"")",2453,184,0,718,7,34.3,8,2,2,1.5,2816,0.69777
+charts,https://github.com/bitnami/charts,HTML,"License(name=""Other"")",2499,60,0,620,3,72.1,0,1183,933,2.6,984,0.69366
+fsharp,https://github.com/dotnet/fsharp,F#,"License(name=""MIT License"")",2566,83,0,223,6,18.1,15,1331,599,0.9,689,0.69169
+docs,https://github.com/linode/docs,HTML,404-NotFound,1190,79,0,437,4,18.7,88,236,183,0.8,1217,0.69018
+flatpak,https://github.com/flatpak/flatpak,C,"License(name=""GNU Lesser General Public License v2.1"")",2509,74,0,164,5,13.2,19,261,155,1.7,2571,0.6898
+ravendb,https://github.com/ravendb/ravendb,C#,"License(name=""Other"")",2569,163,0,330,6,58.0,1,414,395,0.7,1167,0.68731
+keepalived,https://github.com/acassen/keepalived,C,"License(name=""GNU General Public License v2.0"")",2475,138,0,142,7,10.8,11,89,83,2.9,948,0.6855
+AVideo,https://github.com/WWBN/AVideo,PHP,"License(name=""Other"")",1256,46,0,60,3,51.5,4,684,551,4.3,3463,0.6778
+symfony-docs,https://github.com/symfony/symfony-docs,PHP,"License(name=""Other"")",1829,133,0,2654,11,28.9,7,668,554,1.4,0,0.67379
+wildfly,https://github.com/wildfly/wildfly,Java,"License(name=""GNU Lesser General Public License v2.1"")",2509,130,0,435,3,20.5,7,312,251,1.4,633,0.67363
+eui,https://github.com/elastic/eui,TypeScript,"License(name=""Apache License 2.0"")",2469,49,0,171,3,18.5,14,349,216,3.4,484,0.65646
+dagster,https://github.com/dagster-io/dagster,Python,"License(name=""Apache License 2.0"")",2633,33,0,110,5,66.1,58,766,315,0.8,454,0.65527
+docs,https://github.com/knative/docs,HTML,"License(name=""Other"")",2692,36,0,318,5,11.1,9,323,222,2.8,281,0.65438
+warehouse,https://github.com/pypa/warehouse,Python,"License(name=""Apache License 2.0"")",2574,95,0,285,9,13.2,0,323,243,1.2,544,0.65069
+architecture-center,https://github.com/MicrosoftDocs/architecture-center,PowerShell,"License(name=""Other"")",1159,48,0,543,3,68.6,0,191,122,2.1,846,0.64818
+en.javascript.info,https://github.com/javascript-tutorial/en.javascript.info,HTML,"License(name=""Other"")",13045,76,0,650,4,15.1,0,299,287,1.1,1095,0.6473
+docfx,https://github.com/dotnet/docfx,C#,"License(name=""MIT License"")",2524,68,0,174,2,3.0,15,370,310,7.7,276,0.64668
+instantsearch.js,https://github.com/algolia/instantsearch.js,TypeScript,"License(name=""MIT License"")",2579,67,0,90,8,3.3,23,117,81,1.6,1079,0.64665
+trino,https://github.com/trinodb/trino,Java,"License(name=""Apache License 2.0"")",2357,103,0,565,4,77.2,34,1397,917,1.9,0,0.64337
+duckdb,https://github.com/cwida/duckdb,C++,"License(name=""MIT License"")",2469,31,0,60,8,56.2,10,347,275,2.2,211,0.64272
+collectd,https://github.com/collectd/collectd,C,"License(name=""Other"")",2569,110,4,619,9,3.2,2,79,18,1.3,3238,0.64156
+vscode-docs,https://github.com/microsoft/vscode-docs,CSS,"License(name=""Other"")",3480,66,0,426,2,53.8,0,265,231,1.4,1916,0.6414
+java-docs-samples,https://github.com/GoogleCloudPlatform/java-docs-samples,Java,"License(name=""Apache License 2.0"")",1232,71,0,206,4,37.3,0,570,545,1.1,1287,0.64052
+godot-docs,https://github.com/godotengine/godot-docs,reStructuredText,"License(name=""Other"")",1194,62,0,689,3,16.6,0,361,242,1.5,873,0.63802
+GDevelop,https://github.com/4ian/GDevelop,C++,"License(name=""Other"")",2567,134,0,55,6,14.2,16,226,149,3.1,90,0.63405
+echarts,https://github.com/apache/echarts,TypeScript,"License(name=""Apache License 2.0"")",44472,95,0,145,4,22.7,13,1049,582,1.7,42,0.63122
+mkdocs,https://github.com/mkdocs/mkdocs,Python,"License(name=""BSD 2-Clause ""Simplified"" License"")",11380,85,0,181,6,1.4,6,204,142,1.8,572,0.62674
+java-tron,https://github.com/tronprotocol/java-tron,Java,"License(name=""GNU Lesser General Public License v3.0"")",2500,37,1,212,2,21.5,6,197,167,0.9,7589,0.62134
+canvas,https://github.com/austintoddj/canvas,PHP,"License(name=""MIT License"")",2566,59,0,71,10,15.1,40,54,43,1.8,91,0.62095
+gleam,https://github.com/gleam-lang/gleam,Rust,"License(name=""Apache License 2.0"")",2576,55,0,50,10,18.3,28,167,118,1.6,73,0.62035
+jmonkeyengine,https://github.com/jMonkeyEngine/jmonkeyengine,Java,"License(name=""Other"")",2529,120,0,158,5,3.7,3,80,49,1.9,835,0.61987
+docs,https://github.com/docker-library/docs,Shell,"License(name=""MIT License"")",3670,79,0,409,5,18.9,0,57,42,1.0,856,0.61706
+aws-doc-sdk-examples,https://github.com/awsdocs/aws-doc-sdk-examples,Java,"License(name=""Apache License 2.0"")",3253,54,0,200,5,68.8,0,180,176,0.5,918,0.61622
+klipper,https://github.com/KevinOConnor/klipper,C,"License(name=""GNU General Public License v3.0"")",2545,78,0,181,4,14.0,2,466,356,4.3,38,0.61513
+docs-cn,https://github.com/pingcap/docs-cn,Python,"License(name=""Apache License 2.0"")",1508,54,0,267,2,19.6,0,680,626,2.6,472,0.6125
+tutorial,https://github.com/DjangoGirls/tutorial,CSS,"License(name=""Other"")",1300,80,1,502,9,1.4,1,38,23,2.3,458,0.6107
+jetstream,https://github.com/laravel/jetstream,PHP,"License(name=""MIT License"")",2512,5,0,106,7,8.5,43,334,332,2.5,308,0.60845
+discord-api-docs,https://github.com/discord/discord-api-docs,JavaScript,404-NotFound,2559,58,0,275,7,4.3,0,417,257,2.4,98,0.60007
+grakn,https://github.com/graknlabs/grakn,Java,"License(name=""GNU Affero General Public License v3.0"")",2495,55,0,63,3,24.5,11,186,142,0.4,1744,0.59968
+stdlib,https://github.com/stdlib-js/stdlib,JavaScript,"License(name=""Apache License 2.0"")",2443,59,0,19,5,73.5,19,7,3,2.3,1108,0.59829
+learnxinyminutes-docs,https://github.com/adambard/learnxinyminutes-docs,JavaScript,404-NotFound,8651,92,0,1756,5,6.1,0,71,24,0.3,213,0.59799
+toga,https://github.com/beeware/toga,Python,"License(name=""Other"")",2580,82,0,184,9,18.1,7,107,62,2.1,6,0.59678
+docsify,https://github.com/docsifyjs/docsify,JavaScript,"License(name=""MIT License"")",16368,51,0,163,9,4.8,3,117,71,2.2,82,0.59653
+webpagetest,https://github.com/WPO-Foundation/webpagetest,PHP,"License(name=""Other"")",2571,121,0,175,8,4.9,2,71,19,0.6,415,0.59642
+tutorials,https://github.com/pytorch/tutorials,Jupyter Notebook,"License(name=""BSD 3-Clause ""New"" or ""Revised"" License"")",4612,52,0,244,4,4.7,0,185,72,1.2,2307,0.59601
+stellar-core,https://github.com/stellar/stellar-core,C,"License(name=""Other"")",2548,75,0,90,3,14.9,32,157,114,1.6,97,0.59529
+es6tutorial,https://github.com/ruanyf/es6tutorial,JavaScript,"License(name=""Other"")",18927,82,0,208,5,1.7,1,20,19,1.6,2342,0.59456
+jacoco,https://github.com/jacoco/jacoco,Java,"License(name=""Other"")",2513,141,0,45,7,0.8,1,66,46,1.9,3417,0.59452
+stripe-node,https://github.com/stripe/stripe-node,JavaScript,"License(name=""MIT License"")",2556,113,0,137,1,6.2,139,77,66,1.5,612,0.59184
+django-reversion,https://github.com/etianen/django-reversion,Python,"License(name=""Other"")",2511,150,0,171,7,0.4,5,8,6,3.1,268,0.58838
+nodejs-docs-samples,https://github.com/GoogleCloudPlatform/nodejs-docs-samples,JavaScript,"License(name=""Apache License 2.0"")",2106,97,0,163,4,6.0,0,153,144,1.3,560,0.58346
+lagom,https://github.com/lagom/lagom,Scala,"License(name=""Apache License 2.0"")",2506,60,0,152,6,6.0,5,127,98,0.8,147,0.58019
+xlsx,https://github.com/tealeg/xlsx,Go,"License(name=""Other"")",4735,116,0,116,5,1.8,7,60,39,1.6,174,0.57795
+actor-framework,https://github.com/actor-framework/actor-framework,C++,"License(name=""BSD 3-Clause ""New"" or ""Revised"" License"")",2441,120,0,93,9,9.4,4,61,55,1.1,35,0.57677
+hibernate-types,https://github.com/vladmihalcea/hibernate-types,Java,"License(name=""Apache License 2.0"")",1071,40,0,49,9,2.7,14,26,18,2.2,255,0.57463
+sphinx_rtd_theme,https://github.com/readthedocs/sphinx_rtd_theme,Sass,"License(name=""Other"")",3577,88,0,103,8,1.4,3,73,43,1.0,317,0.57446
+ng-select,https://github.com/ng-select/ng-select,TypeScript,"License(name=""MIT License"")",2508,43,0,89,4,1.0,23,143,109,1.5,310,0.57321
+course-v3,https://github.com/fastai/course-v3,Jupyter Notebook,"License(name=""Apache License 2.0"")",4686,28,0,200,9,1.5,0,8,5,1.1,5369,0.57071
+baritone,https://github.com/cabaletta/baritone,Java,"License(name=""Other"")",2509,30,1,42,4,2.7,13,354,257,3.5,317,0.56553
+koka,https://github.com/koka-lang/koka,Haskell,"License(name=""Other"")",1046,102,0,13,7,22.3,6,37,15,3.4,71,0.56079
+android-upload-service,https://github.com/gotev/android-upload-service,Kotlin,"License(name=""Apache License 2.0"")",2445,89,0,28,9,1.8,12,33,30,4.1,33,0.56012
+motion,https://github.com/Motion-Project/motion,C,404-NotFound,2497,183,1,80,5,1.1,2,93,82,1.8,513,0.5597
+python-driver,https://github.com/datastax/python-driver,Python,"License(name=""Apache License 2.0"")",1210,100,2,174,9,1.9,10,4,3,1.5,225,0.55961
+just-the-docs,https://github.com/pmarsceill/just-the-docs,SCSS,"License(name=""MIT License"")",2474,47,3,48,10,4.8,6,73,22,1.5,721,0.55906
+trillian,https://github.com/google/trillian,Go,"License(name=""Apache License 2.0"")",2448,57,0,60,8,3.1,5,56,48,2.2,76,0.55902
+Front-end-Developer-Interview-Questions,https://github.com/h5bp/Front-end-Developer-Interview-Questions,HTML,"License(name=""MIT License"")",47520,109,0,252,9,0.6,0,25,18,1.7,105,0.55775
+options-resolver,https://github.com/symfony/options-resolver,PHP,"License(name=""MIT License"")",2491,106,0,73,10,0.5,52,0,0,0,2490,0.55713
+XlsxWriter,https://github.com/jmcnamara/XlsxWriter,Python,"License(name=""Other"")",2437,98,0,43,4,1.4,17,25,20,2.4,188,0.55217
+pomegranate,https://github.com/jmschrei/pomegranate,Jupyter Notebook,"License(name=""MIT License"")",2567,75,0,61,5,2.6,4,43,30,2.2,184,0.55151
+asuswrt-merlin.ng,https://github.com/RMerl/asuswrt-merlin.ng,,"License(name=""Other"")",2530,41,0,42,1,12.4,44,116,101,1.8,376,0.54751
+a32nx,https://github.com/flybywiresim/a32nx,JavaScript,"License(name=""GNU General Public License v3.0"")",2472,6,0,128,1,32.9,11,1777,1440,3.9,21,0.54512
+reason,https://github.com/reasonml/reason,OCaml,"License(name=""MIT License"")",9224,63,0,136,9,1.4,1,19,9,2.0,105,0.54502
+ru.javascript.info,https://github.com/javascript-tutorial/ru.javascript.info,HTML,"License(name=""Other"")",2103,76,0,733,4,4.2,0,71,36,0.8,46,0.54433
+slate,https://github.com/slatedocs/slate,SCSS,"License(name=""Apache License 2.0"")",31906,89,1,134,9,1.2,5,29,27,0.9,90,0.54189
+legado,https://github.com/gedoor/legado,Kotlin,"License(name=""GNU General Public License v3.0"")",2138,20,0,33,1,71.1,94,324,242,1.1,195,0.54179
+rainbond,https://github.com/goodrain/rainbond,Go,"License(name=""GNU Lesser General Public License v3.0"")",2551,39,0,31,4,10.4,6,62,53,0.4,1390,0.54159
+MenuMeters,https://github.com/yujitach/MenuMeters,Objective-C,"License(name=""GNU General Public License v2.0"")",2537,67,1,22,5,1.9,14,81,52,3.6,155,0.54065
+coding-interview-university,https://github.com/jwasham/coding-interview-university,,"License(name=""Creative Commons Attribution Share Alike 4.0 International"")",153513,56,0,213,4,2.7,0,87,74,1.0,258,0.53845
+JCTools,https://github.com/JCTools/JCTools,Java,"License(name=""Apache License 2.0"")",2556,87,0,44,9,0.9,2,19,17,1.8,196,0.53758
+twitter,https://github.com/sixohsix/twitter,Python,"License(name=""MIT License"")",2524,156,2,87,6,0.4,4,21,15,2.2,310,0.53708
+db,https://github.com/upper/db,Go,"License(name=""MIT License"")",2440,105,0,32,9,2.0,4,30,21,1.1,116,0.53333
+dkron,https://github.com/distribworks/dkron,Go,"License(name=""Other"")",2531,69,0,56,6,4.4,19,80,65,1.3,11,0.53275
+live-share,https://github.com/MicrosoftDocs/live-share,Shell,"License(name=""Other"")",1723,41,0,58,2,0.8,17,710,347,1.1,201,0.53226
+model-viewer,https://github.com/google/model-viewer,TypeScript,"License(name=""Apache License 2.0"")",2481,32,0,44,5,6.9,7,225,127,1.9,35,0.53153
+client_side_validations,https://github.com/DavyJonesLocker/client_side_validations,Ruby,"License(name=""MIT License"")",2535,121,0,67,8,2.0,9,9,8,1.1,37,0.5296
+MoreLINQ,https://github.com/morelinq/MoreLINQ,C#,"License(name=""Apache License 2.0"")",2445,147,0,39,6,1.0,5,35,26,1.5,104,0.52865
+devdocs,https://github.com/freeCodeCamp/devdocs,Ruby,"License(name=""Other"")",24704,88,0,159,7,5.1,0,268,217,0.8,10,0.52689
+bjoern,https://github.com/jonashaag/bjoern,C,"License(name=""Other"")",2488,132,1,40,6,0.2,2,17,8,3.4,388,0.52635
+derailed_benchmarks,https://github.com/schneems/derailed_benchmarks,Ruby,404-NotFound,2486,76,0,52,11,0.9,4,5,5,0.6,410,0.52615
+h3,https://github.com/uber/h3,C,"License(name=""Apache License 2.0"")",2579,37,0,41,8,3.1,4,21,12,2.4,95,0.52587
+rabbitmq-tutorials,https://github.com/rabbitmq/rabbitmq-tutorials,Java,"License(name=""Apache License 2.0"")",5141,126,0,115,4,0.5,0,7,7,3.6,220,0.5251
+PJON,https://github.com/gioblu/PJON,C++,"License(name=""Other"")",2468,75,0,47,3,6.3,2,18,11,2.1,330,0.5242
+Virtualization-Documentation,https://github.com/MicrosoftDocs/Virtualization-Documentation,PowerShell,"License(name=""Other"")",1337,76,0,367,2,4.5,0,49,11,0.8,300,0.52415
+docsearch,https://github.com/algolia/docsearch,JavaScript,"License(name=""MIT License"")",1653,63,5,63,10,0.4,4,34,13,0.7,1617,0.52285
+HTMLHint,https://github.com/htmlhint/HTMLHint,JavaScript,"License(name=""MIT License"")",2532,96,2,47,8,1.9,8,77,52,1.2,59,0.52174
+qiskit-tutorials,https://github.com/Qiskit/qiskit-tutorials,Jupyter Notebook,"License(name=""Apache License 2.0"")",1449,42,0,154,3,5.1,3,70,57,1.2,61,0.52008
+n2n,https://github.com/ntop/n2n,C,"License(name=""GNU General Public License v3.0"")",2511,52,0,41,5,8.6,2,179,136,1.5,34,0.51915
+form,https://github.com/react-component/form,JavaScript,"License(name=""MIT License"")",1662,62,1,38,9,0.1,19,37,29,0.9,132,0.51744
+v2,https://github.com/miniflux/v2,Go,"License(name=""Apache License 2.0"")",2530,38,0,97,4,4.1,8,173,123,1.1,19,0.51657
+django-taggit,https://github.com/jazzband/django-taggit,Python,"License(name=""Other"")",2540,138,1,119,7,0.4,5,16,2,0.8,165,0.51639
+mlcourse.ai,https://github.com/Yorko/mlcourse.ai,Python,"License(name=""Other"")",7391,47,0,220,4,0.5,0,4,4,0.5,3413,0.51527
+asmjit,https://github.com/asmjit/asmjit,C++,"License(name=""zlib License"")",2543,85,0,32,8,1.2,0,14,10,4.6,81,0.51447
+mrjob,https://github.com/Yelp/mrjob,Python,"License(name=""Other"")",2525,125,2,142,7,4.2,6,1,0,1.0,129,0.5141
+simple-statistics,https://github.com/simple-statistics/simple-statistics,JavaScript,"License(name=""ISC License"")",2501,109,0,49,6,1.6,6,36,29,0.5,73,0.51266
+miniaudio,https://github.com/mackron/miniaudio,C,"License(name=""Other"")",1339,52,0,27,5,17.2,0,72,59,3.3,34,0.51032
+babel-plugin-import,https://github.com/ant-design/babel-plugin-import,JavaScript,404-NotFound,2555,63,2,42,8,0.5,4,65,53,1.5,173,0.51028
+CMB2,https://github.com/CMB2/CMB2,PHP,"License(name=""GNU General Public License v3.0"")",2516,120,0,129,4,0.4,1,50,11,2.1,44,0.50976
+open_model_zoo,https://github.com/openvinotoolkit/open_model_zoo,Python,"License(name=""Apache License 2.0"")",2440,27,1,116,2,50.7,6,468,414,1.2,8,0.50908
+nuka-carousel,https://github.com/FormidableLabs/nuka-carousel,JavaScript,"License(name=""Other"")",2458,70,1,111,5,1.7,12,48,39,0.5,51,0.50892
+commandline,https://github.com/commandlineparser/commandline,C#,"License(name=""MIT License"")",2536,106,5,93,7,1.2,6,46,5,0.9,186,0.50636
+change-case,https://github.com/blakeembrey/change-case,TypeScript,"License(name=""MIT License"")",1305,94,1,14,6,1.0,14,20,16,0.8,620,0.50598
+metrics-server,https://github.com/kubernetes-sigs/metrics-server,Go,"License(name=""Apache License 2.0"")",2487,44,1,73,5,2.6,3,116,87,3.1,15,0.50314
+confluent-kafka-go,https://github.com/confluentinc/confluent-kafka-go,Go,"License(name=""Apache License 2.0"")",2456,55,0,38,5,0.9,3,69,36,2.3,63,0.50305
+core,https://github.com/php-telegram-bot/core,PHP,"License(name=""Other"")",2457,68,1,52,6,1.5,6,44,39,2.2,23,0.50046
+zh.javascript.info,https://github.com/javascript-tutorial/zh.javascript.info,HTML,"License(name=""Other"")",4007,76,0,332,4,12.5,0,57,49,1.0,3,0.49962
+discourse_docker,https://github.com/discourse/discourse_docker,Shell,"License(name=""MIT License"")",1284,88,0,114,3,1.7,0,34,33,0.9,213,0.49848
+JUCE,https://github.com/juce-framework/JUCE,C++,"License(name=""Other"")",2586,166,0,38,4,15.3,10,65,27,0.8,5,0.49716
+swarmkit,https://github.com/docker/swarmkit,Go,"License(name=""Apache License 2.0"")",2527,60,6,121,6,0.1,1,22,12,0.8,1985,0.49576
+klipse,https://github.com/viebel/klipse,Clojure,"License(name=""GNU General Public License v3.0"")",2503,63,1,28,10,0.8,7,10,3,1.6,121,0.49563
+DetectionLab,https://github.com/clong/DetectionLab,HTML,"License(name=""MIT License"")",2551,46,0,42,6,5.2,0,160,157,1.2,41,0.49543
+tinyproxy,https://github.com/tinyproxy/tinyproxy,C,"License(name=""GNU General Public License v2.0"")",2468,255,3,39,5,2.2,1,20,10,3.0,179,0.49516
+mmenu-js,https://github.com/FrDH/mmenu-js,TypeScript,"License(name=""Other"")",2447,88,0,31,8,1.2,23,30,21,1.4,4,0.49487
+terraform-docs,https://github.com/terraform-docs/terraform-docs,Go,"License(name=""MIT License"")",1770,56,0,39,7,3.1,9,33,21,1.2,12,0.49338
+Vulkan-Docs,https://github.com/KhronosGroup/Vulkan-Docs,JavaScript,"License(name=""Other"")",1835,60,0,50,5,2.2,38,98,61,2.6,0,0.49059
+tablesaw,https://github.com/jtablesaw/tablesaw,Java,"License(name=""Apache License 2.0"")",2442,62,0,61,6,1.5,4,23,9,1.0,40,0.4893
+wdt,https://github.com/facebook/wdt,C++,"License(name=""Other"")",2558,79,1,69,4,0.4,2,27,25,1.3,212,0.48915
+websocket-client,https://github.com/websocket-client/websocket-client,Python,"License(name=""BSD 3-Clause ""New"" or ""Revised"" License"")",2453,122,13,168,6,0.0,6,22,4,0.6,453,0.48724
+interactive-tutorials,https://github.com/ronreiter/interactive-tutorials,Python,"License(name=""Apache License 2.0"")",1999,88,0,277,6,1.6,0,27,21,0.4,16,0.48676
+panicparse,https://github.com/maruel/panicparse,Go,"License(name=""Apache License 2.0"")",2497,72,1,8,5,3.2,7,7,7,4.0,162,0.48675
+plan9port,https://github.com/9fans/plan9port,C,"License(name=""Other"")",1045,165,0,116,4,2.0,0,26,11,0.7,73,0.48649
+nuclei,https://github.com/projectdiscovery/nuclei,Go,"License(name=""MIT License"")",2567,10,1,27,5,10.7,18,131,97,1.3,43,0.4848
+book,https://github.com/PaddlePaddle/book,Jupyter Notebook,404-NotFound,2532,50,0,107,6,1.1,0,41,31,1.0,52,0.48425
+Kodein-DI,https://github.com/Kodein-Framework/Kodein-DI,Kotlin,"License(name=""MIT License"")",2486,70,0,43,7,2.3,3,37,31,1.2,10,0.48171
+amplication,https://github.com/amplication/amplication,TypeScript,"License(name=""Apache License 2.0"")",1723,11,0,18,1,71.6,13,532,470,0.2,164,0.48153
+revive,https://github.com/mgechev/revive,Go,"License(name=""MIT License"")",2486,43,0,33,7,3.0,1,24,19,0.5,176,0.48119
+ROPgadget,https://github.com/JonathanSalwan/ROPgadget,Python,"License(name=""Other"")",2554,115,0,51,5,0.6,5,4,4,1.0,66,0.48069
+react-native-permissions,https://github.com/zoontek/react-native-permissions,Objective-C,"License(name=""MIT License"")",2448,59,2,92,8,2.2,11,53,45,2.7,0,0.48017
+wikiextractor,https://github.com/attardi/wikiextractor,Python,"License(name=""GNU Affero General Public License v3.0"")",2495,71,1,29,11,0.5,2,30,18,1.5,46,0.47799
+rainmeter,https://github.com/rainmeter/rainmeter,C++,"License(name=""GNU General Public License v2.0"")",2482,145,1,54,3,1.3,20,10,5,0.9,60,0.47776
+jotai,https://github.com/pmndrs/jotai,TypeScript,"License(name=""MIT License"")",2538,5,0,23,7,6.4,97,136,120,3.4,2,0.47634
+zeal,https://github.com/zealdocs/zeal,C++,"License(name=""GNU General Public License v3.0"")",8469,97,2,61,4,1.7,1,38,17,1.1,136,0.47275
+source-map,https://github.com/mozilla/source-map,JavaScript,"License(name=""Other"")",2488,116,15,84,6,0.0,5,8,2,1.1,769,0.47241
+fullstack-course4,https://github.com/jhu-ep-coursera/fullstack-course4,JavaScript,404-NotFound,4635,60,0,21,5,0.1,0,19,16,0.7,1668,0.47159
+parse5,https://github.com/inikulin/parse5,JavaScript,"License(name=""MIT License"")",2564,95,4,28,9,0.2,6,4,0,3.5,79,0.46983
+octopus,https://github.com/thiagopradi/octopus,Ruby,404-NotFound,2478,130,2,89,10,0.0,5,16,4,0.9,11,0.4671
+joda-time-android,https://github.com/dlew/joda-time-android,Java,"License(name=""Apache License 2.0"")",2531,85,0,19,4,0.7,8,17,16,1.3,52,0.4653
+laravel-wechat,https://github.com/overtrue/laravel-wechat,PHP,"License(name=""MIT License"")",2564,71,2,30,6,0.3,10,12,6,1.1,117,0.46374
+kimchi,https://github.com/kimchi-project/kimchi,JavaScript,"License(name=""Other"")",2572,95,4,90,3,0.2,3,13,4,1.2,365,0.4616
+FreeSql,https://github.com/dotnetcore/FreeSql,C#,"License(name=""MIT License"")",2580,25,0,14,1,13.5,20,182,131,2.9,10,0.45906
+typescript-tutorial,https://github.com/xcatliu/typescript-tutorial,TypeScript,404-NotFound,7434,57,0,41,8,1.8,0,37,9,4.1,2,0.45805
+esp-homekit-devices,https://github.com/RavenSystem/esp-homekit-devices,C,"License(name=""Other"")",1046,36,0,4,2,3.9,178,177,138,3.2,15,0.4533
+privacytools.io,https://github.com/privacytools/privacytools.io,HTML,"License(name=""Creative Commons Zero v1.0 Universal"")",2593,67,0,211,2,4.1,0,157,85,2.6,0,0.45321
+serverless-chrome,https://github.com/adieuadieu/serverless-chrome,JavaScript,"License(name=""MIT License"")",2448,47,0,24,9,1.0,1,104,93,0.3,22,0.45191
+facebook-sdk,https://github.com/mobolic/facebook-sdk,Python,"License(name=""Apache License 2.0"")",2570,131,1,99,6,0.2,1,12,9,1.2,12,0.45187
+message_bus,https://github.com/discourse/message_bus,Ruby,"License(name=""MIT License"")",1470,93,1,44,9,1.0,8,3,3,0.0,44,0.451
+typefaces,https://github.com/KyleAMathews/typefaces,CSS,404-NotFound,2549,51,1,8,5,0.5,19,8,0,0.4,1629,0.45098
+core,https://github.com/elm/core,Elm,"License(name=""BSD 3-Clause ""New"" or ""Revised"" License"")",2510,76,11,106,6,0.1,1,13,1,1.3,416,0.45069
+connect-redis,https://github.com/tj/connect-redis,JavaScript,"License(name=""MIT License"")",2447,128,3,55,9,0.2,2,6,6,0.8,37,0.44757
+platform_development,https://github.com/aosp-mirror/platform_development,Python,404-NotFound,2555,149,0,704,1,5.0,85,0,0,0,3,0.44702
+coursera-dl,https://github.com/coursera-dl/coursera-dl,Python,"License(name=""GNU Lesser General Public License v3.0"")",8261,107,12,84,7,0.0,3,25,4,1.8,43,0.44659
+flask-restplus,https://github.com/noirbizarre/flask-restplus,Python,"License(name=""Other"")",2455,78,12,89,7,0.0,5,7,2,1.1,154,0.44644
+google2fa,https://github.com/antonioribeiro/google2fa,PHP,"License(name=""MIT License"")",1293,77,1,32,9,0.8,1,3,2,1.0,71,0.44507
+elephas,https://github.com/maxpumperla/elephas,Python,"License(name=""MIT License"")",1435,66,0,26,9,1.6,1,19,13,0.9,10,0.44495
+book,https://github.com/crypto101/book,Python,"License(name=""Other"")",2512,86,2,56,3,2.0,12,29,2,0.8,28,0.44319
+pelias,https://github.com/pelias/pelias,Twig,"License(name=""Other"")",2485,88,1,25,5,0.2,0,7,0,1.6,572,0.44291
+smashing,https://github.com/Smashing/smashing,JavaScript,"License(name=""MIT License"")",2488,103,8,82,6,0.5,1,3,0,3.3,63,0.44289
+Print.js,https://github.com/crabbly/Print.js,JavaScript,"License(name=""MIT License"")",2560,58,2,33,5,0.7,7,45,25,1.4,17,0.44247
+r.js,https://github.com/requirejs/r.js,JavaScript,"License(name=""Other"")",2553,138,29,69,9,0.0,6,3,2,1.3,154,0.44221
+jQuery-Validation-Engine,https://github.com/posabsolute/jQuery-Validation-Engine,JavaScript,404-NotFound,2579,139,6,181,10,0.0,1,1,0,0.0,177,0.44139
+reactjs-interview-questions,https://github.com/sudheerj/reactjs-interview-questions,JavaScript,404-NotFound,9764,32,0,52,8,0.8,0,8,8,0.4,104,0.44134
+web-vitals,https://github.com/GoogleChrome/web-vitals,JavaScript,"License(name=""Apache License 2.0"")",2588,10,0,9,4,1.6,11,59,53,1.6,101,0.44132
+rengine,https://github.com/yogeshojha/rengine,Python,"License(name=""GNU General Public License v3.0"")",2472,9,1,16,5,12.9,4,129,66,1.4,31,0.44115
+GameHub,https://github.com/tkashkin/GameHub,Vala,"License(name=""GNU General Public License v3.0"")",1291,32,6,60,4,1.0,65,71,18,1.2,21,0.43994
+proxyquire,https://github.com/thlorenz/proxyquire,JavaScript,"License(name=""MIT License"")",2578,104,10,34,7,0.0,4,5,3,1.6,168,0.43879
+dlrm,https://github.com/facebookresearch/dlrm,Python,"License(name=""MIT License"")",2488,20,0,19,8,0.8,0,26,16,1.4,105,0.43835
+Android-Terminal-Emulator,https://github.com/jackpal/Android-Terminal-Emulator,Java,"License(name=""Other"")",2480,126,3,85,3,0.0,4,1,0,0.0,1397,0.43809
+typescript-starter,https://github.com/bitjson/typescript-starter,TypeScript,"License(name=""MIT License"")",2497,48,4,18,6,0.2,10,5,1,1.0,534,0.43792
+tutorials,https://github.com/onnx/tutorials,Jupyter Notebook,"License(name=""MIT License"")",2041,39,3,54,7,0.2,0,23,8,0.9,274,0.43739
+courses,https://github.com/fastai/courses,Jupyter Notebook,"License(name=""Apache License 2.0"")",5151,50,5,44,5,0.0,0,1,0,1.0,5646,0.43467
+Interview_Question_for_Beginner,https://github.com/JaeYeopHan/Interview_Question_for_Beginner,,"License(name=""MIT License"")",6691,44,0,69,8,0.5,0,22,18,0.4,18,0.43452
+saas,https://github.com/async-labs/saas,TypeScript,"License(name=""MIT License"")",2123,34,0,7,2,3.6,5,74,54,1.5,92,0.43418
+kafka-node,https://github.com/SOHU-Co/kafka-node,JavaScript,"License(name=""MIT License"")",2459,90,15,104,6,0.0,7,20,4,0.9,47,0.43258
+voldemort,https://github.com/voldemort/voldemort,Java,"License(name=""Apache License 2.0"")",2438,142,41,120,5,0.0,7,13,2,0.5,364,0.43227
+deep-person-reid,https://github.com/KaiyangZhou/deep-person-reid,Python,"License(name=""MIT License"")",2563,35,0,14,5,1.1,7,35,21,1.1,19,0.43167
+Tengine,https://github.com/OAID/Tengine,C,"License(name=""Apache License 2.0"")",2448,37,0,30,3,2.2,5,96,70,1.1,6,0.43131
+rust-gpu,https://github.com/EmbarkStudios/rust-gpu,Rust,"License(name=""Other"")",2536,6,0,27,2,8.8,2,343,265,2.0,18,0.43047
+microservices-demo,https://github.com/microservices-demo/microservices-demo,Shell,"License(name=""Apache License 2.0"")",2569,57,22,53,8,0.0,3,10,2,0.5,984,0.43037
+rust-raspberrypi-OS-tutorials,https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials,Rust,"License(name=""Other"")",3108,37,0,19,8,3.6,0,13,13,4.0,2,0.43022
+mapshaper,https://github.com/mbloch/mapshaper,JavaScript,"License(name=""Other"")",2513,96,1,6,4,3.1,35,19,4,1.3,17,0.42976
+cosmiconfig,https://github.com/davidtheclark/cosmiconfig,TypeScript,"License(name=""MIT License"")",2440,63,6,24,7,0.3,6,8,5,1.1,122,0.42975
+unform,https://github.com/unform/unform,TypeScript,"License(name=""MIT License"")",3958,30,0,44,5,1.9,2,36,12,1.2,7,0.42844
+Sync,https://github.com/3lvis/Sync,Swift,"License(name=""Other"")",2490,76,3,36,11,0.4,3,1,0,4.0,6,0.42839
+Eloquent-JavaScript,https://github.com/marijnh/Eloquent-JavaScript,JavaScript,404-NotFound,2514,91,1,95,3,0.3,0,11,10,1.6,30,0.42834
+Sandboxie,https://github.com/sandboxie-plus/Sandboxie,C,"License(name=""GNU General Public License v3.0"")",2585,9,0,13,2,3.1,23,289,198,2.9,4,0.42636
+grbl,https://github.com/gnea/grbl,C,"License(name=""Other"")",2541,146,17,41,6,0.0,1,71,23,1.8,54,0.42487
+rfs,https://github.com/twbs/rfs,CSS,"License(name=""MIT License"")",2463,44,0,15,4,2.2,2,40,37,0.6,35,0.42332
+cheatsheets,https://github.com/rstudio/cheatsheets,TeX,"License(name=""Creative Commons Attribution 4.0 International"")",2529,49,2,57,7,0.5,0,8,2,0.6,153,0.42314
+go-plugin,https://github.com/hashicorp/go-plugin,Go,"License(name=""Mozilla Public License 2.0"")",2506,61,2,25,4,0.4,2,11,5,0.7,299,0.42292
+front-end-interview-handbook,https://github.com/yangshun/front-end-interview-handbook,JavaScript,"License(name=""MIT License"")",27131,40,0,130,4,1.2,0,11,7,0.2,36,0.42217
+Nuklear,https://github.com/Immediate-Mode-UI/Nuklear,C,404-NotFound,2544,72,1,137,4,1.4,0,51,13,1.1,3,0.42009
+nlp-architect,https://github.com/IntelLabs/nlp-architect,Python,"License(name=""Apache License 2.0"")",2575,36,0,36,8,2.2,4,28,21,1.0,0,0.41868
+apartment,https://github.com/influitive/apartment,Ruby,404-NotFound,2457,123,19,104,6,0.0,6,3,1,1.0,54,0.41855
+quil,https://github.com/quil/quil,Clojure,"License(name=""Eclipse Public License 1.0"")",2573,151,3,52,6,0.0,2,10,1,0.5,52,0.41814
+sso,https://github.com/buzzfeed/sso,Go,"License(name=""MIT License"")",2532,29,3,28,6,0.2,2,7,2,1.3,262,0.41784
+Requests,https://github.com/WordPress/Requests,PHP,"License(name=""Other"")",3319,109,2,55,10,0.6,1,71,54,0.7,0,0.41731
+onedark.vim,https://github.com/joshdick/onedark.vim,Vim script,"License(name=""MIT License"")",2585,64,1,24,7,0.4,0,16,15,1.0,39,0.41635
+awesome-interview-questions,https://github.com/MaximAbramchuck/awesome-interview-questions,,404-NotFound,37773,62,0,121,8,0.2,0,19,1,0.2,7,0.41575
+BTNavigationDropdownMenu,https://github.com/PhamBaTho/BTNavigationDropdownMenu,Swift,"License(name=""MIT License"")",2511,68,2,34,9,0.2,1,17,9,0.4,29,0.41471
+Twitter4J,https://github.com/Twitter4J/Twitter4J,Java,"License(name=""Apache License 2.0"")",2520,165,29,167,9,0.0,3,2,0,1.0,34,0.41422
+MITIE,https://github.com/mit-nlp/MITIE,C++,404-NotFound,2560,155,3,35,6,0.1,0,3,2,2.3,40,0.41414
+poole,https://github.com/poole/poole,CSS,"License(name=""Other"")",2575,86,8,31,11,0.3,1,0,0,0,1267,0.414
+tech-interview-handbook,https://github.com/yangshun/tech-interview-handbook,JavaScript,"License(name=""MIT License"")",49357,55,0,88,4,0.7,0,6,4,0.3,38,0.41212
+maildev,https://github.com/maildev/maildev,JavaScript,"License(name=""Other"")",2541,95,10,60,8,0.6,4,25,2,1.3,6,0.41156
+dask-tutorial,https://github.com/dask/dask-tutorial,Jupyter Notebook,"License(name=""Other"")",1358,67,0,54,10,0.8,0,12,11,1.2,0,0.4102
+tracker,https://github.com/antonioribeiro/tracker,PHP,"License(name=""MIT License"")",2476,85,4,44,5,0.3,1,17,3,0.8,68,0.41009
+toggl_api_docs,https://github.com/toggl/toggl_api_docs,,404-NotFound,1157,96,2,71,6,0.1,0,14,6,0.7,20,0.40976
+react-webpack-rails-tutorial,https://github.com/shakacode/react-webpack-rails-tutorial,Ruby,"License(name=""MIT License"")",1654,77,6,53,10,0.1,0,3,2,1.3,44,0.40937
+javascript-tutorial,https://github.com/wangdoc/javascript-tutorial,Shell,404-NotFound,2683,37,0,29,4,1.5,0,11,11,1.2,32,0.40823
+react-native-snap-carousel,https://github.com/meliorence/react-native-snap-carousel,JavaScript,"License(name=""BSD 3-Clause ""New"" or ""Revised"" License"")",8163,52,0,44,6,0.3,2,73,13,1.3,0,0.4054
+Unshaky,https://github.com/aahung/Unshaky,Swift,"License(name=""MIT License"")",2449,31,0,21,6,0.5,2,17,12,2.6,2,0.40412
+moonscript,https://github.com/leafo/moonscript,Lua,404-NotFound,2523,118,2,30,4,0.6,2,9,2,1.2,21,0.4041
+jquery-mockjax,https://github.com/jakerella/jquery-mockjax,JavaScript,"License(name=""Other"")",2139,130,5,77,6,0.3,2,1,0,1.0,22,0.40402
+fe-interview,https://github.com/haizlin/fe-interview,JavaScript,"License(name=""MIT License"")",15818,21,0,9,3,8.5,1,815,3,1.0,27,0.4032
+datax-web,https://github.com/WeiYe-Jing/datax-web,Java,"License(name=""MIT License"")",2131,36,1,28,2,5.9,3,122,62,0.9,6,0.40011
+laravel-vue-spa,https://github.com/cretueusebiu/laravel-vue-spa,PHP,"License(name=""MIT License"")",2587,49,0,23,7,1.3,4,61,46,0.4,0,0.39806
+interview,https://github.com/huihut/interview,C++,"License(name=""Other"")",16365,36,1,20,4,0.5,0,4,4,1.0,330,0.39723
+modern-cpp-tutorial,https://github.com/changkun/modern-cpp-tutorial,C++,"License(name=""MIT License"")",11994,54,0,43,5,0.8,0,31,26,0.5,5,0.39679
+Scarlet,https://github.com/Tinder/Scarlet,Kotlin,"License(name=""BSD 3-Clause ""New"" or ""Revised"" License"")",2467,32,2,21,9,0.2,1,18,6,1.5,15,0.39503
+system-design-interview,https://github.com/checkcheckzz/system-design-interview,,404-NotFound,13142,81,1,27,8,0.1,0,10,9,0.8,10,0.39298
+pytorch-YOLOv4,https://github.com/Tianxiaomo/pytorch-YOLOv4,Python,"License(name=""Apache License 2.0"")",2546,9,4,15,6,3.5,0,117,24,1.6,95,0.39225
+DeepLearningTutorials,https://github.com/lisa-lab/DeepLearningTutorials,Python,"License(name=""Other"")",3966,134,32,72,7,0.0,0,0,0,0,2114,0.38971
+authboss,https://github.com/volatiletech/authboss,Go,"License(name=""MIT License"")",2515,73,4,26,6,0.7,3,4,1,3.8,2,0.38856
+spacy-course,https://github.com/ines/spacy-course,Python,"License(name=""MIT License"")",1754,21,0,38,7,8.0,0,6,5,0.3,6,0.38831
+nord-vim,https://github.com/arcticicestudio/nord-vim,Vim script,"License(name=""MIT License"")",1526,50,3,28,3,0.2,2,25,7,1.4,43,0.38806
+vim-unimpaired,https://github.com/tpope/vim-unimpaired,Vim script,404-NotFound,2450,144,9,28,7,0.0,0,4,2,0.5,195,0.38675
+practical-python,https://github.com/dabeaz-course/practical-python,Python,"License(name=""Creative Commons Attribution Share Alike 4.0 International"")",6951,8,1,26,7,3.3,0,25,20,0.4,60,0.38632
+licode,https://github.com/lynckia/licode,C++,"License(name=""MIT License"")",2576,108,0,75,2,1.4,2,36,19,0.5,0,0.38597
+magic-wormhole,https://github.com/magic-wormhole/magic-wormhole,Python,"License(name=""MIT License"")",11673,72,0,49,3,0.4,6,14,4,1.2,0,0.38507
+cloudquery,https://github.com/cloudquery/cloudquery,Go,"License(name=""Mozilla Public License 2.0"")",1054,2,0,7,2,2.2,56,34,31,2.7,33,0.38416
+daily,https://github.com/dailydotdev/daily,,"License(name=""GNU Affero General Public License v3.0"")",2495,39,1,8,4,0.6,0,37,30,2.8,23,0.38362
+Gifu,https://github.com/kaishin/Gifu,Swift,"License(name=""Other"")",2473,77,5,27,4,0.2,6,6,3,2.2,8,0.38354
+brunch,https://github.com/sebanc/brunch,,"License(name=""GNU General Public License v3.0"")",1048,12,0,7,2,1.1,17,248,96,4.6,0,0.38129
+react-native-reanimated-bottom-sheet,https://github.com/osdnk/react-native-reanimated-bottom-sheet,TypeScript,"License(name=""MIT License"")",2534,22,5,30,7,0.6,4,56,9,1.3,6,0.38064
+termgraph,https://github.com/mkaz/termgraph,Python,"License(name=""MIT License"")",2585,101,2,22,10,0.7,6,9,2,0.7,0,0.38054
+pytorch-tutorial,https://github.com/yunjey/pytorch-tutorial,Python,"License(name=""MIT License"")",19369,47,6,27,11,0.1,0,7,0,0.1,311,0.37993
+data-science-interviews,https://github.com/alexeygrigorev/data-science-interviews,Ruby,"License(name=""Creative Commons Attribution 4.0 International"")",3756,11,1,65,8,3.9,0,6,5,0.7,6,0.37778
+RestApiTutorial.com,https://github.com/tfredrich/RestApiTutorial.com,HTML,"License(name=""Creative Commons Attribution Share Alike 4.0 International"")",2724,106,0,26,8,0.0,0,2,0,0.0,22,0.37729
+awesome-courses,https://github.com/prakhar1989/awesome-courses,,404-NotFound,36079,75,1,138,6,0.0,0,4,1,0.2,5,0.37679
+CLRS,https://github.com/walkccc/CLRS,HTML,"License(name=""MIT License"")",2542,35,0,81,4,1.5,0,40,33,0.7,0,0.37673
+docs,https://github.com/railsbridge/docs,Ruby,"License(name=""Other"")",1502,113,30,195,5,0.0,0,3,2,0.7,50,0.37584
+interviews,https://github.com/kdn251/interviews,Java,"License(name=""MIT License"")",49715,48,7,42,10,0.0,0,6,3,0.2,79,0.37533
+mpitutorial,https://github.com/mpitutorial/mpitutorial,C,"License(name=""Other"")",1311,99,0,42,8,0.5,0,10,9,0.3,0,0.37518
+tech-interview-for-developer,https://github.com/gyoogle/tech-interview-for-developer,Java,"License(name=""MIT License"")",2913,20,0,22,10,2.1,0,7,6,1.0,2,0.37513
+jsmn,https://github.com/zserge/jsmn,C,"License(name=""MIT License"")",2462,124,10,26,2,0.0,0,7,2,2.6,198,0.37499
+lottie,https://github.com/airbnb/lottie,HTML,"License(name=""MIT License"")",2609,44,1,48,8,0.4,0,43,39,0.8,0,0.37397
+wasmer-python,https://github.com/wasmerio/wasmer-python,Rust,"License(name=""MIT License"")",1050,22,0,9,4,10.3,4,60,55,0.9,0,0.37293
+pinax,https://github.com/pinax/pinax,Python,404-NotFound,2576,144,31,31,9,0.0,1,1,0,1.0,111,0.37252
+sumy,https://github.com/miso-belica/sumy,Python,"License(name=""Apache License 2.0"")",2466,96,2,20,6,0.6,2,3,3,1.3,3,0.37181
+links-uteis,https://github.com/gabrielcmarinho/links-uteis,Python,"License(name=""MIT License"")",1214,22,0,49,10,1.4,0,20,9,0.5,0,0.37168
+ffmpeg-libav-tutorial,https://github.com/leandromoreira/ffmpeg-libav-tutorial,C,"License(name=""BSD 3-Clause ""New"" or ""Revised"" License"")",6060,39,0,21,6,0.2,1,10,7,1.1,2,0.36893
+dlaicourse,https://github.com/lmoroney/dlaicourse,Jupyter Notebook,404-NotFound,4546,23,4,15,4,4.1,0,17,4,0.5,215,0.36645
+VulkanTutorial,https://github.com/Overv/VulkanTutorial,C++,404-NotFound,1574,72,2,58,2,1.1,0,14,9,1.1,9,0.36485
+cobol-programming-course,https://github.com/openmainframeproject/cobol-programming-course,COBOL,"License(name=""Creative Commons Attribution 4.0 International"")",1764,9,2,19,5,3.8,5,37,30,0.5,8,0.36433
+graphiql-app,https://github.com/skevy/graphiql-app,JavaScript,"License(name=""MIT License"")",2532,66,10,26,10,0.0,4,11,2,0.6,7,0.36372
+GameFramework,https://github.com/EllanJiang/GameFramework,C#,"License(name=""MIT License"")",2498,47,0,3,10,2.5,9,3,1,0.0,6,0.36259
+swirl_courses,https://github.com/swirldev/swirl_courses,R,"License(name=""GNU General Public License v3.0"")",3563,84,24,71,2,0.0,0,6,1,1.3,363,0.36137
+subword-nmt,https://github.com/rsennrich/subword-nmt,Python,"License(name=""MIT License"")",1608,65,7,18,9,0.1,1,4,2,1.5,9,0.35894
+100daysofcode-with-python-course,https://github.com/talkpython/100daysofcode-with-python-course,Jupyter Notebook,"License(name=""MIT License"")",1328,38,1,17,4,0.0,0,3,3,1.0,78,0.35859
+os,https://github.com/minoca/os,C,"License(name=""GNU General Public License v3.0"")",2457,61,7,12,5,0.1,1,1,0,1.0,271,0.35771
+h2o-tutorials,https://github.com/h2oai/h2o-tutorials,Jupyter Notebook,404-NotFound,1291,66,2,69,4,1.3,0,2,1,0.0,25,0.3575
+serverless-graphql,https://github.com/serverless/serverless-graphql,JavaScript,"License(name=""MIT License"")",2549,60,20,50,10,0.0,1,14,2,0.1,31,0.35727
+javascript-interview-questions,https://github.com/sudheerj/javascript-interview-questions,JavaScript,404-NotFound,2038,39,1,25,4,1.2,0,6,5,1.0,12,0.3571
+Mastering_Go_ZH_CN,https://github.com/hantmac/Mastering_Go_ZH_CN,Go,"License(name=""Apache License 2.0"")",2454,25,2,18,4,0.4,1,2,2,2.0,34,0.35692
+LocationManager,https://github.com/intuit/LocationManager,Objective-C,"License(name=""MIT License"")",2525,83,15,24,8,0.0,3,1,0,2.0,10,0.35654
+opentracing-tutorial,https://github.com/yurishkuro/opentracing-tutorial,Java,"License(name=""Apache License 2.0"")",1145,40,4,29,6,0.1,0,2,1,3.5,7,0.35615
+home,https://github.com/rime/home,HTML,404-NotFound,2437,92,1,5,2,0.2,0,66,41,2.0,19,0.35587
+interview,https://github.com/Olshansk/interview,,"License(name=""Do What The F*ck You Want To Public License"")",11968,85,0,27,7,0.2,0,6,6,0.7,0,0.35584
+youTube_ads_4_pi-hole,https://github.com/kboghdady/youTube_ads_4_pi-hole,Shell,404-NotFound,1049,30,0,5,2,8.8,0,15,6,1.6,21,0.35506
+diff,https://github.com/flitbit/diff,JavaScript,"License(name=""MIT License"")",2528,100,25,39,11,0.0,2,8,8,0.0,17,0.35463
+The-Forge,https://github.com/ConfettiFX/The-Forge,C++,"License(name=""Apache License 2.0"")",2124,40,1,6,2,0.7,8,13,8,1.2,24,0.35458
+simple-line-icons,https://github.com/thesabbir/simple-line-icons,CSS,"License(name=""MIT License"")",1786,77,5,16,11,0.4,4,1,0,0.0,22,0.3543
+weld,https://github.com/weld-project/weld,Rust,"License(name=""BSD 3-Clause ""New"" or ""Revised"" License"")",2509,56,10,36,7,0.2,1,5,0,1.2,16,0.35424
+CppTemplateTutorial,https://github.com/wuye9036/CppTemplateTutorial,C++,404-NotFound,4387,96,8,20,6,0.1,0,5,0,0.8,71,0.35352
+onepassword-app-extension,https://github.com/agilebits/onepassword-app-extension,Objective-C,"License(name=""MIT License"")",2555,79,12,43,5,0.0,1,6,1,0.7,28,0.35051
+fp-course,https://github.com/system-f/fp-course,Haskell,404-NotFound,3450,116,2,76,6,0.4,0,4,3,0.5,0,0.34897
+videos-pt.br-tecnologia,https://github.com/carolsoaressantos/videos-pt.br-tecnologia,Ruby,"License(name=""MIT License"")",2447,27,5,82,11,0.5,0,7,2,1.7,0,0.34851
+degit,https://github.com/Rich-Harris/degit,JavaScript,"License(name=""MIT License"")",2459,42,11,15,4,0.6,6,34,16,1.2,9,0.34846
+bash-tutorial,https://github.com/wangdoc/bash-tutorial,Shell,404-NotFound,2538,46,0,18,3,2.4,0,11,11,1.0,2,0.34808
+edx-dl,https://github.com/coursera-dl/edx-dl,HTML,"License(name=""GNU Lesser General Public License v3.0"")",1668,101,11,47,0,0.3,2,25,9,3.9,25,0.34778
+igel,https://github.com/nidhaloff/igel,Python,"License(name=""MIT License"")",2542,5,1,11,4,5.0,9,12,9,1.7,3,0.34679
+kb,https://github.com/gnebbia/kb,Python,"License(name=""GNU General Public License v3.0"")",2572,4,0,7,2,4.8,5,24,22,1.5,15,0.34522
+Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE,https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE,Python,"License(name=""GNU General Public License v3.0"")",2030,4,1,11,3,5.0,6,162,154,2.3,0,0.34505
+backbonetutorials,https://github.com/thomasdavis/backbonetutorials,JavaScript,404-NotFound,2316,119,7,59,10,0.1,0,0,0,0,12,0.3448
+jstutorial,https://github.com/ruanyf/jstutorial,CSS,"License(name=""Other"")",5327,99,10,70,5,0.0,0,0,0,0,98,0.34221
+AsyncEx,https://github.com/StephenCleary/AsyncEx,C#,"License(name=""MIT License"")",2445,82,3,8,1,0.1,1,8,6,2.8,54,0.34021
+Theseus,https://github.com/theseus-os/Theseus,Rust,"License(name=""MIT License"")",1072,45,0,17,3,2.3,0,24,23,1.2,0,0.33975
+flutter_easyrefresh,https://github.com/xuelongqy/flutter_easyrefresh,Dart,"License(name=""MIT License"")",2547,26,1,5,1,1.3,9,61,36,1.5,10,0.33795
+bullet-train.zsh,https://github.com/caiogondim/bullet-train.zsh,Makefile,"License(name=""MIT License"")",2541,104,16,66,6,0.0,0,7,3,0.6,7,0.33746
+v4,https://github.com/bchiang7/v4,JavaScript,"License(name=""MIT License"")",2520,29,0,5,3,1.5,0,15,14,2.3,5,0.33719
+Stringy,https://github.com/danielstjules/Stringy,PHP,"License(name=""MIT License"")",2438,92,44,42,8,0.0,4,1,1,0.0,43,0.33567
+gray-matter,https://github.com/jonschlinkert/gray-matter,JavaScript,"License(name=""MIT License"")",1297,85,24,18,6,0.0,7,3,0,0.7,25,0.33474
+form-create,https://github.com/xaboy/form-create,JavaScript,"License(name=""MIT License"")",2534,36,2,7,0,4.2,16,40,17,1.8,13,0.33433
+Daily-Interview-Question,https://github.com/Advanced-Frontend/Daily-Interview-Question,JavaScript,404-NotFound,21748,24,2,12,2,0.2,0,101,14,2.3,18,0.33398
+DynamicColor,https://github.com/yannickl/DynamicColor,Swift,"License(name=""MIT License"")",2470,68,6,14,7,0.1,6,2,1,0.5,6,0.33379
+TABAnimated,https://github.com/tigerAndBull/TABAnimated,Objective-C,"License(name=""MIT License"")",2511,28,1,13,0,1.8,1,34,23,4.2,14,0.33343
+ml-course-hse,https://github.com/esokolov/ml-course-hse,Jupyter Notebook,404-NotFound,1355,53,1,35,2,3.1,0,4,2,0.2,14,0.33277
+mobile-chrome-apps,https://github.com/MobileChromeApps/mobile-chrome-apps,Python,"License(name=""Other"")",2517,100,63,55,6,0.0,4,1,0,0.0,91,0.33246
+angular-interview-questions,https://github.com/sudheerj/angular-interview-questions,,"License(name=""Apache License 2.0"")",1467,30,0,14,4,0.9,0,2,1,0.5,19,0.33224
+cs-video-courses,https://github.com/Developer-Y/cs-video-courses,,404-NotFound,17362,52,2,41,7,0.8,0,8,4,0.6,0,0.33197
+element-react,https://github.com/ElemeFE/element-react,JavaScript,"License(name=""MIT License"")",2565,52,9,67,5,0.0,9,7,0,0.3,2,0.33167
+BDA_course_Aalto,https://github.com/avehtari/BDA_course_Aalto,TeX,404-NotFound,1538,29,1,14,4,2.3,0,2,2,0.5,25,0.33134
+scrapy-splash,https://github.com/scrapy-plugins/scrapy-splash,Python,"License(name=""Other"")",2451,93,3,16,7,0.1,1,12,4,1.0,0,0.32997
+MaterialShowcaseView,https://github.com/deano2390/MaterialShowcaseView,Java,"License(name=""Apache License 2.0"")",2533,66,21,22,5,0.0,3,2,1,0.5,60,0.32988
+Painter,https://github.com/Kujiale-Mobile/Painter,JavaScript,"License(name=""Apache License 2.0"")",2595,31,0,21,4,0.2,0,51,18,1.0,0,0.32951
+nlp_course,https://github.com/yandexdataschool/nlp_course,Jupyter Notebook,"License(name=""MIT License"")",6559,29,1,28,3,2.6,0,1,0,0.0,65,0.32919
+Swift-Radio-Pro,https://github.com/analogcode/Swift-Radio-Pro,Swift,"License(name=""MIT License"")",2537,65,9,23,7,0.1,1,5,2,3.0,0,0.32889
+stack-rpc-tutorials,https://github.com/stack-labs/stack-rpc-tutorials,Go,"License(name=""Apache License 2.0"")",1742,22,0,30,6,2.5,0,1,1,1.0,0,0.32757
+interview_internal_reference,https://github.com/0voice/interview_internal_reference,Python,404-NotFound,29971,20,3,29,7,0.3,0,0,0,0,118,0.32682
+Reusable,https://github.com/AliSoftware/Reusable,Swift,"License(name=""MIT License"")",2585,61,10,31,6,0.1,1,3,2,3.3,0,0.32668
+react-native-extended-stylesheet,https://github.com/vitalets/react-native-extended-stylesheet,JavaScript,"License(name=""MIT License"")",2509,60,14,10,5,0.0,4,14,9,1.4,7,0.32633
+fullstack-tutorial,https://github.com/frank-lam/fullstack-tutorial,Java,404-NotFound,9231,34,0,28,7,0.5,0,1,0,0.0,5,0.32608
+course-content,https://github.com/NeuromatchAcademy/course-content,Jupyter Notebook,"License(name=""Other"")",1437,8,2,32,6,10.0,3,2,1,0.0,4,0.32582
+zero,https://github.com/remoteinterview/zero,JavaScript,"License(name=""Apache License 2.0"")",5679,26,8,16,7,0.4,73,2,0,0.5,4,0.32544
+graphql-design-tutorial,https://github.com/Shopify/graphql-design-tutorial,,"License(name=""MIT License"")",1458,28,1,17,7,0.1,0,2,2,1.0,4,0.32254
+RETableViewManager,https://github.com/romaonthego/RETableViewManager,Objective-C,"License(name=""MIT License"")",2513,96,57,32,9,0.0,5,0,0,0,43,0.32201
+the-coding-interview,https://github.com/mre/the-coding-interview,Python,"License(name=""MIT License"")",1255,87,4,51,5,0.1,0,0,0,0,18,0.32183
+PSTCollectionView,https://github.com/steipete/PSTCollectionView,Objective-C,"License(name=""MIT License"")",2549,103,49,97,10,0.0,1,0,0,0,12,0.32064
+awesome-point-cloud-analysis,https://github.com/Yochengliu/awesome-point-cloud-analysis,,404-NotFound,2480,21,1,13,9,0.5,0,5,1,0.0,17,0.32059
+courses,https://github.com/DataScienceSpecialization/courses,HTML,404-NotFound,3686,85,59,13,7,0.0,0,0,0,0,1949,0.31959
+SDE-Interview-Questions,https://github.com/twowaits/SDE-Interview-Questions,Java,"License(name=""MIT License"")",3881,39,3,57,4,1.0,0,28,15,0.5,0,0.31903
+trace.moe,https://github.com/soruly/trace.moe,PHP,"License(name=""MIT License"")",2538,56,1,10,5,0.8,0,5,5,2.0,0,0.3177
+pyrasite,https://github.com/lmacken/pyrasite,Python,"License(name=""GNU General Public License v3.0"")",2511,114,47,20,9,0.0,0,9,0,0.9,20,0.31624
+goworker,https://github.com/benmanns/goworker,Go,"License(name=""Other"")",2501,91,5,19,10,0.1,1,1,0,1.0,0,0.31557
+image-match,https://github.com/EdjoLabs/image-match,Python,404-NotFound,2500,75,2,17,8,0.1,2,8,2,0.1,0,0.31497
+android-mvvm-architecture,https://github.com/MindorksOpenSource/android-mvvm-architecture,Java,"License(name=""Apache License 2.0"")",2516,43,4,14,5,0.1,0,5,3,0.6,19,0.3133
+fe-news,https://github.com/naver/fe-news,,404-NotFound,1349,12,0,17,4,1.9,0,3,3,0.7,4,0.31038
+USTC-Course,https://github.com/USTC-Resource/USTC-Course,C++,404-NotFound,9683,25,3,9,6,0.3,0,1,1,1.0,29,0.30944
+Source-Code-from-Tutorials,https://github.com/buckyroberts/Source-Code-from-Tutorials,Python,404-NotFound,2142,72,5,20,6,0.0,0,1,1,1.0,4,0.30872
+rnpm,https://github.com/rnpm/rnpm,JavaScript,"License(name=""MIT License"")",2499,63,54,15,7,0.0,5,0,0,0,190,0.30849
+elm-architecture-tutorial,https://github.com/evancz/elm-architecture-tutorial,Elm,"License(name=""BSD 3-Clause ""New"" or ""Revised"" License"")",4120,73,13,27,6,0.0,0,0,0,0,85,0.30824
+IntelliJ-IDEA-Tutorial,https://github.com/judasn/IntelliJ-IDEA-Tutorial,,"License(name=""GNU General Public License v2.0"")",17231,66,1,33,3,0.1,0,0,0,0,20,0.30779
+Flotr2,https://github.com/HumbleSoftware/Flotr2,JavaScript,"License(name=""MIT License"")",2451,116,79,23,11,0.0,0,0,0,0,164,0.30632
+golang-web-dev,https://github.com/GoesToEleven/golang-web-dev,Go,404-NotFound,2538,54,13,16,7,0.0,0,1,0,1.0,23,0.30504
+java-interview,https://github.com/enhorse/java-interview,Batchfile,404-NotFound,1214,45,0,25,4,1.0,0,8,8,0.0,0,0.30504
+sublime-jsdocs,https://github.com/spadgos/sublime-jsdocs,Python,"License(name=""MIT License"")",3140,113,66,38,6,0.0,6,1,0,0.0,21,0.30466
+IconPark,https://github.com/bytedance/IconPark,TypeScript,"License(name=""Apache License 2.0"")",2603,6,0,7,1,1.7,51,100,41,1.1,0,0.30409
+fe-interview,https://github.com/azl397985856/fe-interview,JavaScript,"License(name=""Apache License 2.0"")",1791,19,2,11,3,0.4,1,9,9,1.1,8,0.30399
+Interview,https://github.com/apachecn/Interview,Jupyter Notebook,"License(name=""GNU General Public License v3.0"")",6731,40,0,50,3,1.6,0,0,0,0,2,0.3037
+usehooks,https://github.com/gragland/usehooks,JavaScript,"License(name=""The Unlicense"")",2583,25,1,15,4,1.1,0,25,10,1.2,0,0.30363
+automagica,https://github.com/automagica/automagica,Python,404-NotFound,2470,36,3,9,2,6.2,0,2,1,0.5,40,0.30187
+interview_python,https://github.com/taizilongxu/interview_python,Shell,404-NotFound,13461,70,6,24,8,0.1,0,2,0,1.5,0,0.30165
+tensorflow-docs,https://github.com/xitu/tensorflow-docs,Jupyter Notebook,404-NotFound,3759,35,21,35,7,0.0,0,1,0,3.0,3,0.30157
+TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10,https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10,Python,"License(name=""Apache License 2.0"")",2535,36,1,8,3,0.6,0,26,9,0.8,4,0.30076
+node-interview,https://github.com/ElemeFE/node-interview,HTML,"License(name=""MIT License"")",9708,48,26,30,9,0.0,0,4,3,0.2,15,0.3006
+AhMyth-Android-RAT,https://github.com/AhMyth/AhMyth-Android-RAT,Smali,"License(name=""GNU General Public License v3.0"")",2497,43,4,9,2,0.5,0,34,5,1.1,19,0.29989
+komiser,https://github.com/mlabouardy/komiser,Go,"License(name=""MIT License"")",2535,36,0,6,4,0.0,2,5,3,0.2,4,0.29945
+tinykeys,https://github.com/jamiebuilds/tinykeys,TypeScript,"License(name=""MIT License"")",2459,6,3,9,6,1.1,18,24,15,0.6,0,0.29932
+albert,https://github.com/google-research/albert,Python,"License(name=""Apache License 2.0"")",2557,14,6,14,6,0.6,0,11,2,1.2,10,0.29818
+AndroidInterview-Q-A,https://github.com/JackyAndroid/AndroidInterview-Q-A,JavaScript,404-NotFound,7770,55,4,14,6,0.2,0,2,1,0.5,6,0.29712
+tech-interview,https://github.com/WeareSoft/tech-interview,,404-NotFound,1374,29,1,14,4,0.7,0,1,1,1.0,4,0.29709
+JavaVerbalExpressions,https://github.com/VerbalExpressions/JavaVerbalExpressions,Java,"License(name=""MIT License"")",2477,91,18,25,5,0.0,1,2,0,0.5,10,0.29677
+egghead.io_redux_course_notes,https://github.com/tayiorbeii/egghead.io_redux_course_notes,,404-NotFound,2519,62,14,41,5,0.0,0,1,0,1.0,6,0.29546
+flare-vm,https://github.com/fireeye/flare-vm,PowerShell,"License(name=""Apache License 2.0"")",2571,43,2,17,3,0.3,1,29,9,0.8,0,0.29491
+html-css,https://github.com/gustavoguanabara/html-css,HTML,"License(name=""MIT License"")",2474,10,1,3,3,4.9,0,49,17,1.4,5,0.29461
+vuepack,https://github.com/egoist/vuepack,JavaScript,"License(name=""MIT License"")",2480,63,11,12,6,0.2,1,1,0,1.0,7,0.29435
+klein.php,https://github.com/klein/klein.php,PHP,"License(name=""MIT License"")",2567,119,48,40,7,0.0,2,3,2,1.0,0,0.29276
+Agriculture_KnowledgeGraph,https://github.com/qq547276542/Agriculture_KnowledgeGraph,Python,"License(name=""GNU General Public License v3.0"")",2552,38,2,3,2,0.1,0,10,0,1.6,76,0.29173
+xhprof,https://github.com/phacility/xhprof,PHP,"License(name=""Apache License 2.0"")",2487,144,72,31,8,0.0,0,0,0,0,67,0.2916
+ml-coursera-python-assignments,https://github.com/dibgerge/ml-coursera-python-assignments,Jupyter Notebook,404-NotFound,3853,35,7,16,6,0.1,0,4,1,0.0,33,0.29139
+OpsManage,https://github.com/welliamcao/OpsManage,Python,"License(name=""GNU General Public License v2.0"")",2562,45,3,11,2,1.0,2,5,0,0.4,16,0.29133
+jquery-boilerplate,https://github.com/jquery-boilerplate/jquery-boilerplate,JavaScript,404-NotFound,2570,118,59,25,10,0.0,1,0,0,0,19,0.29054
+deep-learning-from-scratch,https://github.com/oreilly-japan/deep-learning-from-scratch,Python,"License(name=""MIT License"")",2546,55,4,16,5,0.1,0,1,0,0.0,25,0.29027
+30-seconds-of-interviews,https://github.com/30-seconds/30-seconds-of-interviews,JavaScript,"License(name=""MIT License"")",8385,34,11,49,6,0.1,0,1,1,1.0,2,0.29011
+robotics-coursework,https://github.com/mithi/robotics-coursework,,"License(name=""The Unlicense"")",1339,43,2,4,3,0.5,0,5,1,6.8,0,0.28958
+medium-api-docs,https://github.com/Medium/medium-api-docs,,404-NotFound,1810,64,4,18,8,0.1,0,0,0,0,6,0.28858
+jwt_tool,https://github.com/ticarpi/jwt_tool,Python,"License(name=""GNU General Public License v3.0"")",1615,48,0,3,0,0.4,7,12,11,2.1,4,0.28835
+certified-kubernetes-administrator-course,https://github.com/kodekloudhub/certified-kubernetes-administrator-course,Shell,404-NotFound,1454,7,0,11,4,12.2,0,19,11,0.2,0,0.28815
+my-mind,https://github.com/ondras/my-mind,JavaScript,"License(name=""MIT License"")",2585,87,2,10,3,0.1,0,4,3,2.0,0,0.28607
+Machine-Learning-Tutorials,https://github.com/ujjwalkarn/Machine-Learning-Tutorials,,"License(name=""Creative Commons Zero v1.0 Universal"")",10980,65,9,33,10,0.1,0,8,2,0.0,0,0.28574
+walle,https://github.com/Meituan-Dianping/walle,Java,"License(name=""Apache License 2.0"")",5835,49,1,6,2,0.0,0,13,4,0.5,17,0.28499
+linux-sysadmin-interview-questions,https://github.com/chassing/linux-sysadmin-interview-questions,,"License(name=""The Unlicense"")",4002,84,19,35,4,0.0,0,1,0,0.0,38,0.28393
+pdf-bot,https://github.com/esbenp/pdf-bot,JavaScript,"License(name=""MIT License"")",2505,42,3,6,3,0.0,7,3,1,0.3,9,0.28393
+browsix,https://github.com/plasma-umass/browsix,JavaScript,"License(name=""Other"")",2465,65,21,11,7,0.0,1,1,0,1.0,8,0.28359
+homework,https://github.com/berkeleydeeprlcourse/homework,Python,"License(name=""MIT License"")",1339,48,27,11,3,0.0,0,5,3,0.4,205,0.28215
+animatable,https://github.com/LeaVerou/animatable,HTML,404-NotFound,2525,112,5,16,7,0.0,0,0,0,0,4,0.28116
+os-tutorial,https://github.com/cfenollosa/os-tutorial,C,"License(name=""BSD 3-Clause ""New"" or ""Revised"" License"")",19704,77,27,13,3,0.0,0,14,2,1.1,23,0.28081
+matplotlib-tutorial,https://github.com/rougier/matplotlib-tutorial,Python,404-NotFound,1799,94,1,8,4,0.1,0,2,2,1.0,0,0.28058
+SpotMenu,https://github.com/kmikiy/SpotMenu,Swift,"License(name=""MIT License"")",2513,53,4,15,4,0.0,3,10,0,0.8,0,0.28017
+CircularReveal,https://github.com/ozodrukh/CircularReveal,Java,"License(name=""MIT License"")",2470,75,32,16,7,0.0,3,1,0,0.0,15,0.28
+mysql-tutorial,https://github.com/jaywcjlove/mysql-tutorial,,404-NotFound,2948,52,2,14,5,0.0,0,0,0,0,12,0.27916
+iOSInterviewQuestions,https://github.com/ChenYilong/iOSInterviewQuestions,C++,404-NotFound,8596,66,7,21,8,0.2,0,2,1,0.5,0,0.27801
+opendevops,https://github.com/opendevops-cn/opendevops,Python,"License(name=""GNU General Public License v3.0"")",2525,26,0,13,2,0.7,0,11,8,0.1,3,0.27793
+belle,https://github.com/nikgraf/belle,JavaScript,"License(name=""MIT License"")",2515,71,32,20,11,0.0,0,1,1,0.0,12,0.27646
+CppPrimer,https://github.com/pezy/CppPrimer,C++,"License(name=""Creative Commons Zero v1.0 Universal"")",2465,81,15,66,1,0.0,0,8,0,0.5,19,0.27635
+TensorFlow-Tutorials,https://github.com/nlintz/TensorFlow-Tutorials,Jupyter Notebook,404-NotFound,5896,63,46,21,6,0.0,0,0,0,0,133,0.27626
+tutorials,https://github.com/MorvanZhou/tutorials,Python,"License(name=""MIT License"")",8796,56,3,9,4,0.1,0,2,1,1.0,3,0.27601
+java8-tutorial,https://github.com/winterbe/java8-tutorial,Java,"License(name=""MIT License"")",14273,83,28,11,5,0.0,0,1,0,0.0,134,0.27539
+angular-http-auth,https://github.com/witoldsz/angular-http-auth,JavaScript,"License(name=""MIT License"")",2436,103,40,33,8,0.0,1,0,0,0,6,0.27531
+flutter-tutorials,https://github.com/FilledStacks/flutter-tutorials,Dart,"License(name=""MIT License"")",3336,23,1,6,2,0.6,0,10,4,1.0,9,0.27499
+juicefs,https://github.com/juicedata/juicefs,Go,"License(name=""GNU Affero General Public License v3.0"")",2241,0,0,10,4,1.3,3,76,67,1.1,0,0.27475
+brigadier,https://github.com/Mojang/brigadier,Java,"License(name=""MIT License"")",2495,77,24,12,2,0.0,0,8,1,3.0,10,0.27445
+MSEdge,https://github.com/MicrosoftEdge/MSEdge,,"License(name=""MIT License"")",2508,26,3,11,7,0.0,0,1,1,2.0,0,0.2737
+raspi3-tutorial,https://github.com/bztsrc/raspi3-tutorial,C,"License(name=""MIT License"")",1603,37,2,7,2,0.3,0,5,5,1.0,9,0.27355
+123-Essential-JavaScript-Interview-Questions,https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions,,"License(name=""BSD 3-Clause ""New"" or ""Revised"" License"")",3013,68,5,31,4,0.1,0,0,0,0,7,0.27353
+go_command_tutorial,https://github.com/hyper0x/go_command_tutorial,HTML,"License(name=""GNU General Public License v3.0"")",2926,79,1,19,5,0.1,0,1,1,0.0,0,0.27236
+wireguard-docs,https://github.com/pirate/wireguard-docs,Shell,"License(name=""MIT License"")",2753,20,4,22,7,0.7,0,3,0,1.0,0,0.27187
+awesome-xcode-extensions,https://github.com/theswiftdev/awesome-xcode-extensions,,404-NotFound,2481,54,10,70,8,0.0,0,1,0,0.0,0,0.26983
+LocustDB,https://github.com/cswinter/LocustDB,Rust,"License(name=""Other"")",1225,48,6,12,4,0.7,4,1,0,1.0,0,0.26952
+web-interview,https://github.com/yisainan/web-interview,,"License(name=""MIT License"")",1109,21,0,2,1,0.9,1,6,0,1.2,26,0.26948
+vue-docs-zh-cn,https://github.com/vuejs/vue-docs-zh-cn,,"License(name=""MIT License"")",1326,36,2,12,6,0.1,0,3,2,0.7,0,0.26926
+PyTorch-Tutorial,https://github.com/MorvanZhou/PyTorch-Tutorial,Jupyter Notebook,"License(name=""MIT License"")",5636,45,3,13,3,0.1,0,2,0,1.5,2,0.26862
+botui,https://github.com/botui/botui,JavaScript,"License(name=""MIT License"")",2504,43,7,22,4,0.1,2,9,3,0.4,0,0.26839
+SIAlertView,https://github.com/Sumi-Interactive/SIAlertView,Objective-C,"License(name=""MIT License"")",2561,94,76,20,6,0.0,1,1,1,0.0,29,0.26766
+sequelize-docs-Zh-CN,https://github.com/demopark/sequelize-docs-Zh-CN,,"License(name=""GNU General Public License v2.0"")",2552,43,1,12,3,0.3,0,7,4,0.7,0,0.26716
+TensorFlow-Course,https://github.com/instillai/TensorFlow-Course,Python,"License(name=""MIT License"")",15389,28,2,9,3,3.0,0,5,3,1.2,0,0.26629
+beautiful-docs,https://github.com/PharkMillups/beautiful-docs,,404-NotFound,4802,110,50,70,6,0.0,0,1,0,0.0,4,0.26595
+CS-Interview-Knowledge-Map,https://github.com/InterviewMap/CS-Interview-Knowledge-Map,,404-NotFound,16833,34,13,49,7,0.0,0,4,1,0.5,0,0.26568
+theme,https://github.com/tonik/theme,PHP,"License(name=""MIT License"")",1169,51,6,5,3,0.0,1,3,1,0.7,15,0.26567
+tensorflow_tutorials,https://github.com/pkmital/tensorflow_tutorials,Jupyter Notebook,"License(name=""Other"")",5512,60,28,14,6,0.0,0,2,2,0.0,30,0.26527
+best-pay-sdk,https://github.com/Pay-Group/best-pay-sdk,Java,404-NotFound,2439,48,1,14,0,0.5,2,11,4,0.5,8,0.26467
+android-interview-questions,https://github.com/MindorksOpenSource/android-interview-questions,Java,"License(name=""Apache License 2.0"")",6749,43,4,41,5,0.5,0,2,1,0.0,0,0.26379
+interview,https://github.com/mission-peace/interview,Java,"License(name=""Apache License 2.0"")",9361,79,30,35,5,0.0,0,6,0,0.3,4,0.26359
+react-js-tutorials,https://github.com/learncodeacademy/react-js-tutorials,JavaScript,404-NotFound,1660,60,44,17,5,0.0,0,0,0,0,132,0.26291
+interview,https://github.com/HIT-Alibaba/interview,Shell,404-NotFound,4530,73,10,13,8,0.0,0,0,0,0,6,0.26236
+URLNavigator,https://github.com/devxoul/URLNavigator,Swift,"License(name=""MIT License"")",2554,60,10,13,3,0.3,7,4,2,0.5,0,0.26043
+PGPortfolio,https://github.com/ZhengyaoJiang/PGPortfolio,Python,"License(name=""GNU General Public License v3.0"")",1225,39,21,8,4,0.0,0,9,3,0.8,21,0.26017
+qiubaiying.github.io,https://github.com/qiubaiying/qiubaiying.github.io,HTML,"License(name=""MIT License"")",2503,48,2,2,0,0.1,1,34,3,0.1,435,0.26001
+Signal-Server,https://github.com/signalapp/Signal-Server,Java,404-NotFound,4636,86,9,11,1,0.8,6,12,2,1.2,0,0.25922
+sensey,https://github.com/nisrulz/sensey,Java,"License(name=""Apache License 2.0"")",2582,64,1,3,1,0.4,1,3,2,3.7,0,0.25863
+css-colorguard,https://github.com/SlexAxton/css-colorguard,JavaScript,404-NotFound,2446,80,29,15,9,0.0,3,0,0,0,2,0.25837
+Slidr,https://github.com/r0adkll/Slidr,Java,"License(name=""Apache License 2.0"")",2556,78,17,10,4,0.0,1,1,0,1.0,4,0.25692
+ViewAnimator,https://github.com/florent37/ViewAnimator,Java,"License(name=""Apache License 2.0"")",2530,62,8,11,4,0.1,1,3,0,0.0,6,0.2538
+dpxdt,https://github.com/bslatkin/dpxdt,Python,"License(name=""Apache License 2.0"")",1433,97,53,27,6,0.0,0,0,0,0,16,0.25295
+mxflutter,https://github.com/mxflutter/mxflutter,JavaScript,"License(name=""MIT License"")",2511,19,6,15,3,1.0,2,7,3,0.9,0,0.25294
+android-pulltorefresh,https://github.com/johannilsson/android-pulltorefresh,Java,404-NotFound,2490,122,79,17,9,0.0,0,0,0,0,13,0.25029
+Front-End-Interview-Notebook,https://github.com/CavsZhouyou/Front-End-Interview-Notebook,,404-NotFound,2795,25,3,8,4,1.4,0,8,7,0.6,0,0.24997
+ByteTCC,https://github.com/liuyangming/ByteTCC,Java,"License(name=""GNU Lesser General Public License v3.0"")",2543,60,4,3,0,0.2,5,5,0,1.4,38,0.24996
+db_tutorial,https://github.com/cstack/db_tutorial,C,"License(name=""MIT License"")",4922,41,11,19,7,0.0,0,7,0,0.6,0,0.24982
+Z0FCourse_ReverseEngineering,https://github.com/0xZ0F/Z0FCourse_ReverseEngineering,C++,"License(name=""GNU Affero General Public License v3.0"")",3735,20,1,15,5,1.4,1,0,0,0,0,0.24946
+Back-End-Developer-Interview-Questions,https://github.com/arialdomartini/Back-End-Developer-Interview-Questions,,"License(name=""GNU General Public License v2.0"")",10810,80,8,17,8,0.2,0,1,0,0.0,0,0.24944
+intense-images,https://github.com/tholman/intense-images,JavaScript,404-NotFound,2525,80,12,13,6,0.0,0,0,0,0,6,0.24815
+fr_public,https://github.com/farbrausch/fr_public,C++,404-NotFound,2545,107,46,11,3,0.0,0,1,0,1.0,22,0.24749
+loklak-webtweets,https://github.com/fossasia/loklak-webtweets,Less,404-NotFound,1318,61,2,13,5,0.0,0,1,1,0.0,0,0.24468
+Awesome-Android-Interview,https://github.com/JsonChao/Awesome-Android-Interview,,"License(name=""Apache License 2.0"")",3010,30,0,5,2,0.9,0,0,0,0,12,0.24456
+coursera-android,https://github.com/aporter/coursera-android,Java,"License(name=""MIT License"")",4289,86,16,7,3,0.0,0,0,0,0,77,0.24363
+udacity-course,https://github.com/flutter/udacity-course,Dart,"License(name=""BSD 3-Clause ""New"" or ""Revised"" License"")",1243,41,18,19,4,0.0,0,0,0,0,30,0.24275
+vue-content-loader,https://github.com/egoist/vue-content-loader,JavaScript,404-NotFound,2467,34,6,7,2,0.1,1,12,4,0.6,4,0.24245
+kubernetes-course,https://github.com/wardviaene/kubernetes-course,Shell,"License(name=""MIT License"")",1240,51,2,5,2,0.3,0,1,1,0.0,19,0.24113
+git-sketch-plugin,https://github.com/mathieudutour/git-sketch-plugin,JavaScript,"License(name=""MIT License"")",2446,61,6,11,6,0.2,2,0,0,0,0,0.24034
+fbs-tutorial,https://github.com/mherrmann/fbs-tutorial,Python,"License(name=""GNU General Public License v3.0"")",1340,37,2,4,3,0.1,0,3,2,2.0,0,0.24016
+PyTorch_YOLOv4,https://github.com/WongKinYiu/PyTorch_YOLOv4,Python,404-NotFound,1047,7,0,1,1,1.2,0,145,49,3.2,0,0.23992
+aresdb,https://github.com/uber/aresdb,Go,"License(name=""Apache License 2.0"")",2645,28,9,14,5,0.2,1,1,0,1.0,0,0.23851
+Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials,https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials,Python,"License(name=""Other"")",2650,43,2,4,1,4.6,0,43,21,0.5,0,0.23837
+custom-alfred-iterm-scripts,https://github.com/vitorgalvao/custom-alfred-iterm-scripts,AppleScript,"License(name=""The Unlicense"")",2521,66,3,8,2,0.2,1,1,1,1.0,0,0.2382
+Linux-Tutorial,https://github.com/judasn/Linux-Tutorial,Shell,"License(name=""GNU General Public License v2.0"")",7409,63,3,20,4,0.1,0,1,0,0.0,0,0.23749
+frontend-hard-mode-interview,https://github.com/coffe1891/frontend-hard-mode-interview,JavaScript,"License(name=""Other"")",1340,17,0,4,1,12.3,0,4,2,0.8,0,0.23708
+binance-official-api-docs,https://github.com/binance-exchange/binance-official-api-docs,,404-NotFound,3169,38,1,1,0,0.0,0,13,13,0.4,191,0.23702
+FE-Interview,https://github.com/lgwebdream/FE-Interview,JavaScript,"License(name=""Other"")",2275,8,0,5,1,4.5,0,134,4,0.8,0,0.23637
+no-framework-tutorial,https://github.com/PatrickLouys/no-framework-tutorial,,"License(name=""MIT License"")",1343,77,28,19,5,0.0,0,0,0,0,9,0.23622
+kotlinconf-app,https://github.com/JetBrains/kotlinconf-app,Kotlin,"License(name=""Apache License 2.0"")",2542,39,14,20,6,0.0,0,0,0,0,5,0.23577
+loadjs,https://github.com/muicss/loadjs,JavaScript,"License(name=""MIT License"")",2454,67,9,12,1,0.1,5,0,0,0,15,0.23521
+reverse-interview,https://github.com/viraptor/reverse-interview,,"License(name=""Other"")",16153,16,6,43,7,0.1,0,1,0,0.0,0,0.23474
+cobra,https://github.com/WhaleShark-Team/cobra,Python,"License(name=""MIT License"")",2555,58,17,24,3,0.0,7,3,0,0.0,0,0.23275
+codesearch,https://github.com/google/codesearch,Go,"License(name=""BSD 3-Clause ""New"" or ""Revised"" License"")",2581,110,10,2,1,0.0,0,0,0,0,503,0.23264
+awesome-bots,https://github.com/MaximAbramchuck/awesome-bots,,404-NotFound,2571,47,25,54,7,0.0,0,1,0,0.0,0,0.23255
+The-Flask-Mega-Tutorial-zh,https://github.com/luhuisicnu/The-Flask-Mega-Tutorial-zh,,404-NotFound,3000,36,3,9,1,0.1,0,1,1,1.0,8,0.2322
+intellij-idea-tutorial,https://github.com/guobinhit/intellij-idea-tutorial,,"License(name=""MIT License"")",1674,45,2,4,1,0.3,1,1,1,1.0,4,0.23012
+taobao-11-11,https://github.com/hyue418/taobao-11-11,JavaScript,404-NotFound,2543,3,2,2,0,2.5,0,170,22,2.2,35,0.22951
+parker,https://github.com/katiefenn/parker,JavaScript,"License(name=""Other"")",2455,84,54,19,6,0.0,0,0,0,0,8,0.22831
+pytorch-seq2seq,https://github.com/bentrevett/pytorch-seq2seq,Jupyter Notebook,"License(name=""MIT License"")",2448,30,1,5,0,0.6,0,19,8,1.3,5,0.22807
+json-tutorial,https://github.com/miloyip/json-tutorial,C,404-NotFound,4128,53,17,6,2,0.0,0,8,2,1.8,3,0.22592
+AnimeGAN,https://github.com/TachibanaYoshino/AnimeGAN,Python,404-NotFound,2587,18,4,2,1,1.5,5,3,1,2.0,2,0.22537
+DocHub,https://github.com/TruthHun/DocHub,Go,"License(name=""Apache License 2.0"")",2466,33,16,4,0,0.0,3,3,1,3.7,24,0.22395
+Shadowsocks-Tutorial,https://github.com/zhaoweih/Shadowsocks-Tutorial,,404-NotFound,1234,34,0,3,0,0.7,2,2,2,1.0,3,0.2236
+life,https://github.com/cheeaun/life,HTML,404-NotFound,2552,87,27,12,6,0.0,0,0,0,0,4,0.22328
+android-training-course-in-chinese,https://github.com/kesenhoo/android-training-course-in-chinese,JavaScript,"License(name=""Apache License 2.0"")",10623,80,40,99,4,0.0,0,0,0,0,0,0.22288
+os_course_info,https://github.com/chyyuu/os_course_info,,404-NotFound,2167,76,0,7,2,0.3,0,0,0,0,0,0.22237
+Yosoro,https://github.com/IceEnd/Yosoro,JavaScript,"License(name=""GNU General Public License v3.0"")",2458,34,17,9,2,0.0,6,8,1,0.2,3,0.22111
+LiveEventBus,https://github.com/JeremyLiao/LiveEventBus,Java,"License(name=""Apache License 2.0"")",2537,31,1,4,1,0.4,0,10,1,2.0,0,0.22018
+redux-tutorial,https://github.com/happypoulp/redux-tutorial,JavaScript,404-NotFound,3802,66,44,49,7,0.0,0,0,0,0,0,0.21986
+devdocs-desktop,https://github.com/egoist/devdocs-desktop,JavaScript,"License(name=""MIT License"")",2759,54,10,11,3,0.4,1,12,0,0.2,0,0.21969
+ansible-interactive-tutorial,https://github.com/turkenh/ansible-interactive-tutorial,Shell,"License(name=""Other"")",1301,41,8,11,4,0.0,0,1,0,1.0,0,0.2196
+sre-interview-prep-guide,https://github.com/mxssl/sre-interview-prep-guide,,404-NotFound,1506,24,1,7,2,0.3,0,2,1,1.0,0,0.21956
+WebpackTutorial,https://github.com/AriaFallah/WebpackTutorial,JavaScript,"License(name=""MIT License"")",2224,60,45,16,7,0.0,0,0,0,0,5,0.21934
+peach,https://github.com/peachdocs/peach,Go,"License(name=""Apache License 2.0"")",1145,65,9,7,3,0.0,1,0,0,0,6,0.21902
+interview-questions-in-javascript,https://github.com/kennymkchan/interview-questions-in-javascript,,"License(name=""MIT License"")",3126,59,27,16,7,0.0,0,0,0,0,2,0.21869
+NRLPapers,https://github.com/thunlp/NRLPapers,TeX,404-NotFound,2433,45,6,19,5,0.1,0,0,0,0,0,0.21847
+IntruderPayloads,https://github.com/1N3/IntruderPayloads,BitBake,404-NotFound,2452,64,7,4,3,0.0,0,0,0,0,20,0.21846
+iOS-InterviewQuestion-collection,https://github.com/liberalisman/iOS-InterviewQuestion-collection,Objective-C,"License(name=""MIT License"")",2643,35,1,5,3,0.1,0,4,0,0.5,0,0.21836
+node-api-boilerplate,https://github.com/talyssonoc/node-api-boilerplate,JavaScript,"License(name=""MIT License"")",2519,47,12,7,3,0.0,1,4,0,0.2,4,0.21759
+iodocs,https://github.com/mashery/iodocs,JavaScript,"License(name=""MIT License"")",1901,115,69,50,6,0.0,0,0,0,0,0,0.21648
+hebel,https://github.com/hannes-brt/hebel,Python,"License(name=""GNU General Public License v2.0"")",1182,94,66,8,3,0.0,0,1,0,0.0,60,0.21578
+datasciencecoursera,https://github.com/mGalarnyk/datasciencecoursera,HTML,404-NotFound,1628,49,1,8,2,0.5,0,2,2,0.0,0,0.21564
+Tech-Interview-Cheat-Sheet,https://github.com/TSiege/Tech-Interview-Cheat-Sheet,TypeScript,"License(name=""MIT License"")",1422,17,1,7,3,0.4,0,3,3,0.3,0,0.21537
+RxDocs,https://github.com/mcxiaoke/RxDocs,,404-NotFound,3766,67,33,15,7,0.0,0,0,0,0,2,0.21532
+H5SC,https://github.com/cure53/H5SC,JavaScript,"License(name=""Mozilla Public License 2.0"")",2477,83,13,7,2,0.0,0,0,0,0,27,0.21505
+nlp-tutorial,https://github.com/graykode/nlp-tutorial,Jupyter Notebook,"License(name=""MIT License"")",8092,25,5,12,4,0.1,0,2,0,0.0,2,0.2147
+Interview-Notebook,https://github.com/jianghui-galaxy/Interview-Notebook,,404-NotFound,1410,36,34,36,8,0.0,0,1,0,0.0,0,0.2137
+LearnMiniProgram,https://github.com/coderwhy/LearnMiniProgram,JavaScript,"License(name=""MIT License"")",2442,20,19,1,10,0.0,9,1,0,1.0,0,0.21329
+lsix,https://github.com/hackerb9/lsix,Shell,"License(name=""GNU General Public License v3.0"")",2486,44,4,5,0,0.1,1,1,0,3.0,5,0.21313
+datascience,https://github.com/r0f1/datascience,,"License(name=""Other"")",2493,26,0,8,2,1.4,0,0,0,0,0,0.21036
+LearnDataScience,https://github.com/nborwankar/LearnDataScience,Jupyter Notebook,"License(name=""Other"")",2557,91,18,8,1,0.0,0,0,0,0,66,0.20879
+OpenCV-Python-Tutorial,https://github.com/makelove/OpenCV-Python-Tutorial,Python,"License(name=""MIT License"")",2186,64,0,2,1,0.1,0,3,2,0.7,0,0.20806
+InterviewThis,https://github.com/Twipped/InterviewThis,,"License(name=""Other"")",2871,94,46,19,8,0.0,0,0,0,0,0,0.20782
+PHP-Interview,https://github.com/xianyunyh/PHP-Interview,PHP,404-NotFound,1097,33,7,8,1,0.1,0,2,1,0.5,12,0.20739
+python-for-absolute-beginners-course,https://github.com/talkpython/python-for-absolute-beginners-course,Python,"License(name=""MIT License"")",1268,14,1,2,1,1.3,0,9,7,1.0,2,0.20734
+redis-windows,https://github.com/ServiceStack/redis-windows,Shell,404-NotFound,2520,87,20,14,6,0.0,0,0,0,0,0,0.20543
+enjarify,https://github.com/google/enjarify,Python,"License(name=""Apache License 2.0"")",2572,68,48,6,3,0.0,1,0,0,0,30,0.20411
+strml.net,https://github.com/STRML/strml.net,JavaScript,404-NotFound,2458,70,0,1,1,0.0,0,7,4,0.6,0,0.20314
+QASystemOnMedicalKG,https://github.com/liuhuanyong/QASystemOnMedicalKG,Python,404-NotFound,2574,28,5,2,2,0.0,0,3,0,2.3,2,0.20283
+transferee,https://github.com/Hitomis/transferee,Java,404-NotFound,2517,49,7,2,1,1.8,5,13,1,0.6,0,0.20178
+TensorFlow-Tutorials,https://github.com/Hvass-Labs/TensorFlow-Tutorials,Jupyter Notebook,"License(name=""MIT License"")",8644,55,9,1,1,0.0,0,6,5,1.5,9,0.2014
+Java-Tutorial,https://github.com/h2pl/Java-Tutorial,Java,404-NotFound,4484,33,5,8,1,0.2,0,3,1,0.0,12,0.20072
+transferlearning-tutorial,https://github.com/jindongwang/transferlearning-tutorial,TeX,404-NotFound,1862,34,12,11,5,0.0,2,0,0,0,0,0.20046
+Coursera-ML-AndrewNg-Notes,https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes,HTML,404-NotFound,20362,39,4,7,1,0.2,0,5,1,0.0,7,0.20002
+python_interview_question,https://github.com/kenwoodjw/python_interview_question,,404-NotFound,4114,23,9,11,3,0.0,0,0,0,0,9,0.19942
+gitdocs,https://github.com/nesquena/gitdocs,JavaScript,"License(name=""MIT License"")",1145,111,46,10,4,0.0,5,0,0,0,0,0.19849
+subbrute,https://github.com/TheRook/subbrute,Python,"License(name=""GNU General Public License v3.0"")",2563,105,48,10,2,0.0,0,0,0,0,26,0.19817
+numpy-cn,https://github.com/teadocs/numpy-cn,JavaScript,404-NotFound,1361,32,6,6,2,0.2,0,1,0,0.0,10,0.19658
+ChatBotCourse,https://github.com/lcdevelop/ChatBotCourse,Python,"License(name=""MIT License"")",4905,56,1,4,1,0.1,0,1,0,1.0,0,0.19647
+OpenCV-Python-Tutorial,https://github.com/CodecWang/OpenCV-Python-Tutorial,Python,404-NotFound,2021,28,5,8,3,0.2,0,3,1,0.3,0,0.19596
+renren-fast-vue,https://github.com/renrenio/renren-fast-vue,JavaScript,"License(name=""MIT License"")",2493,36,3,4,0,0.0,2,13,2,1.1,2,0.19564
+game-developer-roadmap,https://github.com/utilForever/game-developer-roadmap,,"License(name=""MIT License"")",2575,45,11,9,2,0.1,0,4,1,0.2,2,0.19543
+infrastructure-as-code-tutorial,https://github.com/Artemmkin/infrastructure-as-code-tutorial,,"License(name=""Apache License 2.0"")",1735,36,13,12,6,0.0,0,1,0,0.0,0,0.19496
+easy12306,https://github.com/zhaipro/easy12306,Python,"License(name=""Artistic License 2.0"")",2582,71,8,7,0,0.0,1,2,1,1.0,5,0.19474
+ShameCom,https://github.com/ShameCom/ShameCom,,"License(name=""MIT License"")",2460,3,1,5,1,0.5,0,35,27,1.5,0,0.19406
+interviewGuide,https://github.com/NotFound9/interviewGuide,Java,404-NotFound,2006,58,0,3,1,2.5,0,0,0,0,0,0.19366
+PyQt5-Chinese-tutorial,https://github.com/maicss/PyQt5-Chinese-tutorial,,"License(name=""MIT License"")",2186,52,0,4,0,0.1,0,5,5,0.8,0,0.19317
+machine-learning-interview,https://github.com/khangich/machine-learning-interview,,404-NotFound,1512,5,0,5,1,3.8,0,1,1,1.0,0,0.19316
+docsite,https://github.com/txd-team/docsite,JavaScript,"License(name=""MIT License"")",1351,31,6,7,3,0.1,0,3,2,0.3,0,0.19266
+project-based-tutorials-in-c,https://github.com/rby90/project-based-tutorials-in-c,,404-NotFound,5627,34,4,5,1,0.5,0,2,0,0.0,12,0.19172
+a-PyTorch-Tutorial-to-Image-Captioning,https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning,Python,"License(name=""MIT License"")",1355,32,8,5,1,0.1,0,16,5,0.7,2,0.19116
+Technical-Interview-Megarepo,https://github.com/jdsutton/Technical-Interview-Megarepo,,404-NotFound,1426,57,28,12,7,0.0,0,0,0,0,0,0.18988
+interview-questions,https://github.com/resumejob/interview-questions,,404-NotFound,2134,3,0,4,2,0.3,0,5,4,1.0,0,0.18974
+rust-algorithms,https://github.com/EbTech/rust-algorithms,Rust,"License(name=""MIT License"")",2502,45,4,5,2,0.4,0,0,0,0,3,0.18843
+NiftyDialogEffects,https://github.com/sd6352051/NiftyDialogEffects,Java,404-NotFound,2484,79,10,6,2,0.0,1,0,0,0,2,0.1884
+reverse-interview-zh,https://github.com/yifeikong/reverse-interview-zh,,"License(name=""Other"")",6423,16,4,8,6,0.1,0,0,0,0,0,0.18781
+tensorflow-tutorial,https://github.com/caicloud/tensorflow-tutorial,Jupyter Notebook,404-NotFound,2926,49,17,14,5,0.0,0,0,0,0,0,0.18778
+Red-Team-Infrastructure-Wiki,https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki,,"License(name=""BSD 3-Clause ""New"" or ""Revised"" License"")",2569,47,10,16,3,0.0,0,1,0,0.0,0,0.18721
+react-morph,https://github.com/brunnolou/react-morph,TypeScript,404-NotFound,2505,36,18,6,5,0.0,4,0,0,0,0,0.18674
+react-course,https://github.com/uidotdev/react-course,,404-NotFound,2454,61,2,1,1,0.1,0,5,4,1.2,0,0.18602
+three.ar.js,https://github.com/google-ar/three.ar.js,JavaScript,"License(name=""Apache License 2.0"")",2561,42,35,18,3,0.0,1,0,0,0,2,0.18578
+redux-tutorial-cn,https://github.com/react-guide/redux-tutorial-cn,JavaScript,404-NotFound,1887,60,21,17,3,0.0,0,2,1,0.0,0,0.18525
+LifeHelper,https://github.com/yangchong211/LifeHelper,Java,404-NotFound,2519,40,3,2,1,0.1,0,2,0,0.0,15,0.18037
+rawact,https://github.com/sokra/rawact,JavaScript,"License(name=""MIT License"")",2568,27,26,8,2,0.0,3,2,0,0.0,5,0.17995
+nginx-tutorials,https://github.com/openresty/nginx-tutorials,Perl,404-NotFound,2580,111,10,11,2,0.0,0,0,0,0,0,0.17947
+120-Data-Science-Interview-Questions,https://github.com/kojino/120-Data-Science-Interview-Questions,,404-NotFound,2357,38,12,14,3,0.0,0,3,0,0.0,0,0.17935
+reactjs-interview-questions,https://github.com/semlinker/reactjs-interview-questions,JavaScript,404-NotFound,1684,22,5,7,2,0.0,0,0,0,0,6,0.1792
+android_interview,https://github.com/LRH1993/android_interview,HTML,404-NotFound,2605,42,33,6,3,0.0,0,1,0,2.0,0,0.17894
+tips_for_interview,https://github.com/conanhujinming/tips_for_interview,,"License(name=""Other"")",1732,22,1,2,1,0.8,0,2,2,1.0,0,0.17887
+rubber-docker,https://github.com/Fewbytes/rubber-docker,Python,"License(name=""MIT License"")",2573,60,33,14,5,0.0,0,0,0,0,0,0.17706
+a-PyTorch-Tutorial-to-Object-Detection,https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection,Python,"License(name=""MIT License"")",1829,30,5,2,1,0.1,0,9,0,1.0,3,0.17644
+Full-stack-Developer-Interview-Questions-and-Answers,https://github.com/indy256/Full-stack-Developer-Interview-Questions-and-Answers,,"License(name=""The Unlicense"")",1977,74,16,8,4,0.0,0,0,0,0,0,0.17607
+PHP-Interview-QA,https://github.com/colinlet/PHP-Interview-QA,,"License(name=""Apache License 2.0"")",2116,29,2,7,0,0.1,1,1,1,0.0,7,0.17478
+machine-learning-course,https://github.com/instillai/machine-learning-course,Python,404-NotFound,6586,23,9,10,3,0.1,1,1,0,0.0,0,0.17452
+CodingInterviews,https://github.com/gatieme/CodingInterviews,C++,"License(name=""GNU General Public License v3.0"")",3905,58,28,5,3,0.0,0,0,0,0,8,0.17433
+complete-javascript-course,https://github.com/jonasschmedtmann/complete-javascript-course,JavaScript,404-NotFound,5729,32,3,1,0,0.1,0,46,19,0.5,7,0.17431
+front-end-Interview-Questions,https://github.com/khan4019/front-end-Interview-Questions,HTML,404-NotFound,2150,86,43,12,2,0.0,0,0,0,0,5,0.17361
+Android-Daily-Interview,https://github.com/Moosphan/Android-Daily-Interview,,404-NotFound,3744,23,7,5,1,0.1,0,39,0,1.3,0,0.1729
+Crash-Course-Computer-Science-Chinese,https://github.com/1c7/Crash-Course-Computer-Science-Chinese,JavaScript,404-NotFound,6476,40,7,8,2,0.4,0,2,1,0.0,0,0.17279
+ssh-tutorial,https://github.com/wangdoc/ssh-tutorial,,404-NotFound,1193,1,0,6,1,0.7,0,12,11,0.7,0,0.17119
+soft-eng-interview-prep,https://github.com/orrsella/soft-eng-interview-prep,,"License(name=""Other"")",1281,59,14,7,4,0.0,0,0,0,0,0,0.17042
+frontend-interview,https://github.com/jirengu/frontend-interview,,404-NotFound,1168,49,7,2,2,0.0,0,4,0,1.0,0,0.16973
+FE-interview,https://github.com/qiu-deqing/FE-interview,,404-NotFound,6188,80,27,4,2,0.0,0,0,0,0,11,0.16898
+MultiStateView,https://github.com/Kennyc1012/MultiStateView,Kotlin,404-NotFound,1176,70,11,7,2,0.1,1,0,0,0,0,0.16895
+IDDD_Samples,https://github.com/VaughnVernon/IDDD_Samples,Java,"License(name=""Other"")",2505,95,68,6,3,0.0,0,1,1,1.0,0,0.16886
+polybar-themes,https://github.com/adi1090x/polybar-themes,Shell,"License(name=""GNU General Public License v3.0"")",2602,25,1,1,0,0.0,0,36,35,1.3,0,0.1671
+KnowledgeGraphCourse,https://github.com/npubird/KnowledgeGraphCourse,,404-NotFound,2098,23,0,1,1,0.1,0,1,0,1.0,0,0.16694
+Deep_reinforcement_learning_Course,https://github.com/simoninithomas/Deep_reinforcement_learning_Course,Jupyter Notebook,404-NotFound,2826,34,3,1,0,0.1,0,1,0,2.0,9,0.16667
+Front-end-tutorial,https://github.com/windiest/Front-end-tutorial,,404-NotFound,4361,65,44,11,5,0.0,0,0,0,0,0,0.16595
+Miaow,https://github.com/weixin/Miaow,JavaScript,"License(name=""Other"")",2525,50,24,8,3,0.0,2,0,0,0,0,0.16581
+Kotlin-Tutorials,https://github.com/enbandari/Kotlin-Tutorials,Kotlin,404-NotFound,3710,52,7,2,1,0.0,0,0,0,0,20,0.16533
+AD-Attack-Defense,https://github.com/infosecn1nja/AD-Attack-Defense,,404-NotFound,2551,26,1,4,2,0.2,0,0,0,0,0,0.16531
+STPopup,https://github.com/kevin0571/STPopup,Objective-C,"License(name=""MIT License"")",2459,65,20,5,2,0.0,4,1,0,0.0,0,0.165
+euler,https://github.com/alibaba/euler,C++,"License(name=""Apache License 2.0"")",2473,25,6,3,1,0.1,1,14,0,0.9,0,0.16443
+Magic-Grid,https://github.com/e-oj/Magic-Grid,JavaScript,"License(name=""MIT License"")",2537,27,14,10,2,0.0,0,3,2,0.3,0,0.16375
+node-interview-questions,https://github.com/jimuyouyou/node-interview-questions,JavaScript,404-NotFound,1947,65,8,8,2,0.0,0,0,0,0,0,0.16348
+Flutter-Course-Resources,https://github.com/londonappbrewery/Flutter-Course-Resources,,404-NotFound,6372,23,7,3,1,0.0,0,6,0,2.3,0,0.16335
+programmers-introduction-to-mathematics,https://github.com/pim-book/programmers-introduction-to-mathematics,JavaScript,"License(name=""MIT License"")",2509,72,9,4,1,0.1,0,1,0,1.0,0,0.16306
+TensorFlow-Tutorials-for-Time-Series,https://github.com/tgjeon/TensorFlow-Tutorials-for-Time-Series,Jupyter Notebook,"License(name=""MIT License"")",1063,56,42,3,10,0.0,0,0,0,0,0,0.16286
+coder2gwy,https://github.com/coder2gwy/coder2gwy,,404-NotFound,7870,1,0,3,0,1.1,0,56,11,2.2,0,0.16237
+tf2_course,https://github.com/ageron/tf2_course,Jupyter Notebook,"License(name=""Apache License 2.0"")",1740,25,6,3,1,0.0,0,3,1,0.3,5,0.16212
+TensorFlow-2.x-Tutorials,https://github.com/dragen1860/TensorFlow-2.x-Tutorials,Jupyter Notebook,404-NotFound,5743,24,4,3,0,0.1,0,4,0,0.2,34,0.162
+android-interview-guide,https://github.com/sucese/android-interview-guide,Java,"License(name=""MIT License"")",1774,35,10,4,2,0.0,0,1,0,1.0,0,0.16165
+core,https://github.com/JAVClub/core,JavaScript,"License(name=""MIT License"")",2531,10,2,2,1,2.4,1,3,0,0.7,0,0.16153
+material-menu,https://github.com/balysv/material-menu,Java,"License(name=""Apache License 2.0"")",2482,79,51,5,1,0.0,3,2,0,0.0,6,0.16129
+SlidingTutorial-Android,https://github.com/Cleveroad/SlidingTutorial-Android,Java,"License(name=""MIT License"")",2511,64,26,10,1,0.0,0,0,0,0,8,0.1612
+Interview-code-practice-python,https://github.com/leeguandong/Interview-code-practice-python,Python,404-NotFound,1441,37,22,2,10,0.0,0,0,0,0,0,0.16031
+computer-science-in-javascript,https://github.com/benoitvallon/computer-science-in-javascript,JavaScript,"License(name=""MIT License"")",2503,60,35,5,3,0.0,0,0,0,0,4,0.15931
+ipython-notebooks,https://github.com/jdwittenauer/ipython-notebooks,Jupyter Notebook,404-NotFound,2435,81,23,4,2,0.0,0,1,0,0.0,3,0.15815
+glide-docs-cn,https://github.com/Muyangmin/glide-docs-cn,HTML,"License(name=""Creative Commons Attribution 4.0 International"")",1392,41,6,7,2,0.1,0,0,0,0,0,0.15692
+CourseraML,https://github.com/kaleko/CourseraML,Jupyter Notebook,404-NotFound,1839,62,27,1,10,0.0,0,0,0,0,0,0.15669
+statistical-analysis-python-tutorial,https://github.com/fonnesbeck/statistical-analysis-python-tutorial,HTML,404-NotFound,1305,92,67,2,10,0.0,0,0,0,0,0,0.15568
+Java-Interview,https://github.com/xbox1994/Java-Interview,,"License(name=""MIT License"")",2497,34,5,5,1,0.0,0,0,0,0,4,0.15563
+iOS-Developer-and-Designer-Interview-Questions,https://github.com/9magnets/iOS-Developer-and-Designer-Interview-Questions,,"License(name=""MIT License"")",1567,74,44,9,4,0.0,0,0,0,0,0,0.1551
+auxpi,https://github.com/0xDkd/auxpi,Go,"License(name=""GNU General Public License v3.0"")",2483,27,16,3,1,0.0,7,4,1,0.5,0,0.15477
+image-diff,https://github.com/uber-archive/image-diff,JavaScript,"License(name=""MIT License"")",2442,87,41,7,2,0.0,3,0,0,0,0,0.15423
+Back-End-Developer-Interview-Questions,https://github.com/monklof/Back-End-Developer-Interview-Questions,,"License(name=""GNU General Public License v2.0"")",2024,61,34,5,2,0.0,0,1,0,1.0,0,0.15162
+wxapp-market,https://github.com/o2team/wxapp-market,JavaScript,404-NotFound,2498,41,22,2,2,0.0,0,1,0,2.0,0,0.15043
+Tensorflow-101,https://github.com/sjchoi86/Tensorflow-101,Jupyter Notebook,"License(name=""MIT License"")",2523,57,51,4,2,0.0,0,0,0,0,14,0.1496
+RATreeView,https://github.com/Augustyniak/RATreeView,Objective-C,"License(name=""MIT License"")",2453,90,44,11,1,0.0,3,1,0,0.0,0,0.14946
+blockchain-tutorial,https://github.com/liuchengxu/blockchain-tutorial,Go,404-NotFound,1922,40,27,8,4,0.0,0,0,0,0,0,0.14902
+android-interview-questions-cn,https://github.com/stormzhang/android-interview-questions-cn,,"License(name=""Apache License 2.0"")",2555,42,40,11,4,0.0,0,0,0,0,0,0.14878
+godebug,https://github.com/mailgun/godebug,Go,"License(name=""Apache License 2.0"")",2548,73,44,7,4,0.0,0,0,0,0,0,0.14861
+vue-tutorials,https://github.com/keepfool/vue-tutorials,JavaScript,404-NotFound,3558,56,35,5,3,0.0,0,0,0,0,2,0.14848
+formatter.js,https://github.com/jaridmargolin/formatter.js,JavaScript,404-NotFound,2512,89,77,9,3,0.0,1,0,0,0,0,0.14751
+parallel_ml_tutorial,https://github.com/ogrisel/parallel_ml_tutorial,Jupyter Notebook,404-NotFound,1558,98,60,5,2,0.0,0,0,0,0,5,0.14741
+ogl,https://github.com/opengl-tutorials/ogl,C++,404-NotFound,1937,120,35,8,0,0.0,1,2,2,1.0,0,0.14739
+FE-Interview-Questions,https://github.com/poetries/FE-Interview-Questions,,404-NotFound,1656,48,11,4,1,0.0,0,1,0,1.0,0,0.14718
+ViewPagerIndicator,https://github.com/LuckyJayce/ViewPagerIndicator,Java,"License(name=""Apache License 2.0"")",2522,76,13,1,0,0.0,3,2,0,0.0,18,0.14609
+java8-the-missing-tutorial,https://github.com/shekhargulati/java8-the-missing-tutorial,Java,"License(name=""MIT License"")",1537,63,19,9,2,0.0,0,0,0,0,0,0.14604
+blockchain-tutorial,https://github.com/nosequeldeebee/blockchain-tutorial,Go,404-NotFound,1107,36,10,7,2,0.0,0,1,0,0.0,0,0.14589
+sandboxie,https://github.com/sandboxie/sandboxie,C,"License(name=""GNU General Public License v3.0"")",2551,9,9,2,0,0.0,0,18,1,1.3,20,0.1454
+obfuscator,https://github.com/obfuscator-llvm/obfuscator,,404-NotFound,2454,96,43,6,0,0.0,0,6,0,1.2,3,0.1449
+web-development-2021-course-list,https://github.com/andrews1022/web-development-2021-course-list,,404-NotFound,2159,14,0,2,1,0.3,0,1,1,0.0,0,0.14483
+react-interview,https://github.com/Pau1fitz/react-interview,JavaScript,"License(name=""MIT License"")",1313,41,13,9,2,0.0,0,0,0,0,0,0.14446
+nlp-tutorial,https://github.com/lyeoni/nlp-tutorial,Jupyter Notebook,"License(name=""MIT License"")",1159,27,10,3,1,0.4,0,0,0,0,10,0.14395
+messenger-bot-tutorial,https://github.com/jw84/messenger-bot-tutorial,JavaScript,"License(name=""MIT License"")",1857,58,49,8,4,0.0,0,0,0,0,0,0.14372
+NLPer-Interview,https://github.com/songyingxin/NLPer-Interview,,404-NotFound,1139,18,1,2,1,0.2,0,0,0,0,2,0.14239
+Deep-Learning-Interview-Book,https://github.com/amusi/Deep-Learning-Interview-Book,,404-NotFound,2458,19,1,3,1,0.5,0,1,0,0.0,0,0.14048
+grokking-system-design,https://github.com/lei-hsia/grokking-system-design,Shell,404-NotFound,2586,23,2,4,1,0.2,0,2,0,0.0,0,0.14017
+awesome-Face_Recognition,https://github.com/ChanChiChoi/awesome-Face_Recognition,,404-NotFound,2588,27,0,1,0,0.2,0,4,0,0.8,0,0.14005
+Tensorflow-Tutorial,https://github.com/MorvanZhou/Tensorflow-Tutorial,Python,"License(name=""MIT License"")",3925,45,3,4,1,0.1,0,0,0,0,0,0.14001
+fuzzysearch,https://github.com/bevacqua/fuzzysearch,JavaScript,"License(name=""MIT License"")",2508,72,57,3,2,0.0,0,1,0,0.0,7,0.13991
+JApiDocs,https://github.com/YeDaxia/JApiDocs,Java,"License(name=""Apache License 2.0"")",1220,49,4,3,0,0.6,0,21,2,0.2,0,0.13946
+course-nlp,https://github.com/fastai/course-nlp,Jupyter Notebook,404-NotFound,2649,20,11,4,1,0.1,0,3,0,1.3,0,0.13874
+Reverse-Engineering-Tutorial,https://github.com/mytechnotalent/Reverse-Engineering-Tutorial,C++,"License(name=""Apache License 2.0"")",2815,11,0,1,1,3.1,0,0,0,0,0,0.13814
+YAD2K,https://github.com/allanzelener/YAD2K,Python,"License(name=""Other"")",2516,48,43,4,0,0.0,0,3,0,0.3,48,0.13759
+pdd_3years,https://github.com/LeadroyaL/pdd_3years,,404-NotFound,1516,0,0,1,1,0.2,0,4,0,1.2,5,0.13296
+15-minute-apps,https://github.com/learnpyqt/15-minute-apps,Python,"License(name=""MIT License"")",2570,36,8,3,1,0.1,0,4,1,0.2,0,0.13225
+Python-for-Algorithms--Data-Structures--and-Interviews,https://github.com/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews,Jupyter Notebook,404-NotFound,1650,67,37,4,3,0.0,0,1,0,0.0,0,0.13154
+FDStackView,https://github.com/forkingdog/FDStackView,Objective-C,"License(name=""MIT License"")",2562,64,37,5,1,0.0,1,0,0,0,2,0.12874
+iOS-Developer-Interview-Questions,https://github.com/lzyy/iOS-Developer-Interview-Questions,,"License(name=""MIT License"")",1275,71,59,5,2,0.0,0,0,0,0,2,0.12757
+note-of-interview,https://github.com/zhengjianglong915/note-of-interview,,404-NotFound,1476,49,5,3,1,0.2,0,0,0,0,0,0.12742
+sklearn_tutorial,https://github.com/jakevdp/sklearn_tutorial,Jupyter Notebook,"License(name=""BSD 3-Clause ""New"" or ""Revised"" License"")",1389,65,15,3,2,0.0,0,0,0,0,0,0.12696
+LearnCS8-Resume,https://github.com/JordanSchuetz/LearnCS8-Resume,HTML,404-NotFound,2555,16,0,1,1,0.2,0,0,0,0,0,0.12576
+OpenCV2-Python-Tutorials,https://github.com/abidrahmank/OpenCV2-Python-Tutorials,Python,404-NotFound,1124,94,78,8,1,0.0,0,13,0,0.2,0,0.12519
+redux-simple-tutorial,https://github.com/kenberkeley/redux-simple-tutorial,,404-NotFound,2540,54,18,4,1,0.0,0,0,0,0,2,0.12424
+tensorflow-internals,https://github.com/horance-liu/tensorflow-internals,TeX,404-NotFound,2559,42,22,6,2,0.0,0,0,0,0,0,0.12301
+react-redux-tutorial,https://github.com/lewis617/react-redux-tutorial,JavaScript,404-NotFound,2267,61,7,3,1,0.0,0,0,0,0,0,0.12254
+Python-crawler-tutorial-starts-from-zero,https://github.com/Kr1s77/Python-crawler-tutorial-starts-from-zero,Python,404-NotFound,3358,22,8,4,1,0.0,0,3,0,0.3,0,0.12219
+VegaScroll,https://github.com/ApplikeySolutions/VegaScroll,Swift,"License(name=""MIT License"")",2517,41,39,6,2,0.0,1,0,0,0,0,0.12122
+advanced-css-course,https://github.com/jonasschmedtmann/advanced-css-course,CSS,404-NotFound,2668,39,3,1,0,0.0,0,13,3,0.5,0,0.12064
+Algorithms-and-Coding-Interviews,https://github.com/liyin2015/Algorithms-and-Coding-Interviews,Jupyter Notebook,404-NotFound,1143,24,10,4,2,0.1,0,0,0,0,0,0.12012
+HyperDL-Tutorial,https://github.com/zeusees/HyperDL-Tutorial,,404-NotFound,1476,29,15,5,2,0.0,0,0,0,0,0,0.11882
+flink-training-course,https://github.com/flink-china/flink-training-course,,404-NotFound,3395,23,7,4,1,1.1,0,0,0,0,0,0.11805
+Awesome-Interview,https://github.com/Awesome-Interview/Awesome-Interview,,"License(name=""Other"")",1607,22,4,4,1,0.0,0,0,0,0,0,0.1159
+pe_tree,https://github.com/blackberry/pe_tree,Python,"License(name=""Apache License 2.0"")",1053,6,3,2,1,0.1,3,1,1,0.0,0,0.11402
+ChineseCodingInterviewAppendix,https://github.com/zhedahht/ChineseCodingInterviewAppendix,C++,404-NotFound,1086,81,53,2,1,0.0,0,0,0,0,8,0.114
+Markdown,https://github.com/younghz/Markdown,,"License(name=""MIT License"")",2441,82,23,5,1,0.0,0,0,0,0,0,0.11394
+free-project-course,https://github.com/resumejob/free-project-course,,"License(name=""MIT License"")",1220,11,1,2,1,0.2,0,0,0,0,0,0.11142
+Practical-Ethical-Hacking-Resources,https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources,Python,404-NotFound,1118,10,3,2,1,1.0,0,1,1,0.0,0,0.11055
+RecyclerViewCardGallery,https://github.com/huazhiyuan2008/RecyclerViewCardGallery,Java,404-NotFound,2576,53,32,4,2,0.0,0,0,0,0,0,0.11044
+coursera-ml-py,https://github.com/nsoojin/coursera-ml-py,Python,"License(name=""MIT License"")",1118,47,4,1,1,0.1,0,0,0,0,0,0.11026
+interview,https://github.com/hadyang/interview,,"License(name=""GNU General Public License v3.0"")",3617,53,4,3,0,1.2,0,0,0,0,0,0.1101
+gdocs2md,https://github.com/mangini/gdocs2md,,"License(name=""Apache License 2.0"")",2553,93,88,1,1,0.0,0,0,0,0,21,0.10992
+iOSCourse,https://github.com/eseedo/iOSCourse,Objective-C,404-NotFound,1922,81,8,1,1,0.1,0,0,0,0,0,0.10898
+StarsAndClown,https://github.com/zhaoolee/StarsAndClown,Python,"License(name=""GNU General Public License v3.0"")",1693,22,14,4,2,0.0,0,0,0,0,0,0.10885
+AndroidTutorialForBeginners,https://github.com/hussien89aa/AndroidTutorialForBeginners,Java,404-NotFound,3422,52,15,3,1,0.0,0,1,0,0.0,0,0.10647
+react-course-curriculum,https://github.com/uidotdev/react-course-curriculum,,404-NotFound,2123,60,6,1,1,0.0,0,0,0,0,0,0.10627
+Awesome-algorithm-interview,https://github.com/lcylmhlcy/Awesome-algorithm-interview,,404-NotFound,1162,24,0,1,0,0.5,0,0,0,0,0,0.10502
+Weekly-FE-Interview,https://github.com/airuikun/Weekly-FE-Interview,,404-NotFound,2894,22,19,2,1,0.0,0,2,0,1.0,0,0.10478
+Kotlin-for-Android-Developers,https://github.com/antoniolg/Kotlin-for-Android-Developers,Kotlin,"License(name=""Apache License 2.0"")",2563,67,15,2,1,0.0,0,1,0,0.0,0,0.10464
+interview-questions,https://github.com/fex-team/interview-questions,,404-NotFound,1658,83,65,4,2,0.0,0,0,0,0,0,0.10428
+flutter_vignettes,https://github.com/gskinnerTeam/flutter_vignettes,,"License(name=""MIT License"")",2559,14,12,4,1,0.1,0,0,0,0,2,0.1033
+PyTorchDocs,https://github.com/fendouai/PyTorchDocs,Python,404-NotFound,1344,21,14,2,1,0.0,0,1,1,0.0,2,0.10303
+bank_interview,https://github.com/sty945/bank_interview,,404-NotFound,2425,16,2,1,1,0.1,0,1,0,0.0,0,0.10212
+openlogos,https://github.com/arasatasaygin/openlogos,,404-NotFound,2558,32,29,2,0,0.0,0,1,1,3.0,0,0.10109
+CodingInterviewChinese2,https://github.com/zhedahht/CodingInterviewChinese2,C++,"License(name=""Other"")",4032,51,50,2,1,0.0,0,1,0,1.0,0,0.09903
+dl_tutorials,https://github.com/sjchoi86/dl_tutorials,,"License(name=""MIT License"")",1530,56,54,2,1,0.0,0,0,0,0,5,0.09736
+SwiftUI-Tutorials,https://github.com/WillieWangWei/SwiftUI-Tutorials,Swift,"License(name=""MIT License"")",1717,20,11,1,1,0.1,4,0,0,0,0,0.09723
+macOS_Development_Tutorials_translation,https://github.com/DeveloperLx/macOS_Development_Tutorials_translation,,"License(name=""MIT License"")",1132,47,38,3,1,0.0,0,0,0,0,2,0.0971
+vue-tutorial,https://github.com/MeCKodo/vue-tutorial,JavaScript,404-NotFound,1166,58,47,3,1,0.0,0,0,0,0,2,0.09706
+SJTU-Courses,https://github.com/c-hj/SJTU-Courses,,"License(name=""Creative Commons Attribution Share Alike 4.0 International"")",6169,37,18,4,1,0.0,0,0,0,0,0,0.09547
+miles-deep,https://github.com/ryanjay0/miles-deep,C++,"License(name=""GNU General Public License v3.0"")",2484,51,34,1,0,0.0,1,2,0,2.0,0,0.09544
+tensorflow-tutorial,https://github.com/alrojo/tensorflow-tutorial,Jupyter Notebook,404-NotFound,1965,54,51,3,2,0.0,0,0,0,0,0,0.09357
+cracking-the-coding-interview,https://github.com/Hawstein/cracking-the-coding-interview,C++,404-NotFound,1411,97,18,1,1,0.0,0,0,0,0,0,0.0934
+JavaInterview,https://github.com/OUYANGSIHAI/JavaInterview,,404-NotFound,2167,11,3,1,0,0.8,0,0,0,0,7,0.09339
+PyTorch_Tutorial,https://github.com/TingsongYu/PyTorch_Tutorial,Python,404-NotFound,2860,26,16,4,0,0.0,0,3,1,0.7,0,0.09269
+YOLO_v3_tutorial_from_scratch,https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch,Python,404-NotFound,2035,34,33,2,2,0.0,0,2,0,0.0,0,0.09255
+Pokemon-Go-Controller,https://github.com/kahopoon/Pokemon-Go-Controller,Swift,404-NotFound,2478,55,55,5,0,0.0,0,0,0,0,10,0.09249
+pandas-tutorial,https://github.com/hangsz/pandas-tutorial,Jupyter Notebook,404-NotFound,1194,41,3,2,0,0.1,0,0,0,0,0,0.08965
+DeepLearning_tutorials,https://github.com/xiaohu2015/DeepLearning_tutorials,Jupyter Notebook,404-NotFound,1416,50,23,2,1,0.0,0,1,0,0.0,0,0.08764
+ML-Tutorial-Experiment,https://github.com/jiqizhixin/ML-Tutorial-Experiment,Jupyter Notebook,404-NotFound,2414,41,23,3,1,0.0,0,0,0,0,0,0.08603
+Deep-Learning-with-PyTorch-Tutorials,https://github.com/dragen1860/Deep-Learning-with-PyTorch-Tutorials,Python,404-NotFound,1531,26,15,1,0,0.0,0,0,0,0,18,0.08478
+go-interview,https://github.com/shomali11/go-interview,Go,"License(name=""MIT License"")",3014,10,6,2,0,1.4,0,0,0,0,3,0.0812
+Front-end-Web-Development-Interview-Question,https://github.com/paddingme/Front-end-Web-Development-Interview-Question,HTML,404-NotFound,4439,77,16,3,0,0.0,0,1,0,0.0,0,0.08046
+AnimatedTransitionGallery,https://github.com/shu223/AnimatedTransitionGallery,Objective-C,404-NotFound,2526,83,10,2,0,0.0,0,0,0,0,0,0.08022
+isomorphic-tutorial,https://github.com/spikebrehm/isomorphic-tutorial,JavaScript,"License(name=""MIT License"")",1340,88,65,3,1,0.0,0,0,0,0,0,0.07964
+FlowingDrawer,https://github.com/mxn21/FlowingDrawer,Java,"License(name=""Apache License 2.0"")",2477,66,19,5,0,0.0,0,0,0,0,0,0.07915
+TensorFlow-Tutorials,https://github.com/golbin/TensorFlow-Tutorials,Python,404-NotFound,2058,49,33,5,0,0.0,0,0,0,0,2,0.07866
+microservices,https://github.com/DocsHome/microservices,,404-NotFound,4325,42,18,7,0,0.0,0,0,0,0,0,0.07748
+fastscan,https://github.com/pyloque/fastscan,JavaScript,404-NotFound,1045,27,27,2,1,0.0,1,0,0,0,0,0.07673
+Everpix-Intelligence,https://github.com/everpix/Everpix-Intelligence,,404-NotFound,2430,85,32,1,1,0.0,0,0,0,0,0,0.07665
+electron-cn-docs,https://github.com/amhoho/electron-cn-docs,JavaScript,404-NotFound,1109,45,17,1,1,0.0,0,0,0,0,0,0.07617
+Python-Core-50-Courses,https://github.com/jackfrued/Python-Core-50-Courses,,404-NotFound,2981,10,2,1,0,0.8,0,7,0,0.0,0,0.07539
+Free-VPN-for-Coursera,https://github.com/AlanTur1ng/Free-VPN-for-Coursera,Dockerfile,404-NotFound,2137,31,22,1,0,0.0,0,6,0,1.2,0,0.07414
+TensorFlow-and-DeepLearning-Tutorial,https://github.com/CreatCodeBuild/TensorFlow-and-DeepLearning-Tutorial,Python,404-NotFound,2326,52,21,5,0,0.0,0,0,0,0,0,0.07107
+awesome-ml-courses,https://github.com/luspr/awesome-ml-courses,,404-NotFound,1565,8,1,2,0,0.2,0,0,0,0,0,0.07035
+django-blog-tutorial,https://github.com/yougakukou/django-blog-tutorial,CSS,404-NotFound,2162,57,16,3,0,0.0,0,0,0,0,0,0.0684
+Theano-Tutorials,https://github.com/Newmu/Theano-Tutorials,Python,"License(name=""MIT License"")",1230,77,73,2,1,0.0,0,0,0,0,0,0.06565
+CodingInterviews,https://github.com/jayshah19949596/CodingInterviews,Python,404-NotFound,2677,27,21,1,1,0.0,0,1,0,0.0,0,0.06386
+OpenCourseCatalog,https://github.com/elder-frog/OpenCourseCatalog,,"License(name=""GNU General Public License v3.0"")",1782,22,7,2,0,0.3,0,0,0,0,0,0.06072
+MTCNN_face_detection_alignment,https://github.com/kpzhang93/MTCNN_face_detection_alignment,Matlab,"License(name=""MIT License"")",2511,52,42,1,1,0.0,0,0,0,0,0,0.05829
+materialish-progress,https://github.com/nico2sh/materialish-progress,Java,"License(name=""Apache License 2.0"")",2473,75,61,5,0,0.0,0,0,0,0,0,0.05449
+interview,https://github.com/aylei/interview,,"License(name=""Other"")",2558,24,23,1,1,0.0,0,0,0,0,0,0.05416
+ZoomHeader,https://github.com/githubwing/ZoomHeader,Java,404-NotFound,2478,50,50,1,1,0.0,0,0,0,0,0,0.05316
+machine-learning-coursera-1,https://github.com/Borye/machine-learning-coursera-1,,"License(name=""MIT License"")",1092,78,80,1,1,0.0,0,0,0,0,0,0.05254
+react-antd-admin,https://github.com/jiangxy/react-antd-admin,JavaScript,"License(name=""Apache License 2.0"")",1304,55,45,2,0,0.0,1,0,0,0,0,0.04755
+Java-Interview,https://github.com/gzc426/Java-Interview,,404-NotFound,5004,22,9,1,0,0.0,0,2,0,0.0,0,0.04717
+Pentest_Interview,https://github.com/Leezj9671/Pentest_Interview,,404-NotFound,1198,23,8,1,0,0.0,0,0,0,0,0,0.04321
+tensorflow2_tutorials_chinese,https://github.com/czy36mengfei/tensorflow2_tutorials_chinese,Jupyter Notebook,404-NotFound,6632,23,11,1,0,0.0,0,1,0,0.0,0,0.04094
+PKUCourse,https://github.com/tongtzeho/PKUCourse,C++,404-NotFound,1287,49,22,1,0,0.0,0,0,0,0,0,0.0382
+Java-Interview-Advanced,https://github.com/shishan100/Java-Interview-Advanced,HTML,404-NotFound,2822,18,17,2,0,0.0,0,1,0,0.0,0,0.03646
+BAT_interviews,https://github.com/lengyue1024/BAT_interviews,,"License(name=""MIT License"")",1292,30,19,1,0,0.0,0,1,0,0.0,0,0.03469
+Deep-Learning-Coursera,https://github.com/enggen/Deep-Learning-Coursera,Jupyter Notebook,404-NotFound,1330,39,26,1,0,0.0,0,1,0,0.0,0,0.03358
+ShadowImageView,https://github.com/yingLanNull/ShadowImageView,Java,"License(name=""Apache License 2.0"")",2499,46,32,1,0,0.0,0,0,0,0,0,0.02782
+androrat,https://github.com/DesignativeDave/androrat,Java,404-NotFound,1045,98,99,1,0,0.0,0,1,0,0.0,0,0.02369
+mnssp3,https://github.com/mpplab/mnssp3,Python,404-NotFound,1203,11,10,1,0,0.1,0,0,0,0,0,0.02291
+ForAndroidInterview,https://github.com/Mr-YangCheng/ForAndroidInterview,,404-NotFound,1108,56,56,1,0,0.0,0,0,0,0,0,0.01915
