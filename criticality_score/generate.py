@@ -54,16 +54,19 @@ def get_github_repo_urls(sample_size, languages):
 def get_github_repo_urls_for_language(urls, sample_size, github_lang=None):
     """Return repository urls given a language list and sample size."""
     samples_processed = 1
-    last_stars_processed = None
+    # TODO last_stars_processed = None
+    stars_upper = 14250 # TODO Take this as an input
+    stars_lower = 100 #Fixed lower limit as a start
     while samples_processed <= sample_size:
 
         query = 'archived:false'
         if github_lang:
             query += f' language:{github_lang}'
 
-        if last_stars_processed:
+        # TODO if last_stars_processed:
             # +100 to avoid any races with star updates.
-            query += f' stars:<{last_stars_processed+100}'
+            # TODO query += f' stars:<{last_stars_processed+100}'
+        query += f' stars:{stars_lower}..{stars_upper}'
         logger.info(f'Running query: {query}')
         token_obj = run.get_github_auth_token()
         new_result = False
@@ -83,14 +86,17 @@ def get_github_repo_urls_for_language(urls, sample_size, github_lang=None):
             urls.append(repo_url)
             new_result = True
             logger.info(f'Found repository'
-                    f'({samples_processed}): {repo_url}')
+                    f'({samples_processed}): {repo_url} - {repo.stargazers_count}')
             samples_processed += 1
             if samples_processed > sample_size:
                 break
         if not new_result:
             break
-        last_stars_processed = repo.stargazers_count
 
+        # TODO last_stars_processed = repo.stargazers_count
+        stars_upper = repo.stargazers_count + 10
+        stars_lower = repo.stargazers_count - 500
+    
     return urls
 
 def initialize_logging_handlers(output_dir):
@@ -132,9 +138,9 @@ def main():
     # GitHub search can return incomplete results in a query, so try it multiple
     # times to avoid missing urls.
     repo_urls = set()
-    for rnd in range(1, 4):
-        logger.info(f'Finding repos (round {rnd}):')
-        repo_urls.update(get_github_repo_urls(args.sample_size, args.language))
+    # TODO for rnd in range(1, 4):
+    # TODO logger.info(f'Finding repos (round {rnd}):')
+    repo_urls.update(get_github_repo_urls(args.sample_size, args.language))
 
     stats = []
     index = 1
