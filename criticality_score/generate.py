@@ -20,6 +20,7 @@ import os
 import sys
 import time
 
+from .constants import *  # pylint: disable=wildcard-import
 from . import run
 
 logger = logging.getLogger()
@@ -51,26 +52,15 @@ def get_github_repo_urls(sample_size, languages):
 
     return urls
 
+
 def get_github_repo_urls_for_language(urls, sample_size, github_lang=None):
     """Return repository urls given a language list and sample size."""
+    upper_limit = get_github_query_upper_limit(github_lang)
     samples_processed = 1
-    # TODO last_stars_processed = None
-    stars_upper = 14250 # TODO Take this as an input
-    stars_lower = 100 #Fixed lower limit as a start
     while samples_processed <= sample_size:
-
-        query = 'archived:false'
-        if github_lang:
-            query += f' language:{github_lang}'
-
-        # TODO if last_stars_processed:
-            # +100 to avoid any races with star updates.
-            # TODO query += f' stars:<{last_stars_processed+100}'
-        query += f' stars:{stars_lower}..{stars_upper}'
-        logger.info(f'Running query: {query}')
+        query = get_github_query(github_lang, upper_limit)
         token_obj = run.get_github_auth_token()
         new_result = False
-        repo = None
         for repo in token_obj.search_repositories(query=query,
                                                     sort='stars',
                                                     order='desc'):
@@ -85,19 +75,37 @@ def get_github_repo_urls_for_language(urls, sample_size, github_lang=None):
                 continue
             urls.append(repo_url)
             new_result = True
-            logger.info(f'Found repository'
-                    f'({samples_processed}): {repo_url} - {repo.stargazers_count}')
+            logger.info(f'{samples_processed} - {repo.name} - {repo_url} - {repo.stargazers_count}')
             samples_processed += 1
             if samples_processed > sample_size:
                 break
         if not new_result:
             break
+        upper_limit = repo.stargazers_count
 
         # TODO last_stars_processed = repo.stargazers_count
         stars_upper = repo.stargazers_count + 10
         stars_lower = repo.stargazers_count - 500
     
     return urls
+
+def get_github_query(github_lang=None, upper_limit=None):
+    query = 'archived:false'
+    if github_lang:
+        query += f' language:{github_lang}'
+    query += f' stars:>{GITHUB_QUERY_LOWER_LIMIT}' if not upper_limit else f' stars:{GITHUB_QUERY_LOWER_LIMIT}..{upper_limit}'
+    logger.info(f'GitHub query: {query}')
+    return query
+
+
+def get_github_query_upper_limit(github_lang=None):
+    query = get_github_query(github_lang)
+    token_obj = run.get_github_auth_token()
+    for repo in token_obj.search_repositories(query=query,
+                                                sort='stars',
+                                                order='desc'):
+        return repo.stargazers_count
+
 
 def initialize_logging_handlers(output_dir):
     log_filename = os.path.join(output_dir, 'output.log')
@@ -125,11 +133,10 @@ def main():
                         type=int,
                         default=200,
                         help="Number of projects in result.")
-    parser.add_argument(
-        "--sample-size",
-        type=int,
-        default=5000,
-        help="Number of projects to analyze (in descending order of stars).")
+    parser.add_argument("--sample-size",
+                        type=int,
+                        default=5000,
+                        help="Number of projects to analyze (in descending order of stars).")
 
     args = parser.parse_args()
 
@@ -138,14 +145,18 @@ def main():
     # GitHub search can return incomplete results in a query, so try it multiple
     # times to avoid missing urls.
     repo_urls = set()
-    # TODO for rnd in range(1, 4):
-    # TODO logger.info(f'Finding repos (round {rnd}):')
+    logger.info(f'\r\nFinding repos...')
     repo_urls.update(get_github_repo_urls(args.sample_size, args.language))
+
+    if len(repo_urls) == 0:
+        logger.info('No repo found with given parameters')
+        return
 
     stats = []
     index = 1
+    output = None
+    logger.info(f'\r\nProcessing repos...')
     for repo_url in repo_urls:
-        output = None
         for _ in range(3):
             try:
                 repo = run.get_repository(repo_url)
@@ -171,7 +182,7 @@ def main():
                         key=lambda i: i['criticality_score'],
                         reverse=True)[:args.count]:
             csv_writer.writerow(i.values())
-    logger.info(f'Wrote results: {output_filename}')
+    logger.info(f'\r\nWrote results: {output_filename}')
 
 
 if __name__ == "__main__":
