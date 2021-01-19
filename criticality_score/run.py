@@ -59,6 +59,10 @@ class Repository:
         raise NotImplementedError
 
     @property
+    def license(self):
+        raise NotImplementedError
+
+    @property
     def created_since(self):
         raise NotImplementedError
 
@@ -129,6 +133,22 @@ class GitHubRepository(Repository):
     @property
     def language(self):
         return self._repo.language
+
+    @property
+    def license(self):
+        license = ''
+        try:
+            license_obj = self._repo.get_license()
+            license = license_obj.license # TODO Remove the unnecessary part
+        except Exception as exp:
+            if str(exp).startswith('404'):
+                license = ''
+            elif str(exp).startswith('403'):
+                license = 'EXCEPTION-403-RateLimit'
+            else:
+                license = 'EXCEPTION-UNKNOWN'
+                print(exp)
+        return license    
 
     @property
     def stars(self):
@@ -292,6 +312,11 @@ class GitLabRepository(Repository):
         return (max(languages, key=languages.get)).lower()
 
     @property
+    def license(self):
+        # TODO!
+        return ''
+
+    @property
     def stars(self):
         return self._repo.star_count
 
@@ -427,6 +452,7 @@ def get_repository_stats(repo, additional_params=None):
         'name': repo.name,
         'url': repo.url,
         'language': repo.language,
+        'license': repo.license,
         'stars': repo.stars
     }
     for param in PARAMS:
