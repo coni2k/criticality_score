@@ -15,6 +15,7 @@
 
 import argparse
 import csv
+import datetime
 import logging
 import os
 import sys
@@ -55,7 +56,7 @@ def get_github_repo_urls(sample_size, languages):
 
 def get_github_repo_urls_for_language(urls, sample_size, github_lang=None):
     """Return repository urls given a language list and sample size."""
-    upper_limit = get_github_query_upper_limit(github_lang)
+    upper_limit = 409
     samples_processed = 1
     while samples_processed <= sample_size:
         query = get_github_query(github_lang, upper_limit)
@@ -116,6 +117,9 @@ def initialize_logging_handlers(output_dir):
     logging.getLogger('').addHandler(console)    
 
 def main():
+    start_time = datetime.datetime.now()
+    print(start_time)
+
     parser = argparse.ArgumentParser(
         description=
         'Generate a sorted criticality score list for particular language(s).')
@@ -183,6 +187,12 @@ def main():
                         reverse=True)[:args.count]:
             csv_writer.writerow(i.values())
     logger.info(f'\r\nWrote results: {output_filename}')
+
+    end_time = datetime.datetime.now()
+    print(end_time)
+    diff = (end_time - start_time).total_seconds() / 60.0
+    print(diff)
+    
 
 
 if __name__ == "__main__":
