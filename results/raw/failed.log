@@ -6891,3 +6891,4 @@ ERROR:root:Exception occurred when reading repo: https://github.com/marty-suzuki
 ERROR:root:Exception occurred when reading repo: https://github.com/zeroturnaround/sql-formatter
 ERROR:root:Exception occurred when reading repo: https://github.com/mauriciopoppe/greuler
 ERROR:root:Exception occurred when reading repo: https://github.com/matterpreter/OffensiveCSharp
+ERROR:root:Exception occurred when reading repo: https://github.com/jlippold/tweakCompatible
