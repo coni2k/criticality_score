@@ -6892,3 +6892,5 @@ ERROR:root:Exception occurred when reading repo: https://github.com/zeroturnarou
 ERROR:root:Exception occurred when reading repo: https://github.com/mauriciopoppe/greuler
 ERROR:root:Exception occurred when reading repo: https://github.com/matterpreter/OffensiveCSharp
 ERROR:root:Exception occurred when reading repo: https://github.com/jlippold/tweakCompatible
+ERROR:root:Exception occurred when reading repo: https://github.com/mariobehling/ai-packages
+ERROR:root:Exception occurred when reading repo: https://github.com/mariobehling/mb-sandbox
