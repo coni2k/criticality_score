@@ -6895,3 +6895,6 @@ ERROR:root:Exception occurred when reading repo: https://github.com/jlippold/twe
 ERROR:root:Exception occurred when reading repo: https://github.com/mariobehling/ai-packages
 ERROR:root:Exception occurred when reading repo: https://github.com/mariobehling/mb-sandbox
 ERROR:root:Exception occurred when reading repo: https://github.com/koush/support-wiki
+ERROR:root:Exception occurred when reading repo: https://github.com/hortonworks/cloudbreak
+ERROR:root:Exception occurred when reading repo: https://github.com/bigdongdongCLUB/newGCP
+ERROR:root:Exception occurred when reading repo: https://github.com/stevenliuyi/covid19
