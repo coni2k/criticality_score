@@ -1,0 +1,285 @@
+name,url,language,license,stars,created_since,updated_since,contributor_count,org_count,commit_frequency,recent_releases_count,updated_issues_count,closed_issues_count,comment_frequency,dependents_count,criticality_score
+news,https://github.com/nextcloud/news,JavaScript,"License(name=""GNU Affero General Public License v3.0"")",494,107,0,144,7,7.0,35,226,194,1.9,258,0.6673
+deck,https://github.com/nextcloud/deck,JavaScript,"License(name=""GNU Affero General Public License v3.0"")",638,57,0,76,8,20.0,23,387,229,1.4,450,0.66143
+documentation,https://github.com/nextcloud/documentation,JavaScript,"License(name=""Other"")",257,101,0,477,5,32.9,2,740,707,0.4,280,0.65774
+MyCrypto,https://github.com/MyCryptoHQ/MyCrypto,TypeScript,"License(name=""MIT License"")",861,51,0,117,7,12.9,27,237,222,2.3,151,0.65026
+calendar,https://github.com/nextcloud/calendar,JavaScript,"License(name=""GNU Affero General Public License v3.0"")",600,66,0,79,9,13.6,8,250,151,1.6,517,0.64751
+nest-cli,https://github.com/nestjs/nest-cli,TypeScript,"License(name=""MIT License"")",851,45,0,55,9,7.5,17,126,106,1.0,397,0.6086
+swift,https://github.com/ncw/swift,Go,"License(name=""MIT License"")",264,100,0,44,9,0.2,7,6,6,3.0,551,0.57047
+NUR,https://github.com/nix-community/NUR,Python,"License(name=""MIT License"")",448,36,0,149,3,57.0,0,37,33,1.2,498,0.55849
+tester,https://github.com/nette/tester,PHP,"License(name=""Other"")",265,102,0,40,10,1.0,3,19,13,1.0,681,0.5558
+docs,https://github.com/NativeScript/docs,CSS,"License(name=""Apache License 2.0"")",441,81,0,338,6,0.9,4,29,19,0.9,74,0.553
+NetLogo,https://github.com/NetLogo/NetLogo,HTML,,757,119,0,52,7,4.2,1,45,23,1.6,149,0.54837
+nextdns,https://github.com/nextdns/nextdns,Go,"License(name=""MIT License"")",1012,17,0,20,7,3.6,39,80,46,3.4,58,0.53476
+mycroft-skills,https://github.com/MycroftAI/mycroft-skills,HTML,,615,54,0,90,6,3.7,0,58,50,2.4,94,0.53364
+nbd,https://github.com/NetworkBlockDevice/nbd,C,"License(name=""GNU General Public License v2.0"")",267,247,0,66,2,0.1,10,7,4,1.4,1658,0.52769
+nimble,https://github.com/nim-lang/nimble,Nim,"License(name=""Other"")",794,122,1,86,5,1.0,3,29,13,1.9,107,0.51932
+gradle-lint-plugin,https://github.com/nebula-plugins/gradle-lint-plugin,Groovy,"License(name=""Apache License 2.0"")",464,65,0,21,8,2.5,25,11,5,2.5,26,0.51724
+netbox-docker,https://github.com/netbox-community/netbox-docker,Python,"License(name=""Apache License 2.0"")",602,46,0,65,8,2.5,10,50,45,1.4,9,0.51415
+betterttv,https://github.com/night/betterttv,JavaScript,"License(name=""Other"")",759,99,0,86,2,3.4,17,146,89,0.8,19,0.51126
+passman,https://github.com/nextcloud/passman,JavaScript,"License(name=""GNU Affero General Public License v3.0"")",601,54,0,33,5,2.6,6,20,11,1.2,252,0.51103
+NetTopologySuite,https://github.com/NetTopologySuite/NetTopologySuite,C#,"License(name=""Other"")",779,177,1,31,7,5.7,1,35,13,1.7,79,0.50686
+n98-magerun2,https://github.com/netz98/n98-magerun2,PHP,"License(name=""Other"")",600,76,0,83,6,4.2,3,54,49,0.6,17,0.50371
+cqrs,https://github.com/nestjs/cqrs,TypeScript,"License(name=""MIT License"")",423,46,0,18,10,5.8,2,76,66,0.6,50,0.49517
+spectator,https://github.com/Netflix/spectator,Java,"License(name=""Apache License 2.0"")",599,80,1,40,3,2.9,23,11,10,0.4,273,0.48994
+nengo,https://github.com/nengo/nengo,Python,"License(name=""Other"")",600,95,0,40,5,1.8,1,30,22,1.3,65,0.48821
+netaddr,https://github.com/netaddr/netaddr,Python,"License(name=""Other"")",641,153,0,44,5,0.8,3,5,3,1.8,64,0.48595
+neo4j-python-driver,https://github.com/neo4j/neo4j-python-driver,Python,"License(name=""Apache License 2.0"")",599,70,0,27,5,1.9,18,25,22,0.7,24,0.4796
+emogrifier,https://github.com/MyIntervals/emogrifier,PHP,"License(name=""MIT License"")",764,87,1,38,10,1.4,2,79,47,0.7,18,0.47851
+StereoPipeline,https://github.com/NeoGeographyToolkit/StereoPipeline,C++,"License(name=""Apache License 2.0"")",264,172,1,39,6,3.4,1,6,1,7.7,3,0.4705
+gradle-dependency-lock-plugin,https://github.com/nebula-plugins/gradle-dependency-lock-plugin,Groovy,"License(name=""Apache License 2.0"")",248,85,0,19,8,1.4,19,6,5,0.7,7,0.45382
+yauaa,https://github.com/nielsbasjes/yauaa,Java,"License(name=""Apache License 2.0"")",445,56,0,13,4,6.3,7,8,7,1.9,21,0.45215
+awesome-ai-ml-dl,https://github.com/neomatrix369/awesome-ai-ml-dl,Jupyter Notebook,"License(name=""Other"")",810,26,0,19,9,5.4,1,4,4,1.2,49,0.44639
+ngl,https://github.com/nglviewer/ngl,TypeScript,"License(name=""MIT License"")",410,85,0,26,5,1.0,19,53,30,1.5,0,0.44364
+DotNetCorePlugins,https://github.com/natemcmaster/DotNetCorePlugins,C#,"License(name=""Apache License 2.0"")",793,44,0,15,7,0.5,4,38,33,2.0,5,0.43603
+sped-nfe,https://github.com/nfephp-org/sped-nfe,PHP,"License(name=""Other"")",776,67,0,91,8,0.8,1,23,23,1.2,0,0.43596
+tauthon,https://github.com/naftaliharris/tauthon,Python,"License(name=""Other"")",631,371,3,302,7,0.2,0,2,1,1.0,11,0.43295
+gimme-aws-creds,https://github.com/Nike-Inc/gimme-aws-creds,Python,"License(name=""Apache License 2.0"")",486,49,2,62,8,1.0,6,21,8,0.7,6,0.43174
+networkservicemesh,https://github.com/networkservicemesh/networkservicemesh,Go,"License(name=""Apache License 2.0"")",449,34,4,54,7,0.8,2,28,14,1.6,25,0.431
+ViewInspector,https://github.com/nalexn/ViewInspector,Swift,"License(name=""MIT License"")",679,15,0,12,3,4.3,41,18,13,3.3,5,0.42669
+Nexus-Mod-Manager,https://github.com/Nexus-Mods/Nexus-Mod-Manager,C#,"License(name=""GNU General Public License v2.0"")",628,113,3,42,5,0.5,7,28,6,1.1,7,0.42347
+plaid,https://github.com/nickbutcher/plaid,Kotlin,"License(name=""Apache License 2.0"")",15883,64,4,67,9,0.1,2,9,0,0.9,35,0.42108
+docker-protoc,https://github.com/namely/docker-protoc,Shell,"License(name=""BSD 3-Clause ""New"" or ""Revised"" License"")",426,63,0,52,8,0.6,1,20,12,0.6,2,0.41826
+neosemantics,https://github.com/neo4j-labs/neosemantics,Java,"License(name=""Apache License 2.0"")",487,59,1,19,6,3.2,6,16,7,0.6,9,0.41599
+php-ftp-client,https://github.com/Nicolab/php-ftp-client,PHP,"License(name=""MIT License"")",501,80,1,31,7,0.2,3,10,10,0.9,6,0.41166
+haskell-vim,https://github.com/neovimhaskell/haskell-vim,Vim script,"License(name=""BSD 2-Clause ""Simplified"" License"")",603,81,0,21,8,0.0,0,7,6,0.7,25,0.41003
+xhr,https://github.com/naugtur/xhr,JavaScript,"License(name=""MIT License"")",798,107,2,42,4,0.1,7,1,1,3.0,3,0.40277
+content-loader,https://github.com/ngneat/content-loader,TypeScript,"License(name=""MIT License"")",640,35,1,16,10,0.2,4,18,15,1.3,3,0.39833
+Raccine,https://github.com/Neo23x0/Raccine,C++,"License(name=""The Unlicense"")",590,4,1,11,5,7.5,38,20,17,0.9,21,0.39795
+units,https://github.com/nholthaus/units,C++,"License(name=""MIT License"")",638,61,4,25,5,0.2,1,12,3,1.4,68,0.39551
+Tree,https://github.com/nicmart/Tree,PHP,"License(name=""MIT License"")",474,95,2,12,7,1.1,2,7,3,1.1,12,0.39155
+3DTilesRendererJS,https://github.com/NASA-AMMOS/3DTilesRendererJS,JavaScript,"License(name=""Apache License 2.0"")",296,12,0,4,2,10.8,13,37,26,1.2,24,0.38947
+nezha,https://github.com/naiba/nezha,Go,,486,15,0,5,1,4.6,28,85,82,1.8,11,0.38921
+podsync,https://github.com/mxpv/podsync,Go,"License(name=""MIT License"")",627,53,3,20,8,1.4,7,29,8,1.6,0,0.38698
+hent-AI,https://github.com/natethegreate/hent-AI,Python,"License(name=""MIT License"")",831,40,6,49,8,4.6,7,5,2,0.4,2,0.37962
+nacos-spring-project,https://github.com/nacos-group/nacos-spring-project,Java,"License(name=""Apache License 2.0"")",603,31,1,18,4,0.5,2,13,8,0.7,40,0.37734
+functions,https://github.com/netlify/functions,HTML,,449,34,20,10,6,0.0,0,5,2,0.2,16923,0.37653
+cen64,https://github.com/n64dev/cen64,C,"License(name=""BSD 3-Clause ""New"" or ""Revised"" License"")",574,95,1,28,4,0.4,0,29,13,1.6,2,0.37464
+redis-cache,https://github.com/mybatis/redis-cache,Java,"License(name=""Other"")",376,72,0,14,3,0.3,0,11,9,0.8,26,0.36965
+pycookiecheat,https://github.com/n8henrie/pycookiecheat,Python,"License(name=""MIT License"")",459,72,3,10,4,0.0,3,5,5,2.6,12,0.36628
+react-native-safari-view,https://github.com/naoufal/react-native-safari-view,Objective-C,,473,68,1,26,7,0.0,1,4,2,0.2,13,0.36607
+iCloudDocumentSync,https://github.com/nenosllc/iCloudDocumentSync,Objective-C,"License(name=""Other"")",1122,99,0,23,5,0.1,2,2,2,1.5,0,0.36396
+guac-install,https://github.com/MysticRyuujin/guac-install,Shell,,493,54,0,20,6,0.5,0,23,21,1.2,0,0.36154
+mybatis-dynamic-sql,https://github.com/mybatis/mybatis-dynamic-sql,Java,"License(name=""Other"")",592,51,0,14,1,6.2,2,39,39,1.1,2,0.3611
+django-markdownx,https://github.com/neutronX/django-markdownx,Python,"License(name=""Other"")",648,76,11,26,5,0.0,7,11,0,0.8,20,0.35836
+msl,https://github.com/Netflix/msl,C++,"License(name=""Apache License 2.0"")",641,81,4,25,4,0.2,8,1,0,0.0,51,0.35555
+enclosure-picroft,https://github.com/MycroftAI/enclosure-picroft,Shell,"License(name=""GNU Lesser General Public License v3.0"")",639,49,3,19,6,0.1,0,7,3,2.0,10,0.35536
+vim-markdown-toc,https://github.com/mzlogin/vim-markdown-toc,Vim script,"License(name=""MIT License"")",419,62,7,14,2,0.1,1,1,0,2.0,460,0.35471
+action-tmate,https://github.com/mxschmitt/action-tmate,JavaScript,"License(name=""MIT License"")",643,18,0,5,2,0.3,3,16,12,1.9,39,0.35344
+protolock,https://github.com/nilslice/protolock,Go,"License(name=""BSD 3-Clause ""New"" or ""Revised"" License"")",381,33,0,13,3,0.0,1,2,2,3.5,3,0.34365
+neo4j-graphql,https://github.com/neo4j-graphql/neo4j-graphql,Kotlin,"License(name=""Apache License 2.0"")",427,52,3,12,5,0.1,2,1,0,0.0,182,0.34158
+mimic1,https://github.com/MycroftAI/mimic1,C,"License(name=""Other"")",597,61,7,23,6,0.2,2,4,1,2.2,2,0.34117
+react-clipboard.js,https://github.com/nihey/react-clipboard.js,JavaScript,,263,65,16,22,5,0.0,7,1,1,1.0,23,0.34089
+electron-settings,https://github.com/nathanbuchar/electron-settings,TypeScript,"License(name=""MIT License"")",640,64,4,9,3,0.2,3,13,5,1.7,9,0.33643
+docs.nestjs.cn,https://github.com/nestcn/docs.nestjs.cn,HTML,,379,38,0,87,2,2.5,0,16,14,0.1,0,0.33111
+namecoin-legacy,https://github.com/namecoin/namecoin-legacy,C++,"License(name=""MIT License"")",445,139,73,94,6,0.0,12,0,0,0,16,0.32992
+mitaka,https://github.com/ninoseki/mitaka,TypeScript,"License(name=""MIT License"")",466,36,0,5,2,2.9,25,30,30,0.1,0,0.32478
+symfony-collection,https://github.com/ninsuo/symfony-collection,JavaScript,"License(name=""MIT License"")",431,72,11,22,7,0.0,8,0,0,0,15,0.32186
+munin,https://github.com/Neo23x0/munin,Python,"License(name=""Apache License 2.0"")",500,40,0,12,3,0.8,5,8,7,0.6,0,0.32144
+chromium-web-store,https://github.com/NeverDecaf/chromium-web-store,JavaScript,"License(name=""MIT License"")",476,18,1,7,1,0.8,14,20,17,1.4,7,0.32044
+xml-js,https://github.com/nashwaan/xml-js,JavaScript,"License(name=""MIT License"")",858,58,24,19,5,0.0,3,8,0,0.6,34,0.31534
+Graphaello,https://github.com/nerdsupremacist/Graphaello,Swift,"License(name=""MIT License"")",331,14,0,5,2,2.6,27,10,6,1.2,0,0.31392
+vue-native-websocket,https://github.com/nathantsoi/vue-native-websocket,JavaScript,,787,58,12,33,6,0.0,2,14,1,1.6,0,0.31364
+common-logging,https://github.com/net-commons/common-logging,C#,"License(name=""Apache License 2.0"")",630,170,34,35,10,0.0,2,0,0,0,10,0.30968
+compiledb,https://github.com/nickdiego/compiledb,Python,"License(name=""GNU General Public License v3.0"")",574,43,19,18,4,0.0,3,10,3,1.9,5,0.30783
+Turbine,https://github.com/Netflix/Turbine,Java,"License(name=""Apache License 2.0"")",807,108,68,17,9,0.0,1,1,0,0.0,107,0.30515
+HoodLoader2,https://github.com/NicoHood/HoodLoader2,C,,485,76,2,5,2,0.0,1,4,3,3.0,4,0.30375
+storm-contrib,https://github.com/nathanmarz/storm-contrib,Java,"License(name=""Other"")",588,112,23,20,5,0.0,0,0,0,0,150,0.29998
+awesome-shiny-extensions,https://github.com/nanxstats/awesome-shiny-extensions,,"License(name=""Creative Commons Zero v1.0 Universal"")",484,26,0,9,5,0.9,0,2,2,1.5,0,0.29735
+scoobi,https://github.com/NICTA/scoobi,Scala,,484,116,65,35,8,0.0,4,3,2,0.7,0,0.28924
+nacos-spring-boot-project,https://github.com/nacos-group/nacos-spring-boot-project,Java,"License(name=""Apache License 2.0"")",492,30,2,9,4,0.2,4,21,7,0.6,0,0.28734
+wiki,https://github.com/nebulasio/wiki,,"License(name=""GNU General Public License v3.0"")",435,41,9,58,4,0.1,0,0,0,0,17,0.28026
+sage,https://github.com/Nebo15/sage,Elixir,"License(name=""MIT License"")",602,41,7,11,5,0.1,2,3,0,2.3,0,0.2787
+nrpc,https://github.com/nats-rpc/nrpc,Go,"License(name=""Apache License 2.0"")",429,43,6,6,4,0.1,0,3,0,2.7,5,0.27665
+org-ml,https://github.com/ndwarshuis/org-ml,Emacs Lisp,"License(name=""GNU General Public License v3.0"")",263,15,1,3,1,4.2,19,10,9,1.4,0,0.27447
+fish-ui,https://github.com/myliang/fish-ui,Vue,"License(name=""MIT License"")",857,41,0,9,2,0.9,1,2,1,1.0,0,0.27429
+jetstrap,https://github.com/nascent-africa/jetstrap,Blade,"License(name=""MIT License"")",261,5,0,3,1,1.9,19,18,18,1.9,0,0.2737
+neo-gui-2.x,https://github.com/neo-project/neo-gui-2.x,C#,"License(name=""MIT License"")",238,52,4,18,4,0.1,4,2,0,0.5,0,0.27336
+suro,https://github.com/Netflix/suro,Java,"License(name=""Apache License 2.0"")",751,108,63,22,5,0.0,4,0,0,0,21,0.27174
+kerberoast,https://github.com/nidem/kerberoast,Python,"License(name=""Apache License 2.0"")",774,77,1,9,3,0.2,0,3,3,0.0,3,0.26861
+tracy,https://github.com/nccgroup/tracy,JavaScript,"License(name=""MIT License"")",463,46,9,14,2,0.8,3,0,0,0,40,0.26801
+scriptsharp,https://github.com/nikhilk/scriptsharp,C#,"License(name=""Apache License 2.0"")",646,119,88,24,6,0.0,0,1,1,0.0,36,0.26605
+pytorch-inpainting-with-partial-conv,https://github.com/naoto0804/pytorch-inpainting-with-partial-conv,Python,"License(name=""MIT License"")",430,32,2,3,2,0.1,0,9,7,1.0,18,0.26512
+tubesock,https://github.com/ngauthier/tubesock,Ruby,"License(name=""MIT License"")",633,96,17,13,5,0.0,2,0,0,0,9,0.26303
+react-metrics,https://github.com/nfl/react-metrics,JavaScript,"License(name=""MIT License"")",592,64,35,10,3,0.0,3,11,6,1.2,3,0.26241
+neurokernel,https://github.com/neurokernel/neurokernel,Python,"License(name=""Other"")",487,106,12,14,2,0.0,0,0,0,0,91,0.2615
+pbgopy,https://github.com/nakabonne/pbgopy,Go,"License(name=""MIT License"")",611,2,1,7,2,1.5,5,31,27,1.8,0,0.25951
+vue-boilerplate-template,https://github.com/nicejade/vue-boilerplate-template,JavaScript,"License(name=""MIT License"")",457,44,4,6,1,0.1,0,5,1,0.2,105,0.2518
+Linux-Magic-Trackpad-2-Driver,https://github.com/mwyborski/Linux-Magic-Trackpad-2-Driver,C,,423,53,3,9,2,0.0,0,6,3,2.0,0,0.25099
+probreg,https://github.com/neka-nat/probreg,Python,"License(name=""MIT License"")",292,25,0,5,1,0.8,0,7,7,2.1,0,0.25017
+async.h,https://github.com/naasking/async.h,C,"License(name=""BSD 3-Clause ""New"" or ""Revised"" License"")",444,17,0,4,3,0.1,0,1,1,1.0,3,0.24885
+continuable,https://github.com/Naios/continuable,C++,"License(name=""MIT License"")",649,69,3,4,1,0.6,2,3,2,0.7,5,0.2481
+reliable,https://github.com/networkprotocol/reliable,C,"License(name=""BSD 3-Clause ""New"" or ""Revised"" License"")",445,46,4,6,2,0.1,1,1,1,1.0,4,0.24446
+issue-guidelines,https://github.com/necolas/issue-guidelines,,,412,107,74,5,2,0.0,0,0,0,0,1557,0.24416
+python-for-coding-test,https://github.com/ndb796/python-for-coding-test,Python,,509,10,1,1,1,10.9,0,38,9,0.4,14,0.24119
+react-native-carousel,https://github.com/nick/react-native-carousel,JavaScript,"License(name=""MIT License"")",419,71,16,22,10,0.0,0,0,0,0,0,0.23968
+itemslide,https://github.com/nir9/itemslide,JavaScript,"License(name=""MIT License"")",630,77,5,14,4,0.2,2,0,0,0,0,0.23941
+common,https://github.com/ng-web-apis/common,TypeScript,"License(name=""MIT License"")",240,13,2,6,1,0.9,9,3,1,2.0,0,0.23856
+bernie-sits,https://github.com/nicksawhney/bernie-sits,Python,"License(name=""GNU Affero General Public License v3.0"")",293,0,0,5,2,0.8,0,29,18,2.5,3,0.23525
+Lipstick,https://github.com/Netflix/Lipstick,JavaScript,"License(name=""Apache License 2.0"")",451,94,37,19,4,0.0,1,0,0,0,7,0.23386
+ngx-auto-unsubscribe,https://github.com/NetanelBasal/ngx-auto-unsubscribe,TypeScript,"License(name=""MIT License"")",332,46,13,9,6,0.0,2,0,0,0,3,0.23326
+mist,https://github.com/nanopack/mist,Go,"License(name=""MIT License"")",629,75,14,16,7,0.0,1,0,0,0,0,0.23247
+Social-Amnesia,https://github.com/Nick-Gottschlich/Social-Amnesia,Python,"License(name=""GNU General Public License v3.0"")",649,35,6,5,2,1.7,6,8,1,0.5,0,0.23238
+RWD-Table-Patterns,https://github.com/nadangergeo/RWD-Table-Patterns,JavaScript,"License(name=""MIT License"")",747,112,25,9,5,0.0,2,0,0,0,3,0.23203
+sshwifty,https://github.com/nirui/sshwifty,JavaScript,"License(name=""GNU Affero General Public License v3.0"")",485,18,1,1,0,1.4,9,10,10,3.5,0,0.22732
+UnityOctree,https://github.com/Nition/UnityOctree,C#,"License(name=""Other"")",611,82,23,12,4,0.0,0,1,1,0.0,7,0.22712
+weixinSDK,https://github.com/night-king/weixinSDK,C#,,383,82,0,7,0,0.1,0,1,1,0.0,15,0.22676
+NeoTerm,https://github.com/NeoTerm/NeoTerm,Java,"License(name=""GNU General Public License v3.0"")",447,44,16,5,2,0.0,4,2,1,1.0,4,0.22665
+Sapporo,https://github.com/nghialv/Sapporo,Swift,"License(name=""MIT License"")",247,68,30,5,4,0.0,5,0,0,0,11,0.22462
+circosJS,https://github.com/nicgirault/circosJS,JavaScript,"License(name=""MIT License"")",429,75,19,4,3,0.0,6,2,1,0.0,5,0.22446
+ooth,https://github.com/nickredmark/ooth,TypeScript,"License(name=""MIT License"")",617,49,23,14,4,0.0,17,0,0,0,0,0.22337
+nice-front-end-tutorial,https://github.com/nicejade/nice-front-end-tutorial,,"License(name=""MIT License"")",750,42,0,2,1,1.1,0,0,0,0,18,0.22205
+react-native-pull-refresh,https://github.com/NadiKuts/react-native-pull-refresh,JavaScript,,451,42,2,8,4,0.0,0,3,1,0.0,0,0.21934
+house,https://github.com/nccgroup/house,JavaScript,"License(name=""MIT License"")",877,33,1,7,2,0.1,0,4,1,0.0,2,0.21807
+flag,https://github.com/namsral/flag,Go,"License(name=""BSD 3-Clause ""New"" or ""Revised"" License"")",456,83,42,9,3,0.0,0,0,0,0,43,0.2159
+populartimes,https://github.com/m-wrzr/populartimes,Python,"License(name=""MIT License"")",641,58,6,8,1,0.0,0,2,1,2.5,0,0.21253
+algorithmic-trading-python,https://github.com/nickmccullum/algorithmic-trading-python,Jupyter Notebook,,697,6,2,1,0,1.8,0,5,1,3.2,70,0.21196
+nice-validator,https://github.com/niceue/nice-validator,JavaScript,,587,95,10,8,4,0.1,1,1,0,0.0,0,0.21159
+shaman,https://github.com/nanopack/shaman,Go,"License(name=""MIT License"")",422,64,23,9,5,0.0,1,0,0,0,2,0.20803
+show-java,https://github.com/niranjan94/show-java,Kotlin,"License(name=""GNU General Public License v3.0"")",627,87,20,5,2,0.0,2,3,0,0.3,4,0.20772
+nativelibs4java,https://github.com/nativelibs4java/nativelibs4java,HTML,,290,142,72,22,6,0.0,1,0,0,0,0,0.20686
+azucar,https://github.com/nccgroup/azucar,PowerShell,"License(name=""GNU Affero General Public License v3.0"")",338,34,0,2,1,1.5,0,1,1,1.0,0,0.20616
+dotfiles,https://github.com/nikitavoloboev/dotfiles,Shell,"License(name=""MIT License"")",625,57,0,1,0,4.9,0,1,1,2.0,0,0.20517
+vim-workshop,https://github.com/nicknisi/vim-workshop,Vim script,,625,72,0,2,1,0.0,0,1,0,1.0,0,0.20381
+PESecurity,https://github.com/NetSPI/PESecurity,PowerShell,"License(name=""MIT License"")",436,81,6,5,1,0.0,0,1,1,1.0,2,0.20256
+rpi-audio-receiver,https://github.com/nicokaiser/rpi-audio-receiver,Shell,,598,37,3,8,0,0.4,0,16,10,1.8,0,0.20147
+dashboardthemes,https://github.com/nik01010/dashboardthemes,R,"License(name=""Other"")",262,36,2,2,1,0.6,3,3,3,0.7,0,0.2004
+scientifica,https://github.com/NerdyPepper/scientifica,Vim script,"License(name=""SIL Open Font License 1.1"")",800,39,6,9,0,0.3,2,3,0,0.7,6,0.19742
+maxas,https://github.com/NervanaSystems/maxas,CSS,"License(name=""MIT License"")",594,76,57,5,2,0.0,0,0,0,0,113,0.19527
+atomic-docs,https://github.com/nickberens360/atomic-docs,JavaScript,"License(name=""GNU General Public License v3.0"")",779,79,29,12,2,0.0,0,0,0,0,10,0.19182
+ParallaxScroll,https://github.com/nirhart/ParallaxScroll,Java,"License(name=""MIT License"")",859,84,40,7,4,0.0,0,0,0,0,7,0.19158
+newbee-mall-vue3-app,https://github.com/newbee-ltd/newbee-mall-vue3-app,Vue,"License(name=""GNU General Public License v3.0"")",924,4,0,2,1,0.2,0,16,16,1.8,0,0.18977
+KeyboardObserving,https://github.com/nickffox/KeyboardObserving,Swift,"License(name=""MIT License"")",370,18,9,9,4,0.1,3,1,0,0.0,0,0.18947
+zapata,https://github.com/Nedomas/zapata,Ruby,"License(name=""MIT License"")",413,79,11,7,3,0.2,1,0,0,0,0,0.18747
+Expression,https://github.com/nicklockwood/Expression,Swift,"License(name=""MIT License"")",635,53,19,6,3,0.0,9,0,0,0,0,0.18723
+postgres_dba,https://github.com/NikolayS/postgres_dba,TSQL,"License(name=""BSD 3-Clause ""New"" or ""Revised"" License"")",525,45,8,4,2,0.1,1,1,0,0.0,4,0.18602
+dolby_beta,https://github.com/nining377/dolby_beta,Java,"License(name=""MIT License"")",594,9,2,1,0,0.4,9,10,5,2.9,0,0.18219
+php-obfuscator,https://github.com/naneau/php-obfuscator,PHP,,478,78,50,9,5,0.0,1,1,0,0.0,0,0.17941
+SQLInjectionWiki,https://github.com/NetSPI/SQLInjectionWiki,HTML,,620,38,16,7,2,0.0,0,0,0,0,12,0.17771
+Vibe,https://github.com/NiceDash/Vibe,JavaScript,"License(name=""MIT License"")",449,23,6,7,1,0.0,0,1,1,0.0,10,0.17425
+berryio,https://github.com/NeonHorizon/berryio,PHP,"License(name=""GNU General Public License v3.0"")",767,99,18,5,2,0.0,0,0,0,0,4,0.173
+universal-redux-template,https://github.com/mz026/universal-redux-template,JavaScript,,471,65,40,11,4,0.0,1,0,0,0,0,0.17166
+sockit,https://github.com/NimbusKit/sockit,Objective-C,"License(name=""Apache License 2.0"")",425,115,47,8,5,0.0,0,0,0,0,0,0.17025
+nfc-reader,https://github.com/nadam/nfc-reader,Java,,780,112,45,5,2,0.0,0,0,0,0,8,0.16484
+SocksOverRDP,https://github.com/nccgroup/SocksOverRDP,C++,"License(name=""MIT License"")",415,10,2,3,0,0.2,1,2,2,3.5,0,0.16464
+public_drown_scanner,https://github.com/nimia/public_drown_scanner,Python,"License(name=""GNU General Public License v2.0"")",441,60,59,14,5,0.0,0,0,0,0,0,0.16312
+vines,https://github.com/negativecode/vines,Ruby,"License(name=""MIT License"")",483,119,78,7,3,0.0,2,2,0,0.0,0,0.16291
+pilot,https://github.com/neolee/pilot,Jupyter Notebook,,397,16,5,1,1,0.3,0,21,7,1.8,0,0.16257
+unzipper,https://github.com/ndeet/unzipper,PHP,"License(name=""GNU General Public License v3.0"")",460,97,37,3,2,0.0,1,1,0,1.0,0,0.16201
+SerializationDumper,https://github.com/NickstaDB/SerializationDumper,Java,"License(name=""MIT License"")",430,42,5,7,1,0.1,2,0,0,0,0,0.161
+git-dit,https://github.com/neithernut/git-dit,Rust,"License(name=""Other"")",443,51,11,7,2,0.0,1,0,0,0,0,0.15969
+Elevate,https://github.com/Nike-Inc/Elevate,Swift,"License(name=""MIT License"")",623,68,21,7,2,0.0,2,0,0,0,0,0.15899
+metasploitavevasion,https://github.com/nccgroup/metasploitavevasion,Shell,"License(name=""GNU Affero General Public License v3.0"")",247,94,62,8,3,0.0,0,0,0,0,2,0.15849
+JSParser,https://github.com/nahamsec/JSParser,Python,,591,43,39,12,1,0.0,0,7,3,0.9,0,0.15837
+mysam,https://github.com/mysamai/mysam,JavaScript,"License(name=""Other"")",630,69,24,4,3,0.0,2,0,0,0,0,0.15734
+whatportis,https://github.com/ncrocfer/whatportis,Python,"License(name=""MIT License"")",632,61,9,4,3,0.0,0,0,0,0,0,0.15723
+alfred-my-mind,https://github.com/nikitavoloboev/alfred-my-mind,Go,"License(name=""MIT License"")",306,44,3,3,1,0.4,2,0,0,0,0,0.15702
+d3-cookbook,https://github.com/NickQiZhu/d3-cookbook,JavaScript,"License(name=""MIT License"")",638,97,55,4,1,0.0,0,0,0,0,36,0.15694
+SharpAllTheThings,https://github.com/N7WEra/SharpAllTheThings,Batchfile,,248,13,0,2,0,0.5,0,2,2,1.5,0,0.15605
+chatofpomelo,https://github.com/NetEase/chatofpomelo,JavaScript,,291,100,49,5,2,0.0,0,0,0,0,6,0.15554
+pggan-pytorch,https://github.com/nashory/pggan-pytorch,Python,"License(name=""MIT License"")",644,39,24,7,1,0.0,0,4,1,0.2,4,0.15548
+VBF,https://github.com/Ninputer/VBF,C#,"License(name=""Apache License 2.0"")",439,121,56,3,0,0.0,0,1,0,2.0,12,0.15416
+Quttons,https://github.com/nashvail/Quttons,JavaScript,,639,69,65,5,3,0.0,0,0,0,0,5,0.15108
+FXImageView,https://github.com/nicklockwood/FXImageView,Objective-C,"License(name=""Other"")",639,105,47,6,2,0.0,2,0,0,0,0,0.1467
+jupyter_pivottablejs,https://github.com/nicolaskruchten/jupyter_pivottablejs,Python,"License(name=""Other"")",417,66,26,3,3,0.0,1,1,0,0.0,0,0.14577
+AutoUpdateProject,https://github.com/MZCretin/AutoUpdateProject,Java,,771,47,8,2,1,0.0,5,2,0,0.0,0,0.14499
+ERNIE-Pytorch,https://github.com/nghuyong/ERNIE-Pytorch,Python,"License(name=""MIT License"")",426,21,7,2,1,0.1,0,4,3,1.2,0,0.14494
+high_performance_python,https://github.com/mynameisfiber/high_performance_python,Python,"License(name=""Other"")",626,79,74,4,4,0.0,0,0,0,0,2,0.14471
+lua-pb,https://github.com/Neopallium/lua-pb,Lua,"License(name=""MIT License"")",271,117,41,9,2,0.0,0,0,0,0,0,0.14285
+MLND-Capstone,https://github.com/mvirgo/MLND-Capstone,Python,"License(name=""MIT License"")",360,47,9,2,1,0.0,0,3,2,0.7,0,0.14251
+markdownj,https://github.com/myabc/markdownj,Java,"License(name=""BSD 3-Clause ""New"" or ""Revised"" License"")",442,194,51,6,3,0.0,0,0,0,0,0,0.14249
+unity-design-patterns,https://github.com/Naphier/unity-design-patterns,C#,"License(name=""Creative Commons Zero v1.0 Universal"")",764,65,24,4,2,0.0,0,0,0,0,2,0.14188
+relichunterszero,https://github.com/mventurelli/relichunterszero,Yacc,,423,67,16,6,2,0.0,0,0,0,0,0,0.14166
+ggsci,https://github.com/nanxstats/ggsci,R,"License(name=""GNU General Public License v3.0"")",374,59,9,2,2,0.0,1,0,0,0,0,0.14058
+nginmesh,https://github.com/nginxinc/nginmesh,Go,"License(name=""Apache License 2.0"")",603,42,27,8,3,0.0,0,0,0,0,0,0.13924
+DevDataTool,https://github.com/MxABC/DevDataTool,Objective-C,"License(name=""MIT License"")",445,43,0,2,0,0.1,1,0,0,0,0,0.13717
+tf_seq2seq_chatbot,https://github.com/nicolas-ivanov/tf_seq2seq_chatbot,Python,,420,63,50,3,2,0.0,0,1,1,1.0,0,0.13675
+Base64,https://github.com/nicklockwood/Base64,Objective-C,"License(name=""Other"")",589,110,40,4,2,0.0,1,0,0,0,0,0.13517
+Paginize,https://github.com/neevek/Paginize,Java,"License(name=""MIT License"")",610,83,23,5,0,0.0,4,0,0,0,3,0.13381
+redis-tui,https://github.com/mylxsw/redis-tui,Go,"License(name=""MIT License"")",755,22,18,2,1,0.0,4,1,0,1.0,0,0.13197
+MTDActionSheet,https://github.com/myell0w/MTDActionSheet,Objective-C,"License(name=""MIT License"")",498,82,66,3,3,0.0,1,0,0,0,0,0.12394
+hello_tf_c_api,https://github.com/Neargye/hello_tf_c_api,C++,"License(name=""MIT License"")",377,33,2,1,0,0.2,0,16,11,0.1,0,0.12258
+quill-image-extend-module,https://github.com/NextBoy/quill-image-extend-module,JavaScript,,644,37,20,2,0,0.0,0,5,1,0.8,6,0.12189
+WHC_AutoLayoutKit,https://github.com/netyouli/WHC_AutoLayoutKit,Objective-C,"License(name=""MIT License"")",860,60,8,2,0,0.1,9,0,0,0,0,0.12001
+torch-light,https://github.com/ne7ermore/torch-light,Python,"License(name=""MIT License"")",450,44,2,3,0,0.1,0,2,1,0.0,0,0.11873
+NYAlertViewController,https://github.com/nealyoung/NYAlertViewController,Objective-C,"License(name=""MIT License"")",608,67,23,3,1,0.0,2,0,0,0,0,0.11746
+phantap,https://github.com/nccgroup/phantap,C,"License(name=""GNU General Public License v3.0"")",412,22,2,3,0,0.1,1,2,2,0.0,0,0.11743
+Workbench,https://github.com/mxcl/Workbench,Swift,"License(name=""Other"")",643,35,22,4,1,0.0,3,0,0,0,0,0.1142
+thumbs.js,https://github.com/mwbrooks/thumbs.js,JavaScript,"License(name=""MIT License"")",323,124,90,3,2,0.0,1,0,0,0,0,0.11156
+x-crack,https://github.com/netxfly/x-crack,Go,,879,38,13,1,1,0.0,1,4,0,0.2,0,0.10951
+Surus,https://github.com/Netflix/Surus,Java,"License(name=""Apache License 2.0"")",436,74,37,3,1,0.0,0,0,0,0,2,0.10868
+VoxelHashing,https://github.com/niessner/VoxelHashing,C++,"License(name=""Other"")",439,81,41,3,1,0.0,0,0,0,0,2,0.10842
+WaveSideBar,https://github.com/nanchen2251/WaveSideBar,Java,,263,50,8,1,1,0.0,1,0,0,0,0,0.10808
+dial2verify-twilio,https://github.com/natsu90/dial2verify-twilio,PHP,,431,58,9,2,1,0.0,0,0,0,0,0,0.1079
+MWFeedParser,https://github.com/mwaterfall/MWFeedParser,Objective-C,"License(name=""Other"")",2287,130,83,2,1,0.0,0,0,0,0,5,0.10544
+iOS-Awesome-Starter-Kit,https://github.com/NghiaTranUIT/iOS-Awesome-Starter-Kit,Swift,,593,50,47,2,2,0.0,0,0,0,0,2,0.10544
+zget,https://github.com/nils-werner/zget,Python,"License(name=""MIT License"")",461,73,43,3,1,0.0,2,0,0,0,0,0.10467
+biobert-pretrained,https://github.com/naver/biobert-pretrained,,,454,25,13,2,1,0.0,2,1,0,0.0,0,0.10394
+ninghao_flutter,https://github.com/ninghao/ninghao_flutter,Dart,,378,30,15,1,1,0.0,0,1,0,1.0,0,0.10358
+adapt,https://github.com/nathansmith/adapt,CSS,,842,119,82,2,1,0.0,0,1,1,0.0,2,0.10267
+WHC_ModelSqliteKit,https://github.com/netyouli/WHC_ModelSqliteKit,Objective-C,"License(name=""MIT License"")",594,57,8,1,0,0.0,5,1,0,0.0,0,0.10162
+bankcardinfo,https://github.com/navyxie/bankcardinfo,JavaScript,,467,70,8,3,0,0.0,1,0,0,0,0,0.10134
+DriverBuddy,https://github.com/nccgroup/DriverBuddy,Python,"License(name=""MIT License"")",258,53,27,5,1,0.0,0,0,0,0,0,0.09962
+Android-LockScreenSample-DisableHomeButtonKey,https://github.com/mynerdd/Android-LockScreenSample-DisableHomeButtonKey,Java,"License(name=""Apache License 2.0"")",446,69,37,5,1,0.0,0,0,0,0,0,0.09849
+android-yolo,https://github.com/natanielruiz/android-yolo,C++,"License(name=""Apache License 2.0"")",602,51,40,3,2,0.0,0,0,0,0,0,0.09803
+aws-autoscaling,https://github.com/Netflix/aws-autoscaling,Shell,,419,110,63,2,2,0.0,0,0,0,0,0,0.09776
+SoundManager,https://github.com/nicklockwood/SoundManager,Objective-C,"License(name=""Other"")",634,120,77,3,1,0.0,1,0,0,0,0,0.09545
+longflow-manifesto,https://github.com/Nax/longflow-manifesto,,"License(name=""MIT License"")",643,50,49,8,1,0.0,0,0,0,0,0,0.09519
+BankCardUtils,https://github.com/nanchen2251/BankCardUtils,Java,,866,39,18,2,1,0.0,1,0,0,0,0,0.09499
+shared-text-styles,https://github.com/nilshoenson/shared-text-styles,,"License(name=""MIT License"")",336,54,27,5,0,0.0,4,0,0,0,0,0.09478
+Emojix,https://github.com/nekocode/Emojix,Java,"License(name=""Apache License 2.0"")",585,55,14,4,0,0.0,1,1,0,0.0,0,0.09393
+WPForce,https://github.com/n00py/WPForce,Python,"License(name=""BSD 2-Clause ""Simplified"" License"")",620,59,31,4,1,0.0,0,0,0,0,0,0.09389
+PyCNC,https://github.com/Nikolay-Kha/PyCNC,Python,"License(name=""MIT License"")",379,45,36,1,1,0.0,0,2,0,0.0,3,0.09094
+UnitySocketIO,https://github.com/NetEase/UnitySocketIO,C#,,814,98,82,5,1,0.0,0,0,0,0,0,0.08783
+jellyreader,https://github.com/NimbusBase/jellyreader,CSS,,247,86,80,2,2,0.0,0,0,0,0,0,0.086
+recyclerviewhelper,https://github.com/nisrulz/recyclerviewhelper,Java,"License(name=""Apache License 2.0"")",643,60,8,1,0,0.2,1,0,0,0,0,0.08157
+StudyForAndroid,https://github.com/nanchen2251/StudyForAndroid,Java,,631,48,35,1,1,0.0,0,0,0,0,2,0.08042
+appolo,https://github.com/nicnocquee/appolo,CSS,"License(name=""MIT License"")",418,62,61,4,1,0.0,0,0,0,0,0,0.07886
+Stitch,https://github.com/nathanlopez/Stitch,Python,"License(name=""Other"")",1755,50,48,3,1,0.0,0,1,0,0.0,0,0.07807
+LZEasemob3,https://github.com/nacker/LZEasemob3,Objective-C,"License(name=""Apache License 2.0"")",1788,55,46,4,0,0.0,0,0,0,0,4,0.07762
+react-native-sudoku,https://github.com/nihgwu/react-native-sudoku,JavaScript,"License(name=""MIT License"")",601,55,52,1,0,0.0,1,2,2,1.0,0,0.07746
+CoCoin,https://github.com/Nightonke/CoCoin,Java,,2705,64,57,1,0,0.0,0,2,0,2.0,0,0.07615
+Office-Code-Pro,https://github.com/nathco/Office-Code-Pro,,"License(name=""Other"")",2201,71,69,1,0,0.0,0,0,0,0,22,0.07606
+HideOnScrollExample,https://github.com/mzgreen/HideOnScrollExample,Java,,626,73,68,2,0,0.0,0,0,0,0,10,0.07506
+aws-inventory,https://github.com/nccgroup/aws-inventory,Python,"License(name=""Apache License 2.0"")",443,33,30,1,0,0.0,1,3,0,1.0,0,0.07277
+yelp-camp-refactored,https://github.com/nax3t/yelp-camp-refactored,JavaScript,,322,48,31,1,0,0.0,0,0,0,0,10,0.0726
+DBShield,https://github.com/nim4/DBShield,Go,"License(name=""MIT License"")",619,53,41,1,1,0.0,1,0,0,0,0,0.07169
+nlptutorial,https://github.com/neubig/nlptutorial,Perl,,393,81,64,2,1,0.0,0,0,0,0,0,0.07006
+node-imessage,https://github.com/nicola/node-imessage,JavaScript,,427,76,38,1,1,0.0,0,0,0,0,0,0.06984
+RxJava2Examples,https://github.com/nanchen2251/RxJava2Examples,Java,,2827,44,23,1,1,0.0,0,0,0,0,0,0.06858
+matcaps,https://github.com/nidorx/matcaps,JavaScript,,513,14,10,1,0,0.0,1,0,0,0,4,0.06799
+passive_scan,https://github.com/netxfly/passive_scan,Python,,290,68,59,2,1,0.0,0,0,0,0,0,0.06779
+AnimatorDurationTile,https://github.com/nickbutcher/AnimatorDurationTile,Java,"License(name=""Apache License 2.0"")",1376,53,50,2,1,0.0,0,0,0,0,0,0.06576
+Theano-Tutorials,https://github.com/Newmu/Theano-Tutorials,Python,"License(name=""MIT License"")",1232,77,73,2,1,0.0,0,0,0,0,0,0.06565
+REST-API-Design-Guide,https://github.com/NationalBankBelgium/REST-API-Design-Guide,,"License(name=""Other"")",630,52,31,1,1,0.0,0,0,0,0,0,0.06553
+iOS7-Trans-Blur,https://github.com/NickTitle/iOS7-Trans-Blur,Objective-C,,290,93,90,2,1,0.0,0,0,0,0,0,0.06515
+AnimationsPlayground,https://github.com/mwajeeh/AnimationsPlayground,Java,,629,46,45,2,1,0.0,0,0,0,0,0,0.06488
+AutoLocalPrivilegeEscalation,https://github.com/ngalongc/AutoLocalPrivilegeEscalation,Python,,449,59,58,2,1,0.0,0,0,0,0,0,0.06477
+GAJavaScript,https://github.com/newyankeecodeshop/GAJavaScript,Objective-C,,422,125,90,7,0,0.0,0,0,0,0,0,0.06443
+LightGBM-GBDT-LR,https://github.com/neal668/LightGBM-GBDT-LR,Python,,273,48,31,1,0,0.0,0,1,0,1.0,0,0.0638
+ClipMenu,https://github.com/naotaka/ClipMenu,Objective-C,"License(name=""Other"")",815,84,77,1,0,0.0,0,2,0,1.0,0,0.05826
+SCU,https://github.com/neolee/SCU,C++,,586,99,84,1,1,0.0,0,0,0,0,0,0.05714
+bootOS,https://github.com/nanochess/bootOS,Assembly,"License(name=""BSD 2-Clause ""Simplified"" License"")",1218,18,8,3,0,0.0,0,0,0,0,0,0.05663
+nothing-to-hide,https://github.com/ncase/nothing-to-hide,JavaScript,"License(name=""Creative Commons Zero v1.0 Universal"")",761,87,41,3,0,0.0,0,0,0,0,0,0.05644
+FantasySlide,https://github.com/mzule/FantasySlide,Java,"License(name=""Apache License 2.0"")",1420,54,48,1,1,0.0,0,0,0,0,0,0.05599
+materialish-progress,https://github.com/nico2sh/materialish-progress,Java,"License(name=""Apache License 2.0"")",2473,76,62,5,0,0.0,0,0,0,0,0,0.05442
+webdevbootcamp,https://github.com/nax3t/webdevbootcamp,HTML,,1860,51,51,1,0,0.0,0,1,0,1.0,0,0.05335
+harmony,https://github.com/mynyml/harmony,Ruby,"License(name=""MIT License"")",451,134,129,3,0,0.0,1,0,0,0,0,0.05067
+android-calendar-view,https://github.com/myjoybar/android-calendar-view,Java,,426,54,26,2,0,0.0,0,0,0,0,0,0.0478
+LazierTracker,https://github.com/nailperry-zd/LazierTracker,Java,,484,48,35,3,0,0.0,0,0,0,0,0,0.04586
+Ti_Collector,https://github.com/NewBee119/Ti_Collector,Python,,246,40,40,3,0,0.0,0,0,0,0,0,0.0383
+WoWoViewPager,https://github.com/Nightonke/WoWoViewPager,Java,,2732,60,47,2,0,0.0,0,0,0,0,0,0.03623
+Murmur,https://github.com/nekocode/Murmur,Kotlin,"License(name=""Apache License 2.0"")",453,66,33,1,0,0.0,0,0,0,0,0,0.03579
+CircleProgress,https://github.com/MyLifeMyTravel/CircleProgress,Java,,573,48,25,1,0,0.0,0,0,0,0,0,0.03469
+chplayer,https://github.com/niandeng-ckplayer/chplayer,JavaScript,"License(name=""Mozilla Public License 2.0"")",250,46,42,2,0,0.0,0,0,0,0,0,0.03253
+VisualProgrammingLanguage,https://github.com/NathanFlurry/VisualProgrammingLanguage,Swift,"License(name=""MIT License"")",1137,35,32,2,0,0.0,0,0,0,0,0,0.03248
+DividerDrawable,https://github.com/nekocode/DividerDrawable,Java,"License(name=""Apache License 2.0"")",464,45,45,1,0,0.0,1,0,0,0,0,0.03152
+MYLStockChartDemo,https://github.com/myl9361/MYLStockChartDemo,Objective-C,,263,42,42,2,0,0.0,0,0,0,0,0,0.03035
+go-shellcode,https://github.com/Ne0nd0g/go-shellcode,Go,"License(name=""GNU General Public License v3.0"")",273,11,8,1,0,0.2,0,0,0,0,0,0.02931
+MusicVisualization,https://github.com/nekocode/MusicVisualization,Java,"License(name=""Apache License 2.0"")",452,37,25,1,0,0.0,0,0,0,0,0,0.02846
+Beautyacticle,https://github.com/NicodeLee/Beautyacticle,Java,,376,72,56,1,0,0.0,0,0,0,0,0,0.02522
+vue2-shop,https://github.com/nemo-tree/vue2-shop,Vue,,618,41,32,1,0,0.0,0,0,0,0,0,0.02506
+photo-edit,https://github.com/nimoat/photo-edit,JavaScript,,290,32,31,1,0,0.0,0,1,0,0.0,0,0.02469
+FabFilter,https://github.com/nikhilpanju/FabFilter,Kotlin,,1305,14,12,1,0,0.0,0,0,0,0,0,0.02266
+private-project,https://github.com/neroneroffy/private-project,JavaScript,,440,39,37,1,0,0.0,0,0,0,0,0,0.02041
+CVE-2019-0708,https://github.com/n1xbyte/CVE-2019-0708,Python,,467,21,20,1,0,0.0,0,0,0,0,0,0.02029
