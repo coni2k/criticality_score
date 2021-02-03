@@ -1,0 +1,483 @@
+INFO:root:
+Processing repos...
+INFO:root:1 - respimage - https://github.com/aFarkas/respimage - 0.21835
+ERROR:root:Exception occurred when reading repo: https://github.com/ascoders/blog
+'created_since'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'created_since'
+ERROR:root:Exception occurred when reading repo: https://github.com/ascoders/blog
+'created_since'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'created_since'
+ERROR:root:Exception occurred when reading repo: https://github.com/ascoders/blog
+'created_since'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'created_since'
+INFO:root:2 - respimage - https://github.com/aFarkas/respimage - 0.21835
+ERROR:root:Exception occurred when reading repo: https://github.com/Asoul/tsec
+'commit_frequency'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'commit_frequency'
+ERROR:root:Exception occurred when reading repo: https://github.com/Asoul/tsec
+'commit_frequency'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'commit_frequency'
+ERROR:root:Exception occurred when reading repo: https://github.com/Asoul/tsec
+'commit_frequency'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'commit_frequency'
+INFO:root:3 - respimage - https://github.com/aFarkas/respimage - 0.21835
+ERROR:root:Exception occurred when reading repo: https://github.com/bigdongdongCLUB/newGCP
+'created_since'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'created_since'
+ERROR:root:Exception occurred when reading repo: https://github.com/bigdongdongCLUB/newGCP
+'created_since'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'created_since'
+ERROR:root:Exception occurred when reading repo: https://github.com/bigdongdongCLUB/newGCP
+'created_since'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'created_since'
+INFO:root:4 - respimage - https://github.com/aFarkas/respimage - 0.21835
+INFO:root:5 - ajour - https://github.com/ajour/ajour - 0.48787
+INFO:root:6 - jamulus - https://github.com/jamulussoftware/jamulus - 0.55296
+INFO:root:7 - amis-editor-demo - https://github.com/aisuda/amis-editor-demo - 0.24399
+ERROR:root:Exception occurred when reading repo: https://github.com/google/mozc
+'commit_frequency'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'commit_frequency'
+ERROR:root:Exception occurred when reading repo: https://github.com/google/mozc
+'commit_frequency'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'commit_frequency'
+ERROR:root:Exception occurred when reading repo: https://github.com/google/mozc
+'commit_frequency'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'commit_frequency'
+INFO:root:8 - amis-editor-demo - https://github.com/aisuda/amis-editor-demo - 0.24399
+ERROR:root:Exception occurred when reading repo: https://github.com/hortonworks/cloudbreak
+'recent_releases_count'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'recent_releases_count'
+ERROR:root:Exception occurred when reading repo: https://github.com/hortonworks/cloudbreak
+'recent_releases_count'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'recent_releases_count'
+ERROR:root:Exception occurred when reading repo: https://github.com/hortonworks/cloudbreak
+'recent_releases_count'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'recent_releases_count'
+INFO:root:9 - amis-editor-demo - https://github.com/aisuda/amis-editor-demo - 0.24399
+ERROR:root:Exception occurred when reading repo: https://github.com/jlippold/tweakCompatible
+'commit_frequency'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'commit_frequency'
+ERROR:root:Exception occurred when reading repo: https://github.com/jlippold/tweakCompatible
+'commit_frequency'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'commit_frequency'
+ERROR:root:Exception occurred when reading repo: https://github.com/jlippold/tweakCompatible
+'commit_frequency'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'commit_frequency'
+INFO:root:10 - amis-editor-demo - https://github.com/aisuda/amis-editor-demo - 0.24399
+ERROR:root:Exception occurred when reading repo: https://github.com/Katee/git-bomb
+'commit_frequency'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'commit_frequency'
+ERROR:root:Exception occurred when reading repo: https://github.com/Katee/git-bomb
+'commit_frequency'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'commit_frequency'
+ERROR:root:Exception occurred when reading repo: https://github.com/Katee/git-bomb
+'commit_frequency'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'commit_frequency'
+INFO:root:11 - amis-editor-demo - https://github.com/aisuda/amis-editor-demo - 0.24399
+ERROR:root:Exception occurred when reading repo: https://github.com/koush/support-wiki
+'created_since'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'created_since'
+ERROR:root:Exception occurred when reading repo: https://github.com/koush/support-wiki
+'created_since'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'created_since'
+ERROR:root:Exception occurred when reading repo: https://github.com/koush/support-wiki
+'created_since'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'created_since'
+INFO:root:12 - amis-editor-demo - https://github.com/aisuda/amis-editor-demo - 0.24399
+INFO:root:13 - JDCouponAssistant - https://github.com/krapnikkk/JDCouponAssistant - 0.1262
+ERROR:root:Exception occurred when reading repo: https://github.com/m4ll0k/Konan
+404 {"message": "Not Found", "documentation_url": "https://docs.github.com/rest/reference/repos#get-a-repository"}
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 165, in main
+    repo = run.get_repository(repo_url)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 561, in get_repository
+    repo = GitHubRepository(get_github_auth_token().get_repo(repo_url))
+  File "C:\Users\Serkan\AppData\Local\Programs\Python\Python39\lib\site-packages\github\MainClass.py", line 345, in get_repo
+    headers, data = self.__requester.requestJsonAndCheck(
+  File "C:\Users\Serkan\AppData\Local\Programs\Python\Python39\lib\site-packages\github\Requester.py", line 315, in requestJsonAndCheck
+    return self.__check(
+  File "C:\Users\Serkan\AppData\Local\Programs\Python\Python39\lib\site-packages\github\Requester.py", line 340, in __check
+    raise self.__createException(status, responseHeaders, output)
+github.GithubException.UnknownObjectException: 404 {"message": "Not Found", "documentation_url": "https://docs.github.com/rest/reference/repos#get-a-repository"}
+ERROR:root:Exception occurred when reading repo: https://github.com/m4ll0k/Konan
+404 {"message": "Not Found", "documentation_url": "https://docs.github.com/rest/reference/repos#get-a-repository"}
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 165, in main
+    repo = run.get_repository(repo_url)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 561, in get_repository
+    repo = GitHubRepository(get_github_auth_token().get_repo(repo_url))
+  File "C:\Users\Serkan\AppData\Local\Programs\Python\Python39\lib\site-packages\github\MainClass.py", line 345, in get_repo
+    headers, data = self.__requester.requestJsonAndCheck(
+  File "C:\Users\Serkan\AppData\Local\Programs\Python\Python39\lib\site-packages\github\Requester.py", line 315, in requestJsonAndCheck
+    return self.__check(
+  File "C:\Users\Serkan\AppData\Local\Programs\Python\Python39\lib\site-packages\github\Requester.py", line 340, in __check
+    raise self.__createException(status, responseHeaders, output)
+github.GithubException.UnknownObjectException: 404 {"message": "Not Found", "documentation_url": "https://docs.github.com/rest/reference/repos#get-a-repository"}
+ERROR:root:Exception occurred when reading repo: https://github.com/m4ll0k/Konan
+404 {"message": "Not Found", "documentation_url": "https://docs.github.com/rest/reference/repos#get-a-repository"}
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 165, in main
+    repo = run.get_repository(repo_url)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 561, in get_repository
+    repo = GitHubRepository(get_github_auth_token().get_repo(repo_url))
+  File "C:\Users\Serkan\AppData\Local\Programs\Python\Python39\lib\site-packages\github\MainClass.py", line 345, in get_repo
+    headers, data = self.__requester.requestJsonAndCheck(
+  File "C:\Users\Serkan\AppData\Local\Programs\Python\Python39\lib\site-packages\github\Requester.py", line 315, in requestJsonAndCheck
+    return self.__check(
+  File "C:\Users\Serkan\AppData\Local\Programs\Python\Python39\lib\site-packages\github\Requester.py", line 340, in __check
+    raise self.__createException(status, responseHeaders, output)
+github.GithubException.UnknownObjectException: 404 {"message": "Not Found", "documentation_url": "https://docs.github.com/rest/reference/repos#get-a-repository"}
+INFO:root:14 - JDCouponAssistant - https://github.com/krapnikkk/JDCouponAssistant - 0.1262
+ERROR:root:Exception occurred when reading repo: https://github.com/mandatoryprogrammer/TLDR
+'commit_frequency'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'commit_frequency'
+ERROR:root:Exception occurred when reading repo: https://github.com/mandatoryprogrammer/TLDR
+'commit_frequency'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'commit_frequency'
+ERROR:root:Exception occurred when reading repo: https://github.com/mandatoryprogrammer/TLDR
+'commit_frequency'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'commit_frequency'
+INFO:root:15 - JDCouponAssistant - https://github.com/krapnikkk/JDCouponAssistant - 0.1262
+ERROR:root:Exception occurred when reading repo: https://github.com/mariobehling/ai-packages
+'created_since'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'created_since'
+ERROR:root:Exception occurred when reading repo: https://github.com/mariobehling/ai-packages
+'created_since'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'created_since'
+ERROR:root:Exception occurred when reading repo: https://github.com/mariobehling/ai-packages
+'created_since'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'created_since'
+INFO:root:16 - JDCouponAssistant - https://github.com/krapnikkk/JDCouponAssistant - 0.1262
+ERROR:root:Exception occurred when reading repo: https://github.com/mariobehling/mb-sandbox
+'created_since'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'created_since'
+ERROR:root:Exception occurred when reading repo: https://github.com/mariobehling/mb-sandbox
+'created_since'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'created_since'
+ERROR:root:Exception occurred when reading repo: https://github.com/mariobehling/mb-sandbox
+'created_since'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'created_since'
+INFO:root:17 - JDCouponAssistant - https://github.com/krapnikkk/JDCouponAssistant - 0.1262
+ERROR:root:Exception occurred when reading repo: https://github.com/meilix/meilix-docs
+'created_since'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'created_since'
+ERROR:root:Exception occurred when reading repo: https://github.com/meilix/meilix-docs
+'created_since'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'created_since'
+ERROR:root:Exception occurred when reading repo: https://github.com/meilix/meilix-docs
+'created_since'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'created_since'
+INFO:root:18 - JDCouponAssistant - https://github.com/krapnikkk/JDCouponAssistant - 0.1262
+INFO:root:19 - Multiverso - https://github.com/microsoft/Multiverso - 0.30806
+ERROR:root:Exception occurred when reading repo: https://github.com/paulirish/devtools-addons
+'created_since'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'created_since'
+ERROR:root:Exception occurred when reading repo: https://github.com/paulirish/devtools-addons
+'created_since'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'created_since'
+ERROR:root:Exception occurred when reading repo: https://github.com/paulirish/devtools-addons
+'created_since'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'created_since'
+INFO:root:20 - Multiverso - https://github.com/microsoft/Multiverso - 0.30806
+INFO:root:21 - cracking-the-data-science-interview - https://github.com/chaoticbookclub/cracking-the-data-science-interview - 0.03575
+ERROR:root:Exception occurred when reading repo: https://github.com/QingDaoIT/BlackList
+'created_since'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'created_since'
+ERROR:root:Exception occurred when reading repo: https://github.com/QingDaoIT/BlackList
+'created_since'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'created_since'
+ERROR:root:Exception occurred when reading repo: https://github.com/QingDaoIT/BlackList
+'created_since'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'created_since'
+INFO:root:22 - cracking-the-data-science-interview - https://github.com/chaoticbookclub/cracking-the-data-science-interview - 0.03575
+ERROR:root:Exception occurred when reading repo: https://github.com/stevenliuyi/covid19
+'commit_frequency'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'commit_frequency'
+ERROR:root:Exception occurred when reading repo: https://github.com/stevenliuyi/covid19
+'commit_frequency'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'commit_frequency'
+ERROR:root:Exception occurred when reading repo: https://github.com/stevenliuyi/covid19
+'commit_frequency'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'commit_frequency'
+INFO:root:23 - cracking-the-data-science-interview - https://github.com/chaoticbookclub/cracking-the-data-science-interview - 0.03575
+INFO:root:24 - CPP-17-STL-cookbook - https://github.com/xiaoweiChen/CPP-17-STL-cookbook - 0.21966
+ERROR:root:Exception occurred when reading repo: https://github.com/zapret-info/z-i
+'commit_frequency'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'commit_frequency'
+ERROR:root:Exception occurred when reading repo: https://github.com/zapret-info/z-i
+'commit_frequency'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'commit_frequency'
+ERROR:root:Exception occurred when reading repo: https://github.com/zapret-info/z-i
+'commit_frequency'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'commit_frequency'
+INFO:root:25 - CPP-17-STL-cookbook - https://github.com/xiaoweiChen/CPP-17-STL-cookbook - 0.21966
+ERROR:root:Exception occurred when reading repo: https://github.com/zhengzhouqiuzhi/zhengzhouqiuzhi
+'created_since'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'created_since'
+ERROR:root:Exception occurred when reading repo: https://github.com/zhengzhouqiuzhi/zhengzhouqiuzhi
+'created_since'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'created_since'
+ERROR:root:Exception occurred when reading repo: https://github.com/zhengzhouqiuzhi/zhengzhouqiuzhi
+'created_since'
+Traceback (most recent call last):
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\generate.py", line 166, in main
+    output = run.get_repository_stats(repo)
+  File "D:\Development\Projects\Github\coni2k\criticality_score\criticality_score\run.py", line 459, in get_repository_stats
+    result_dict[param] = return_dict[param]
+KeyError: 'created_since'
+INFO:root:26 - CPP-17-STL-cookbook - https://github.com/xiaoweiChen/CPP-17-STL-cookbook - 0.21966
+INFO:root:27 - smart-show - https://github.com/zhiqiang-series/smart-show - 0.31136
+INFO:root:
+Wrote results: output\all_top_30.csv
+INFO:root:2021-02-03 09:19:23.829444
+INFO:root:629.5245545333333
