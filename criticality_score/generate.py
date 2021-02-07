@@ -18,7 +18,6 @@ import csv
 import datetime
 import logging
 import os
-import sys
 import time
 
 from .constants import *  # pylint: disable=wildcard-import
@@ -39,11 +38,11 @@ LANGUAGE_SEARCH_MAP = {
     'rust': ['Rust'],
     'shell': ['Shell'],
 }
-IGNORED_KEYWORDS = ['course', 'docs', 'interview', 'tutorial']
+IGNORED_KEYWORDS = ['docs', 'interview', 'tutorial']
 
 def get_github_repo_urls(sample_size, languages):
     urls = []
-    if (languages):
+    if languages:
         for lang in languages:
             lang = lang.lower()
             for github_lang in LANGUAGE_SEARCH_MAP.get(lang, lang):
@@ -114,7 +113,7 @@ def initialize_logging_handlers(output_dir):
 
     console = logging.StreamHandler()
     console.setLevel(logging.INFO)
-    logging.getLogger('').addHandler(console)    
+    logging.getLogger('').addHandler(console)
 
 def main():
     start_time = datetime.datetime.now()
@@ -164,6 +163,9 @@ def main():
         for _ in range(3):
             try:
                 repo = run.get_repository(repo_url)
+                if not repo:
+                    logger.error(f'Repo not found: {repo_url}')
+                    break
                 output = run.get_repository_stats(repo)
                 break
             except Exception as exp:
