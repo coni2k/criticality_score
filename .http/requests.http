@@ -1,0 +1,12 @@
+@owner = kubernetes
+@repo = kubernetes
+
+###
+GET https://api.github.com/repos/{{owner}}/{{repo}}/stats/commit_activity
+Accept: application/vnd.github.v3+json
+Authorization: token {{$dotenv token}}
+
+###
+GET https://api.github.com/repos/{{owner}}/{{repo}}/tags
+Accept: application/vnd.github.v3+json
+Authorization: token {{$dotenv token}}
